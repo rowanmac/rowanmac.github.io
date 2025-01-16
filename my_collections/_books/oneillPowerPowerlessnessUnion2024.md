@@ -24,6 +24,7 @@ authors: Ciaran O'Neill
 bibliography: "O\u2019Neill, Ciaran. _Power and Powerlessness in Union Ireland: Life\
   \ in a Palliative State_. OUP Oxford, 2024."
 citekey: oneillPowerPowerlessnessUnion2024
+collection: '202412'
 date: 2024-12-19
 extra: ''
 layout: page

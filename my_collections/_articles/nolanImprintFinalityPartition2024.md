@@ -15,6 +15,7 @@ authors: Paul Nolan
 bibliography: "Nolan, Paul. \u2018The Imprint of Finality? Partition and Census Enumeration\u2019\
   . _Irish Studies in International Affairs_ 35, no. 2 (2024): 23\u201355."
 citekey: nolanImprintFinalityPartition2024
+collection: '202412'
 date: 2024-01-01
 extra: ''
 issue: '2'

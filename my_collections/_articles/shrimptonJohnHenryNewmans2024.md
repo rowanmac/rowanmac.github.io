@@ -5,6 +5,7 @@ bibliography: "Shrimpton, Paul. \u2018John Henry Newman\u2019s \u201CCampaign in
   : The Academic and Pastoral Vision of the Catholic University\u2019. _Studies: An\
   \ Irish Quarterly Review_ 113, no. 452 (2024): 539\u201356."
 citekey: shrimptonJohnHenryNewmans2024
+collection: '202412'
 date: 2024-01-01
 extra: ''
 issue: '452'

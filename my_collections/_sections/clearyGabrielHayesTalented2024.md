@@ -7,6 +7,7 @@ bibliography: "Cleary, Rose M. \u2018Gabriel Hayes: A Talented Icon in Mid-Twent
   \ Ltd, 2024."
 bookTitle: 'Limestone and River: Essays on Limerick History in Honour of Liam Irwin'
 citekey: clearyGabrielHayesTalented2024
+collection: '202412'
 date: 2024-12-13
 editors: Brian Hodkinson, Catherine Swift
 extra: '2'

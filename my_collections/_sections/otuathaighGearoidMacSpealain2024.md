@@ -7,6 +7,7 @@ bibliography: "\xD3 Tuathaigh, Gear\xF3id. \u2018Gear\xF3id Mac Speal\xE1in, 190
   \ Four Courts Press Ltd, 2024."
 bookTitle: 'Limestone and River: Essays on Limerick History in Honour of Liam Irwin'
 citekey: otuathaighGearoidMacSpealain2024
+collection: '202412'
 date: 2024-12-13
 editors: Brian Hodkinson, Catherine Swift
 extra: '3'

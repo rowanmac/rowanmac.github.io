@@ -5,6 +5,7 @@ bibliography: "Hutton-Williams, Francis. \u2018A Review of Irish Culture and _\u
   The People\u201D: Populism and Its Discontents_ by Seamus O\u2019Malley\u2019. _International\
   \ Yeats Studies_ 8, no. 1 (12 December 2024). [https://open.clemson.edu/iys/vol8/iss1/9](https://open.clemson.edu/iys/vol8/iss1/9)."
 citekey: hutton-williamsReviewIrishCulture2024
+collection: '202412'
 date: 2024-12-12
 extra: review
 issue: '1'

@@ -10,6 +10,7 @@ bibliography: "Snape, Michael. \u2018Nicholas Schofield, Victorian Crusaders: Br
   \ Pp. Xv + 205, \xA329.95, ISBN: 978-1-915070-53-1\u2019. _British Catholic History_\
   \ 37, no. 1 (May 2024): 67\u201369. [https://doi.org/10.1017/bch.2024.8](https://doi.org/10.1017/bch.2024.8)."
 citekey: snapeNicholasSchofieldVictorian2024
+collection: '202412'
 date: 2024-05-01
 extra: review
 issue: '1'

@@ -15,6 +15,7 @@ authors: "Neil J. Cummins, Cormac \xD3 Gr\xE1da"
 bibliography: "Cummins, Neil J., and Cormac \xD3 Gr\xE1da. \u2018The Irish in England\u2019\
   . _The Journal of Economic History_, 27 December 2024, 1\u201335. [https://doi.org/10.1017/S0022050724000536](https://doi.org/10.1017/S0022050724000536)."
 citekey: cumminsIrishEngland2024
+collection: '202412'
 date: 2024-12-27
 extra: ''
 layout: page

@@ -3,6 +3,8 @@ import os
 import sys
 import yaml
 
+# A function to import individual pages for published material from obsidian,
+# extract their YAML data and put them in the correct directory within the JEKYLL site
 def importBibliography(YYYYMMFilePath, destinationDirectory):
     articleDirectory = destinationDirectory + "/_articles/"
     bookDirectory = destinationDirectory + "/_books/"

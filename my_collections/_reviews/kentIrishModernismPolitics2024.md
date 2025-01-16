@@ -5,6 +5,7 @@ bibliography: "Kent, Brad. \u2018Irish Modernism and the Politics of Sexual Heal
   \ by Lloyd (Meadhbh) Houston (Review)\u2019. _Modernism/Modernity_ 31, no. 2 (2024):\
   \ 382\u201383."
 citekey: kentIrishModernismPolitics2024
+collection: '202412'
 date: 2024-01-01
 extra: review
 issue: '2'
