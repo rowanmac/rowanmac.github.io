@@ -3,7 +3,7 @@ import os
 import sys
 import yaml
 import re
-
+import sys 
 # A function to import individual pages for published material from obsidian,
 # extract their YAML data and put them in the correct directory within the JEKYLL site
 def importBibliography(YYYYMMFilePath, destinationDirectory):
@@ -12,11 +12,12 @@ def importBibliography(YYYYMMFilePath, destinationDirectory):
     reviewDirectory = destinationDirectory + "/_reviews/"
     sectionDirectory = destinationDirectory + "/_sections/"
 
-
     # List all files in the directory
     workingFiles = []
     if os.path.isdir(YYYYMMFilePath):
         for filename in os.listdir(YYYYMMFilePath):
+            if filename == ".DS_Store":
+                continue
             file_path = os.path.join(YYYYMMFilePath, filename)
             if os.path.isfile(file_path):
                 workingFiles.append(file_path)
@@ -25,16 +26,18 @@ def importBibliography(YYYYMMFilePath, destinationDirectory):
 
     for file in workingFiles:
         with open(file) as f:
-            metadata, content = frontmatter.parse(f.read())
-
-        # Ensure 'extra' key exists
-        try:
-            metadata["extra"]
-        except KeyError:
-            metadata["extra"] = ""
+            content = f.read()
+            try:
+                # Extract YAML front matter
+                yaml_content = re.search(r'^---\s*\n(.*?)\n---\s*\n', content, re.DOTALL).group(1)
+                metadata = yaml.safe_load(yaml_content)
+                content = re.sub(r'^---\s*\n(.*?)\n---\s*\n', '', content, flags=re.DOTALL)
+            except Exception as e:
+                print(f"Error parsing YAML in file {file}: {e}")
+                continue            
 
         # Determine the file type
-        fileType = metadata["type"]
+        fileType = metadata.get("type", "")
         if fileType == "journalArticle" and metadata["extra"] == "review":
             destinationDirectory = reviewDirectory
         elif fileType == "journalArticle":

@@ -5,8 +5,9 @@ bibliography: "Donovan, Tom. \u2018A Unique Per-Famine Record of Women Workers i
   \ the Limerick Linen Industry\u2019. In _Limestone and River: Essays on Limerick\
   \ History in Honour of Liam Irwin_, edited by Brian Hodkinson and Catherine Swift.\
   \ Four Courts Press Ltd, 2024."
+bookCiteKey: hodkinsonLimestoneRiverEssays2024
 bookTitle: 'Limestone and River: Essays on Limerick History in Honour of Liam Irwin'
-category: '202412'
+category: 202412
 citekey: donovanUniquePerFamineRecord2024
 date: 2024-12-13
 editors: Brian Hodkinson, Catherine Swift

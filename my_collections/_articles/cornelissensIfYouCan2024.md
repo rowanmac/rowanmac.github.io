@@ -21,7 +21,7 @@ authors: Nusi Cornelissens, Matthew Milliken
 bibliography: "Cornelissens, Nusi, and Matthew Milliken. \u2018\u201CIf You Can, You\
   \ Should\u201D: Dutch Community Holidays During the Troubles\u2019. _Irish Studies\
   \ in International Affairs_, December 2024. [https://doi.org/10.1353/isia.0.a948230](https://doi.org/10.1353/isia.0.a948230)."
-category: null
+category: 202412
 citekey: cornelissensIfYouCan2024
 date: 2024-12-01
 externalUrl: https://muse.jhu.edu/article/948230

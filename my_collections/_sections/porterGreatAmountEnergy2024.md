@@ -5,8 +5,9 @@ bibliography: "Porter, Matthew. \u2018\u201CA Great Amount of Energy, Activity a
   \ Practical Business Habits\u201D: Robert Potter MP, c.1803-54\u2019. In _Limestone\
   \ and River: Essays on Limerick History in Honour of Liam Irwin_, edited by Brian\
   \ Hodkinson and Catherine Swift. Four Courts Press Ltd, 2024."
+bookCiteKey: hodkinsonLimestoneRiverEssays2024
 bookTitle: 'Limestone and River: Essays on Limerick History in Honour of Liam Irwin'
-category: '202412'
+category: 202412
 citekey: porterGreatAmountEnergy2024
 date: 2024-12-13
 editors: Brian Hodkinson, Catherine Swift

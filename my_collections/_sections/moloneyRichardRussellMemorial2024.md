@@ -4,8 +4,9 @@ authors: Tadhg Moloney
 bibliography: "Moloney, Tadhg. \u2018The Richard Russell Memorial Park\u2019. In _Limestone\
   \ and River: Essays on Limerick History in Honour of Liam Irwin_, edited by Brian\
   \ Hodkinson and Catherine Swift. Four Courts Press Ltd, 2024."
+bookCiteKey: hodkinsonLimestoneRiverEssays2024
 bookTitle: 'Limestone and River: Essays on Limerick History in Honour of Liam Irwin'
-category: '202412'
+category: 202412
 citekey: moloneyRichardRussellMemorial2024
 date: 2024-12-13
 editors: Brian Hodkinson, Catherine Swift

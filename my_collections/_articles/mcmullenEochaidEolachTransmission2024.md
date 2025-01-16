@@ -4,11 +4,11 @@ ISSN: 2009-0056
 abstractNote: "Following recent work that has begun to reassess previously held views\
   \ about the recensions of Dinds.enchas \xC9renn, this article examines the authorship\
   \ and transmission history of the dinds.enchas of Loch Garman, which exists in two\
-  \ prose versions and one verse composition. We first argue that the verse dind\u2011\
-  \ s.hencas of Loch Garman is the product of a single author, Eochaid \xC9olach \xFA\
-  a C\xE9ir\xEDn, refuting Tom\xE1s \xD3 Concheanainn\u2019s assertion that Eochaid\
-  \ composed only the second half of the poem. We then examine the individual versions\
-  \ of the dinds.enchas of Loch Garman to posit a new relative chronology, with potential\
+  \ prose versions and one verse composition. We first argue that the verse dinds.hencas\
+  \ of Loch Garman is the product of a single author, Eochaid \xC9olach \xFAa C\xE9\
+  ir\xEDn, refuting Tom\xE1s \xD3 Concheanainn\u2019s assertion that Eochaid composed\
+  \ only the second half of the poem. We then examine the individual versions of the\
+  \ dinds.enchas of Loch Garman to posit a new relative chronology, with potential\
   \ ramifications for an understanding of the recensions of the Dinds.enchas."
 authors: A. Joseph Mcmullen, Gregory R. Darwin
 bibliography: "Mcmullen, A. Joseph, and Gregory R. Darwin. \u2018Eochaid \xC9olach\
