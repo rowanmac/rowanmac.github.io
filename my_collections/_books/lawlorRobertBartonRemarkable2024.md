@@ -15,8 +15,8 @@ abstractNote: "Robert Childers Barton was one of the most enigmatic figures to e
 authors: Chris Lawlor
 bibliography: 'Lawlor, Chris. _Robert Barton: A Remarkable Revolutionary_. The History
   Press, 2024.'
+category: '202412'
 citekey: lawlorRobertBartonRemarkable2024
-collection: '202412'
 date: 2024-12-05
 extra: ''
 layout: page

@@ -14,9 +14,10 @@ abstractNote: "We use the universe of probate and vital registers from England b
 authors: "Neil J. Cummins, Cormac \xD3 Gr\xE1da"
 bibliography: "Cummins, Neil J., and Cormac \xD3 Gr\xE1da. \u2018The Irish in England\u2019\
   . _The Journal of Economic History_, 27 December 2024, 1\u201335. [https://doi.org/10.1017/S0022050724000536](https://doi.org/10.1017/S0022050724000536)."
+category: '202412'
 citekey: cumminsIrishEngland2024
-collection: '202412'
 date: 2024-12-27
+externalUrl: https://www.cambridge.org/core/journals/journal-of-economic-history/article/irish-in-england/A0721C46A2F8B0C3B3839FD017C27BCB?utm_source=SFMC&utm_medium=email&utm_content=Article&utm_campaign=New%20Cambridge%20Alert%20-%20Articles&WT.mc_id=New%20Cambridge%20Alert%20-%20Articles
 extra: ''
 layout: page
 pages: 1-35
@@ -24,5 +25,4 @@ permalink: /cumminsIrishEngland2024
 publication: The Journal of Economic History
 title: The Irish in England
 type: journalArticle
-url: https://www.cambridge.org/core/journals/journal-of-economic-history/article/irish-in-england/A0721C46A2F8B0C3B3839FD017C27BCB?utm_source=SFMC&utm_medium=email&utm_content=Article&utm_campaign=New%20Cambridge%20Alert%20-%20Articles&WT.mc_id=New%20Cambridge%20Alert%20-%20Articles
 ---

@@ -2,6 +2,7 @@ import frontmatter
 import os
 import sys
 import yaml
+import re
 
 # A function to import individual pages for published material from obsidian,
 # extract their YAML data and put them in the correct directory within the JEKYLL site

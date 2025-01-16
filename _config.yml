@@ -52,52 +52,6 @@ collections:
   people:
     output: true
 collections_dir: my_collections
-defaults:
-  -
-    scope:
-      path: "/my_collections/_articles"
-    values:
-      layout: "default"
-  -
-    scope:
-      path: "/my_collections/_books"
-    values:
-      layout: "default"
-  -
-    scope:
-      path: "/my_collections/_journals"
-    values:
-      layout: "default"
-  -
-    scope:
-      path: "/my_collections/_people"
-    values:
-      layout: "default"
-  -
-    scope:
-      path: "/my_collections/_posts"
-    values:
-      layout: "default"
-  -
-    scope:
-      path: "/my_collections/_publishers"
-    values:
-      layout: "default" 
-  -
-    scope:
-      path: "/my_collections/_reviews"
-    values:
-      layout: "default"
-  -
-    scope:
-      path: "/my_collections/_sections"
-    values:
-      layout: "default"
-  -
-    scope:
-      path: "/my_collections/_series"
-    values:
-      layout: "default"
   
 # Exclude from processing.
 # The following items will not be processed, by default.

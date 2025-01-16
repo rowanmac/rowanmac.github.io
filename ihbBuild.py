@@ -1,4 +1,5 @@
 import argparse
+import time
 
 from pythonFunctions.importBibliography import importBibliography
 from pythonFunctions.importIhb import importIhb
@@ -13,14 +14,16 @@ YYYYMM = arg.YYYYMM
 YYYYMMFilePath = "/Users/rowanmacconville/irishHistoryBrief/" + str(YYYYMM) + "/"
 DestinationDirectory = "/Users/rowanmacconville/Projects/rowanmac.github.io/my_collections/"
 
-# Possible method of import .bib file and constructing brief from that
-#bibFilePath = "/Users/rowanmacconville/Projects/rowanmac.github.io/bibFiles/" + str(YYYYMM) + ".bib"
-#importIhb(DestinationDirectory, bibFilePath)
-
 # Import individual bibliography files for published material
-#importBibliography(YYYYMMFilePath, DestinationDirectory)
+startTime = time.time()
+importBibliography(YYYYMMFilePath, DestinationDirectory)
+endTime = time.time()
+print(f"Bibliography imported successfully in {endTime - startTime:.2f} seconds")
 
 # TODO import ancilliary information (people, publishers, etc.)
 
 # Build the dynamic IHB post
-buildDynamicIhb(DestinationDirectory, YYYYMM)
+startTime = time.time()
+# buildDynamicIhb(DestinationDirectory, YYYYMM)
+endTime = time.time()
+print(f"IHB post built successfully in {endTime - startTime:.2f} seconds")

@@ -14,9 +14,10 @@ abstractNote: "The partition of Ireland in 1921 drew heavily on the census data 
 authors: Paul Nolan
 bibliography: "Nolan, Paul. \u2018The Imprint of Finality? Partition and Census Enumeration\u2019\
   . _Irish Studies in International Affairs_ 35, no. 2 (2024): 23\u201355."
+category: '202412'
 citekey: nolanImprintFinalityPartition2024
-collection: '202412'
 date: 2024-01-01
+externalUrl: https://muse.jhu.edu/pub/423/article/921576
 extra: ''
 issue: '2'
 layout: page
@@ -26,6 +27,5 @@ publication: Irish Studies in International Affairs
 shortTitle: The Imprint of Finality?
 title: The Imprint of Finality? Partition and Census Enumeration
 type: journalArticle
-url: https://muse.jhu.edu/pub/423/article/921576
 volume: '35'
 ---
