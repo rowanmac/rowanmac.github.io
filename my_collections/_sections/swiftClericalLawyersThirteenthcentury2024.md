@@ -6,14 +6,15 @@ bibliography: "Swift, Catherine. \u2018Clerical Lawyers in Thirteenth-Century Li
   \ edited by Brian Hodkinson and Catherine Swift. Four Courts Press Ltd, 2024."
 bookCiteKey: hodkinsonLimestoneRiverEssays2024
 bookTitle: 'Limestone and River: Essays on Limerick History in Honour of Liam Irwin'
-category: 202412
+category: 100101
 citekey: swiftClericalLawyersThirteenthcentury2024
 date: 2024-12-13
 editors: Brian Hodkinson, Catherine Swift
-extra: '1'
+extra: 1
 layout: page
 permalink: /swiftClericalLawyersThirteenthcentury2024
 publisher: Four Courts Press Ltd
 title: Clerical lawyers in thirteenth-century Limerick
 type: bookSection
 ---
+{% include sectionPageTemplate.html %}

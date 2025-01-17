@@ -20,9 +20,10 @@ def buildDynamicIhb(destinationDirectory, YYYYMM):
         'title': postTitle,
         'date': f"{briefYear}-{briefMonth}-{briefDay}",
         'categories': 'ihb',
+        'YYYYMM': int(YYYYMM)
     }
     yamlHeader = "---\n" + yaml.dump(yamlHeaderDict) + "---\n"
 
     with open(postFilePath, 'w') as outputFile:
-            outputFile.write(yamlHeader)
+            outputFile.write(yamlHeader + "{% include ihbPostTemplate.html %}")
     return

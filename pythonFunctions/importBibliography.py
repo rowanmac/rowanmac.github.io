@@ -36,16 +36,25 @@ def importBibliography(YYYYMMFilePath, destinationDirectory):
                 print(f"Error parsing YAML in file {file}: {e}")
                 continue            
 
-        # Determine the file type
+        # Determine the file type and check if is review
         fileType = metadata.get("type", "")
-        if fileType == "journalArticle" and metadata["extra"] == "review":
+        if str(metadata["extra"]).split("%%%")[0] == "review":
+            isReview = True
+        else:
+            isReview = False
+  
+        if fileType == "journalArticle" and isReview:
             destinationDirectory = reviewDirectory
+            template = "{% include reviewPageTemplate.html %}"
         elif fileType == "journalArticle":
             destinationDirectory = articleDirectory
+            template = "{% include articlePageTemplate.html %}"
         elif fileType == "book":
             destinationDirectory = bookDirectory
+            template = "{% include bookPageTemplate.html %}"
         elif fileType == "bookSection":
             destinationDirectory = sectionDirectory
+            template = "{% include sectionPageTemplate.html %}"
         else:
             print(f"File type {fileType} not recognised")
             sys.exit()
@@ -56,4 +65,4 @@ def importBibliography(YYYYMMFilePath, destinationDirectory):
         # Create the markdown file
         outputFilePath = os.path.join(destinationDirectory, os.path.basename(file))
         with open(outputFilePath, 'w') as outputFile:
-            outputFile.write(yamlHeader)
+            outputFile.write(yamlHeader + template)

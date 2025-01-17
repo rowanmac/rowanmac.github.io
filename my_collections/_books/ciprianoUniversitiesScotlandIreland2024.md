@@ -27,7 +27,7 @@ abstractNote: Highlights the contested nature of higher education in the British
 authors: Salvatore Cipriano
 bibliography: 'Cipriano, Salvatore. _The Universities of Scotland, Ireland, and New
   England during the British Civil Wars: Contested Seminaries_. Boydell Press, 2024.'
-category: '202412'
+category: 100101
 citekey: ciprianoUniversitiesScotlandIreland2024
 date: 2024-12-17
 extra: ''
@@ -40,3 +40,4 @@ title: 'The Universities of Scotland, Ireland, and New England during the Britis
   Civil Wars: Contested Seminaries'
 type: book
 ---
+{% include bookPageTemplate.html %}

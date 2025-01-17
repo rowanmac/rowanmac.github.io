@@ -21,7 +21,7 @@ authors: Brian Casey
 bibliography: "Casey, Brian. \u2018The Franciscan Missionaries of the Divine Motherhood\
   \ and the Provision of Healthcare in Provincial Ireland, 1942\u20131970\u2019. _The\
   \ Historical Journal_, 3 December 2024, 1\u201321. [https://doi.org/10.1017/S0018246X24000554](https://doi.org/10.1017/S0018246X24000554)."
-category: '202412'
+category: 100101
 citekey: caseyFranciscanMissionariesDivine2024
 date: 2024-12-03
 externalUrl: https://www.cambridge.org/core/journals/historical-journal/article/franciscan-missionaries-of-the-divine-motherhood-and-the-provision-of-healthcare-in-provincial-ireland-19421970/C5D5F5F953711814116634C33B6EF880
@@ -34,3 +34,4 @@ title: "The Franciscan Missionaries of the Divine Motherhood and the Provision o
   \ Healthcare in Provincial Ireland, 1942\u20131970"
 type: journalArticle
 ---
+{% include articlePageTemplate.html %}

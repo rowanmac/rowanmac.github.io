@@ -16,7 +16,8 @@ abstractNote: From Viking trading place to modern hi-tech city, Limerick's long 
   for forty years, by his many admirers and friends.
 bibliography: 'Hodkinson, Brian, and Catherine Swift, eds. _Limestone and River: Essays
   on Limerick History in Honour of Liam Irwin_. Four Courts Press Ltd, 2024.'
-category: '202412'
+bookCiteKey: porterGreatAmountEnergy2024
+category: 100101
 citekey: hodkinsonLimestoneRiverEssays2024
 date: 2024-12-13
 editors: Brian Hodkinson, Catherine Swift
@@ -28,3 +29,4 @@ shortTitle: Limestone and River
 title: 'Limestone and River: Essays on Limerick History in Honour of Liam Irwin'
 type: book
 ---
+{% include bookPageTemplate.html %}

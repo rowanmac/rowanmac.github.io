@@ -10,7 +10,7 @@ abstractNote: "Doing my Bit for Ireland is Margaret Skinnider\u2019s autobiograp
 authors: Margaret Skinnider
 bibliography: 'Skinnider, Margaret. _Doing My Bit For Ireland: A First-Hand Account
   of the Easter Rising_. Luath Press Ltd, 2024.'
-category: '202412'
+category: 100101
 citekey: skinniderDoingMyBit2024
 date: 2024-12-01
 extra: ''
@@ -21,3 +21,4 @@ shortTitle: Doing My Bit For Ireland
 title: 'Doing My Bit For Ireland: A first-hand account of the Easter Rising'
 type: book
 ---
+{% include bookPageTemplate.html %}

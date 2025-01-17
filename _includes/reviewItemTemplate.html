@@ -1,0 +1,6 @@
+{% for review in site.reviews %}
+    {% if review.category == page.YYYYMM %}
+    {% assign splitExtra = review.extra | split: "%%%" %}
+- [*{{ splitExtra[1] }}* reviewed by {{ review.authors }}]({{ review.url }})
+    {% endif %}
+{% endfor %}

@@ -1,0 +1,12 @@
+<ul>
+  {% for book in site.books %}
+    {% if book.category == page.YYYYMM %}
+      <li>
+        <a href="{{ book.url }}">
+          {{ book.title }}<br>{{ book.authors }}
+        </a>
+        {% include sectionItemTemplate.html %}
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>

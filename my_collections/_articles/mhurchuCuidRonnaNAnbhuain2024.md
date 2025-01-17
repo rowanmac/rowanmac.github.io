@@ -16,7 +16,7 @@ authors: "Ciara N\xED Mhurch\xFA"
 bibliography: "Mhurch\xFA, Ciara N\xED. \u2018Cuid Ronna a N-Anbhuain \xC9Ireann:\
   \ D\xE1n Do Mhaol Muire Mac Suibhne \xD3 L\xE1r an Seacht\xFA Haois D\xE9ag\u2019\
   . _\xC9riu_, December 2024. [https://doi.org/10.1353/eri.2024.a946600](https://doi.org/10.1353/eri.2024.a946600)."
-category: '202412'
+category: 100101
 citekey: mhurchuCuidRonnaNAnbhuain2024
 date: 2024-12-01
 externalUrl: https://muse.jhu.edu/article/946600
@@ -29,3 +29,4 @@ title: "Cuid Ronna a N-Anbhuain \xC9Ireann: D\xE1n Do Mhaol Muire Mac Suibhne \x
   \ L\xE1r an Seacht\xFA Haois D\xE9ag"
 type: journalArticle
 ---
+{% include articlePageTemplate.html %}

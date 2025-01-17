@@ -1,0 +1,5 @@
+{% for article in site.articles %}
+    {% if article.category == page.YYYYMM %}
+  - [{{ article.bibliography }}]({{ article.url }})
+    {% endif %}
+{% endfor %}

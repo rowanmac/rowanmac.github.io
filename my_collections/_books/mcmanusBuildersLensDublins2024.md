@@ -23,7 +23,7 @@ abstractNote: Many people have helped create Dublin's unique streetscapes. This 
 authors: Ruth McManus
 bibliography: "McManus, Ruth. _Through the Builder\u2019s Lens: Dublin\u2019s Evolving\
   \ Streetscapes_. Four Courts Press Ltd, 2024."
-category: '202412'
+category: 100101
 citekey: mcmanusBuildersLensDublins2024
 date: 2024-12-13
 extra: ''
@@ -34,3 +34,4 @@ shortTitle: Through the Builder's Lens
 title: 'Through the Builder''s Lens: Dublin''s Evolving Streetscapes'
 type: book
 ---
+{% include bookPageTemplate.html %}

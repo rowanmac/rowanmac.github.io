@@ -1,0 +1,32 @@
+{% assign sortedSections = site.sections | sort: 'extra' %}
+<ul>
+  {% for section in sortedSections %}
+    {% if section.bookCiteKey == book.citekey %}
+      {% if section.extra != 0 and section.extra != 1000 %}
+        <li>
+          <a href="{{ section.url }}">
+            Chapter {{ section.extra }}. {{ section.title }}<br>{{ section.authors }}
+          </a>
+        </li>
+      {% elsif section.extra == 1000 %}
+        <li>
+          <a href="{{ section.url }}">
+            Preface {{ section.title }}<br>{{ section.authors }}
+          </a>
+        </li>
+      {% elsif section.extra == 0 %}
+        <li>
+          <a href="{{ section.url }}">
+            Introduction {{ section.title }}<br>{{ section.authors }}
+          </a>
+        </li>
+      {% else %}
+        <li>
+          <a href="{{ section.url }}">
+            Conclusion {{ section.title }}<br>{{ section.authors }}
+          </a>
+        </li>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+</ul>
