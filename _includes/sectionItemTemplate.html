@@ -1,29 +1,33 @@
 {% assign sortedSections = site.sections | sort: 'extra' %}
-<ul>
+<ul class="sectionList">
   {% for section in sortedSections %}
     {% if section.bookCiteKey == book.citekey %}
       {% if section.extra != 0 and section.extra != 1000 %}
         <li>
           <a href="{{ section.url }}">
-            Chapter {{ section.extra }}. {{ section.title }}<br>{{ section.authors }}
+            <h4>Chapter {{ section.extra }}. {{ section.title }}</h4><br>
+            <img src="/assets/images/author.jpg" alt="A green quill" width="25"/>{{ section.authors }}
           </a>
         </li>
       {% elsif section.extra == 1000 %}
         <li>
           <a href="{{ section.url }}">
-            Preface {{ section.title }}<br>{{ section.authors }}
+            <h4>Preface {{ section.title }}</h4><br>
+            <img src="/assets/images/author.jpg" alt="A green quill" width="25"/>{{ section.authors }}
           </a>
         </li>
       {% elsif section.extra == 0 %}
         <li>
           <a href="{{ section.url }}">
-            Introduction {{ section.title }}<br>{{ section.authors }}
+            <h4>Introduction {{ section.title }}</h4><br>
+            <img src="/assets/images/author.jpg" alt="A green quill" width="25"/>{{ section.authors }}
           </a>
         </li>
       {% else %}
         <li>
           <a href="{{ section.url }}">
-            Conclusion {{ section.title }}<br>{{ section.authors }}
+            <h4>Conclusion {{ section.title }}</h4><br>
+            <img src="/assets/images/author.jpg" alt="A green quill" width="25"/>{{ section.authors }}
           </a>
         </li>
       {% endif %}

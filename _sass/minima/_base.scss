@@ -111,6 +111,29 @@ ul.bookList li::before {
   background-repeat: no-repeat;
 }
 
+ul.sectionList {
+  list-style: none; /* Remove default list style */
+  padding-left: 2em; /* Adjust padding to make space for the image */
+}
+
+ul.sectionList li {
+  list-style: none;
+  position: relative;
+  padding-left: 3.5em; /* Adjust padding to make space for the image */
+}
+
+ul.sectionList li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.2em; /* Adjust to vertically align the image */
+  width: 3em; /* Set the width of the image */
+  height: 3em; /* Set the height of the image */
+  background-image: url("../../assets/images/section.png");
+  background-size: contain; /* Scale the image to fit the width and height */
+  background-repeat: no-repeat;
+}
+
 ul.articleList {
   list-style: none; /* Remove default list style */
   padding-left: 2em; /* Adjust padding to make space for the image */
@@ -119,7 +142,7 @@ ul.articleList {
 ul.articleList li {
   list-style: none;
   position: relative;
-  padding-left: 2em; /* Adjust padding to make space for the image */
+  padding-left: 3.5em; /* Adjust padding to make space for the image */
 }
 
 ul.articleList li::before {
@@ -130,6 +153,29 @@ ul.articleList li::before {
   width: 3em; /* Set the width of the image */
   height: 3em; /* Set the height of the image */
   background-image: url("../../assets/images/article.png");
+  background-size: contain; /* Scale the image to fit the width and height */
+  background-repeat: no-repeat;
+}
+
+ul.reviewList {
+  list-style: none; /* Remove default list style */
+  padding-left: 2em; /* Adjust padding to make space for the image */
+}
+
+ul.reviewList li {
+  list-style: none;
+  position: relative;
+  padding-left: 3.5em; /* Adjust padding to make space for the image */
+}
+
+ul.reviewList li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.2em; /* Adjust to vertically align the image */
+  width: 3em; /* Set the width of the image */
+  height: 3em; /* Set the height of the image */
+  background-image: url("../../assets/images/review.png");
   background-size: contain; /* Scale the image to fit the width and height */
   background-repeat: no-repeat;
 }

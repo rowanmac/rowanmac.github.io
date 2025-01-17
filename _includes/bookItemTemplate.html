@@ -1,9 +1,12 @@
+{% assign sortedBooks = site.books | sort: 'title' %}
 <ul class="bookList">
-  {% for book in site.books %}
+  {% for book in sortedBooks %}
     {% if book.category == page.YYYYMM %}
       <li>
         <a href="{{ book.url }}">
-          {{ book.title }}<br>{{ book.authors }}
+          <h4>{{ book.title }}</h4><br>
+          <img src="/assets/images/author.jpg" alt="A green quill" width="25"/>{{ book.authors }}{{ book.editors }}<br>
+          <img src="/assets/images/publisher.png" alt="A tall office building" width="25"/>{{ book.publisher }}<br>
         </a>
         {% include sectionItemTemplate.html %}
       </li>
