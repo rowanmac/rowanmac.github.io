@@ -3,6 +3,7 @@
   {% for book in sortedBooks %}
     {% if book.category == page.YYYYMM %}
       <li>
+        {% if book.externalUrl %}<a href="{{ book.externalUrl }}"><img src="/assets/images/link.png" alt="A link in a chain" width="25"></a>{% endif %}
         <a href="{{ book.url }}">
           <h4>{{ book.title }}</h4><br>
           <img src="/assets/images/author.jpg" alt="A green quill" width="25"/>{{ book.authors }}{{ book.editors }}<br>

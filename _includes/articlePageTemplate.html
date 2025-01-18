@@ -1,0 +1,7 @@
+<div class="articlePage">
+    <div class="articlePageContent">
+        {% if page.authors %}<img src="/assets/images/author.jpg" alt="A green quill" width="25"/>{{ page.authors }}<br>{% endif %}
+        {% if page.publication %}<img src="/assets/images/journal.jpg" alt="A thin green book" width="25"/>{{ page.publication }}<br>{% endif %}
+        {% if page.date %}<img src="/assets/images/calendar.png" alt="A calendar" width="25"/>{{ page.date }}<br>{% endif %}
+        {% if page.url %}<a href="{{ page.externalUrl }}"><img src="/assets/images/link.png" alt="A chain link" width="25"/></a>{% endif %}
+</div>

@@ -88,6 +88,25 @@ li {
   }
 }
 
+ul.bookList li, ul.sectionList li, ul.articleList li, ul.reviewList li {
+  list-style: none; /* Remove default list style */
+  padding-left: 2em; /* Adjust padding to make space for the image */
+  border: 1px solid #fdfdfd; /* Add a border */
+  border-radius: 10px; /* Add rounded borders */
+  padding: 1em; /* Add padding inside the border */
+  transition: border-color 0.3s ease; /* Add transition for border color */
+  a.externalUrl {
+    position: absolute;
+    top: 0.5em; /* Adjust the top position as needed */
+    right: 0.5em; /* Adjust the right position as needed */
+    text-decoration: none; /* Remove underline from the link */
+  }
+}
+
+ul.bookList li:hover, ul.sectionList li:hover, ul.articleList li:hover, ul.reviewList li:hover {
+border-color: #ccc; /* Change border color on hover */
+}
+
 ul.bookList {
   list-style: none; /* Remove default list style */
   padding-left: 2em; /* Adjust padding to make space for the image */

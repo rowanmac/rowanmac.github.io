@@ -6,7 +6,7 @@
         <a href="{{ article.url }}">
           <h4>{{ article.title }}</h4><br>
           {% if article.authors %}<img src="/assets/images/author.jpg" alt="A green quill" width="25"/>{{ article.authors }}{% endif %}<br>
-          {% if article.publication %}<img src="/assets/images/journal.jpg" alt="A thin green book" width="25"/>{{ article.publication }}{% endif %}
+          {% if article.publication %}<img src="/assets/images/journal.jpg" alt="A thin green book" width="25"/>{% if article.extra != '' %}{{ article.extra }} article in {% endif %}{{ article.publication }}{% endif %}
         </a>
       </li>
     {% endif %}
