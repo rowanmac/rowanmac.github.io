@@ -2,15 +2,15 @@
 <ul class="bookList">
   {% for book in sortedBooks %}
     {% if book.category == page.YYYYMM %}
-      <li>
-        {% if book.externalUrl %}<a href="{{ book.externalUrl }}"><img src="/assets/images/link.png" alt="A link in a chain" width="25"></a>{% endif %}
-        <a href="{{ book.url }}">
+      <a class="ihbItem" href="{{ book.url }}">
+        <li>
           <h4>{{ book.title }}</h4><br>
-          <img src="/assets/images/author.jpg" alt="A green quill" width="25"/>{{ book.authors }}{{ book.editors }}<br>
-          <img src="/assets/images/publisher.png" alt="A tall office building" width="25"/>{{ book.publisher }}<br>
-        </a>
+          <img class="inlineIcon" src="/assets/images/author.jpg" alt="A green quill" width="25"/>{{ book.author[0].given }} {{ book.author[0].family }}{{ book.editors }}<br>
+          <img class="inlineIcon" src="/assets/images/publisher.png" alt="A tall office building" width="25"/>{{ book.publisher }}<br>
+          {% if book.externalUrl %}<a href="{{ book.externalUrl }}"><img class="inlineIcon" src="/assets/images/link.png" alt="A link in a chain" width="25"></a>{% endif %}
+        </li>
         {% include sectionItemTemplate.html %}
-      </li>
+      </a>
     {% endif %}
   {% endfor %}
 </ul>
