@@ -1,14 +1,18 @@
 <ul class="reviewList">
   {% for review in site.reviews %}
     {% if review.category == page.YYYYMM %}
-    {% assign splitExtra = review.extra | split: "%%%" %}
-      <li>
-        <a href="{{ review.url }}">
-          <h4>{{ splitExtra[1] }}</h4><br>
-          <img src="/assets/images/author.jpg" alt="A green quill" width="25"/>Reviewed by {{ review.authors }}<br>
-          {% if review.publication %}<img src="/assets/images/journal.jpg" alt="A thin green book" width="25"/>{{ review.publication }}{% endif %}
-        </a>
-      </li>
+      <a class="ihbItem" href="{{ review.url }}">
+        <li>
+          {% if review.cleanTitle %}
+            <h4>{{ review.title }}<br>Work reviewed: {{ review.workReviewed }}</h4><br>
+          {% else %}
+            <h4>{{ review.workReviewed }}</h4><br>
+          {% endif %}
+          {% if review.author %}<img class="inlineIcon" src="/assets/images/author.jpg" alt="A green quill" width="25"/>Reviewed by {% for person in review.author %}{{ person.given }} {{ person.family }}{% if forloop.last  == false %}, {% endif %}{% endfor %}<br>{% endif %}
+          {% if review.container-title %}<img class="inlineIcon" src="/assets/images/journal.jpg" alt="A thin green book" width="25"/>{{ review.container-title }}<br>{% endif %}
+          {% if review.externalUrl %}<a href="{{ review.externalUrl }}"><img class="inlineIcon" src="/assets/images/link.png" alt="A link in a chain" width="25"></a><br>{% endif %}
+        </li>
+      </a>
     {% endif %}
   {% endfor %}
 </ul>

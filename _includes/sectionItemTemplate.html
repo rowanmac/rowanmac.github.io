@@ -1,36 +1,13 @@
-{% assign sortedSections = site.sections | sort: 'extra' %}
-<ul class="sectionList">
+{% assign sortedSections = site.sections | sort: 'chapter' %}
   {% for section in sortedSections %}
-    {% if section.bookCiteKey == book.citekey %}
-      {% if section.extra != 0 and section.extra != 1000 %}
-        <li>
-          <a href="{{ section.url }}">
-            <h4>Chapter {{ section.extra }}. {{ section.title }}</h4><br>
-            <img src="/assets/images/author.jpg" alt="A green quill" width="25"/>{{ section.authors }}
-          </a>
-        </li>
-      {% elsif section.extra == 1000 %}
-        <li>
-          <a href="{{ section.url }}">
-            <h4>Preface {{ section.title }}</h4><br>
-            <img src="/assets/images/author.jpg" alt="A green quill" width="25"/>{{ section.authors }}
-          </a>
-        </li>
-      {% elsif section.extra == 0 %}
-        <li>
-          <a href="{{ section.url }}">
-            <h4>Introduction {{ section.title }}</h4><br>
-            <img src="/assets/images/author.jpg" alt="A green quill" width="25"/>{{ section.authors }}
-          </a>
-        </li>
-      {% else %}
-        <li>
-          <a href="{{ section.url }}">
-            <h4>Conclusion {{ section.title }}</h4><br>
-            <img src="/assets/images/author.jpg" alt="A green quill" width="25"/>{{ section.authors }}
-          </a>
-        </li>
-      {% endif %}
+    {% if section.container-title == book.title %}
+      <ul class="sectionList">
+        <a class="ihbItem" href="{{ section.url }}">
+          <li>
+            <h4>{{ section.title }}</h4><br>
+            <img class="inlineIcon" src="/assets/images/author.jpg" alt="A green quill" width="25"/>{{ section.author[0].given }} {{ section.author[0].family }}
+          </li>
+        </a>
+      </ul>
     {% endif %}
   {% endfor %}
-</ul>

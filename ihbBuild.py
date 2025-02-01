@@ -23,6 +23,6 @@ print(f"Bibliography imported successfully in {endTime - startTime:.2f} seconds"
 
 # Build the dynamic IHB post
 startTime = time.time()
-buildDynamicIhb(destinationDirectory, YYYYMM)
+#buildDynamicIhb(destinationDirectory, YYYYMM)
 endTime = time.time()
 print(f"IHB post built successfully in {endTime - startTime:.2f} seconds")

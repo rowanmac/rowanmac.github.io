@@ -21,13 +21,9 @@ issued:
   year: 2025
 language: en
 layout: page
-note: "review: true \nworkReviewed1: Political Culture, the State, and the Problem\
-  \ of Religious War in Britain and Ireland, 1578\u20131625.\nworkReviewed1Citekey:\
-  \ smutsPoliticalCultureState2023"
 page: 1-2
 permalink: /fordPoliticalCultureState2025
-review: 'false'
-'review:': 'true '
+review: 'true'
 source: Cambridge University Press
 title: "Political Culture, the State, and the Problem of Religious War in Britain\
   \ and Ireland, 1578\u20131625. By R. Malcolm Smuts. Oxford: Oxford University Press,\
@@ -35,8 +31,8 @@ title: "Political Culture, the State, and the Problem of Religious War in Britai
 title-short: "Political Culture, the State, and the Problem of Religious War in Britain\
   \ and Ireland, 1578\u20131625. By R. Malcolm Smuts. Oxford"
 type: article-journal
-'workReviewed1:': "Political Culture, the State, and the Problem of Religious War\
-  \ in Britain and Ireland, 1578\u20131625."
-'workReviewed1Citekey:': smutsPoliticalCultureState2023
+workReviewed: "Political Culture, the State, and the Problem of Religious War in Britain\
+  \ and Ireland, 1578\u20131625."
+workReviewedCitekey: smutsPoliticalCultureState2023
 ---
-{% include articlePageTemplate.html %}
+{% include reviewPageTemplate.html %}

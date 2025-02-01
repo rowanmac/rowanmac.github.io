@@ -60,9 +60,27 @@ img {
 }
 
 .inlineIcon {
-  height: 1.5em; /* Match the image height to the line height */
+  height: 1.25em; /* Match the image height to the line height */
+  width: auto;
   vertical-align: middle; /* Align the image vertically in the middle of the text */
 }
+
+.copyIcon {
+  width: 1.25em; /* Set the width of the icon */
+  height: 1.25em; /* Set the height of the icon */
+  background-image: url("/assets/images/copy.png"); /* Default image */
+  background-size: contain; /* Scale the image to fit the width and height */
+  background-repeat: no-repeat;
+  display: inline-block; /* Make it inline-block to behave like an image */
+  vertical-align: middle; /* Align the image vertically in the middle of the text */
+}
+
+.copyIcon:hover {
+  background-image: url("/assets/images/copyHover.png"); /* Image on hover */
+  cursor: pointer; /* Change the cursor to a pointer on hover */
+}
+
+
 
 
 /**

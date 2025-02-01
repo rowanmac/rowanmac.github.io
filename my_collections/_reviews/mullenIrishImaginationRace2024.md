@@ -17,16 +17,17 @@ issue: '3'
 issued:
 - year: 2024
 layout: page
-note: 'review: true'
 page: 486-488
 permalink: /mullenIrishImaginationRace2024
-review: 'false'
-'review:': 'true'
+review: 'true'
 source: Project MUSE
 title: 'The Irish and the Imagination of Race: White Supremacy across the Atlantic
   in the Nineteenth Century by Patrick R. O''Malley (review)'
 title-short: The Irish and the Imagination of Race
 type: article-journal
 volume: '66'
+workReviewed: The Irish and the Imagination of Race White Supremacy Across the Atlantic
+  in the Nineteenth Century
+workReviewedCitekey: omalleyIrishImaginationRace2023
 ---
-{% include articlePageTemplate.html %}
+{% include reviewPageTemplate.html %}

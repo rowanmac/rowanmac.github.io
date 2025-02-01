@@ -1,0 +1,91 @@
+---
+references:
+- id: gaffneyForeignTonguesVictorian2024
+  abstract: >-
+    The first historical overview of the study of languages in Ireland from an
+    expert in the area. How history shifts languages and languages in turn shape
+    history is a deep-rooted, dynamic process manifest in Victorian Ireland. In
+    Foreign Tongues, Phyllis Gaffney sheds new light on this period of Irish
+    history, exploring how continental influences that predated the Penal Laws
+    were reinvigorated in the wake of the French Revolution. An influx of
+    foreign teachers and religious orders created institutions for an emerging
+    élite, and University education expanded. At the same time, civil service
+    reforms opened careers across the British Empire to graduates from all
+    religions. The result is that Ireland’s Victorian colleges embraced language
+    study—ancient and modern, Irish and European—more eagerly than their British
+    counterparts. An adaptive, fast-changing academic landscape laid the
+    groundwork for today’s Ireland—culturally confident, open to Europe and the
+    world—while the dramatic rise of the Gaelic League forged a bond between
+    language, education, and politics with pervasive effects on Irish identities
+    in the twentieth century. None of that was plain sailing. Gaffney’s profiles
+    of individual professors reveal pioneering scholarship, precarious careers,
+    sudden scandals, and denunciations and dismissals linked to local conflicts
+    and foreign wars. On the positive side, the advance of women’s education
+    cleared the path for a cohort of notable female professors across modern
+    languages. This wide-ranging, detailed study draws on multiple sources to
+    cast a fresh light on aspects of Irish history, viewed through the complex
+    lens of language education.
+  author:
+    - family: Gaffney
+      given: Phyllis
+  citation-key: gaffneyForeignTonguesVictorian2024
+  event-place: Dublin
+  ISBN: 978-1-7390863-1-2
+  issued:
+    - year: 2024
+      month: 5
+      day: 29
+  language: English
+  number-of-pages: '380'
+  publisher: University College Dublin Press
+  publisher-place: Dublin
+  source: Amazon
+  title: >-
+    Foreign Tongues: Victorian Language Learning and the Shaping of Modern
+    Ireland
+  title-short: Foreign Tongues
+  type: book
+
+- id: torveMendaciousIrishCharacter2025
+  abstract: >-
+    This paper evaluates the prevalence and impact of nativist and anti-labor
+    narratives built on the claim that the ‘Molly Maguires’, a vague 1860s and
+    70s militant Irish labor phenomenon of the Pennsylvania anthracite region,
+    was still active between the 1880s and the 1910s. It finds that such
+    narratives were widespread until the late 1890s, and still regionally
+    significant until the late 1900s, finally fading into obscurity in the
+    1910s. ‘Molly Maguirism’ as a media narrative was primarily directed at
+    organized labor and the (Irish) working class; it is best understood as a
+    form of ethnicized proto-Red Scare tactic, but could incorporate other
+    elements, such as broader nativist ideology and sectarianism. Based on these
+    findings, prevailing models of Irish acculturation, such as Painter’s
+    ‘second enlargement of whiteness’, are obsolete; the paper recommends a
+    thorough revision of late nineteenth- and early twentieth-century Irish
+    American working-class history, accounting for the continued and hitherto
+    massively underestimated presence of anti-Irish sentiment.
+  accessed:
+    - year: 2025
+      month: 1
+      day: 18
+  author:
+    - family: Torve
+      given: Constantin
+  citation-key: torveMendaciousIrishCharacter2025
+  container-title: Labor History
+  DOI: 10.1080/0023656X.2024.2355214
+  ISSN: 0023-656X
+  issue: '1'
+  issued:
+    - year: 2025
+      month: 1
+      day: 2
+  page: 40-63
+  source: Taylor and Francis+NEJM
+  title: >-
+    ‘The mendacious Irish character:’ Molly Maguire, anti-Irish sentiment, and
+    anti-labor propaganda in the American press, 1880–1920
+  title-short: ‘The mendacious Irish character
+  type: article-journal
+  URL: https://doi.org/10.1080/0023656X.2024.2355214
+  volume: '66'
+...

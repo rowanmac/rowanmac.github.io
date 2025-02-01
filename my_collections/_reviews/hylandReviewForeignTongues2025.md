@@ -17,12 +17,13 @@ issued:
   month: 1
   year: 2025
 layout: page
-note: 'review: true'
 permalink: /hylandReviewForeignTongues2025
-review: 'false'
-'review:': 'true'
+review: 'true'
 title: "Review of \u2018Foreign Tongues : Victorian Language Learning and the Shaping\
   \ of Modern Ireland"
 type: article-journal
+workReviewed: Foreign Tongues Victorian Language Learning and the Shaping of Modern
+  Ireland
+workReviewedCitekey: gaffneyForeignTonguesVictorian2024
 ---
-{% include articlePageTemplate.html %}
+{% include reviewPageTemplate.html %}

@@ -4,7 +4,7 @@ author:
 - family: Walsh
   given: Fionnuala
 category: 202501
-'chapter:': Introduction
+chapter: 0
 citation-key: walshAmericanisationFrameworkIrish2024
 container-title: "America in Ireland: Culture and Society, 1841\u20131925"
 editor:
@@ -19,12 +19,11 @@ issued:
   year: 2024
 language: English
 layout: page
-note: 'chapter: Introduction'
 permalink: /walshAmericanisationFrameworkIrish2024
 publisher: Cambridge University Press
 review: 'false'
 source: Amazon
 title: Americanisation as a framework for Irish historical studies
-type: chapter
+type: section
 ---
 {% include sectionPageTemplate.html %}

@@ -4,7 +4,7 @@ author:
 - family: Whelan
   given: Bernadette
 category: 202501
-'chapter:': '1'
+chapter: 1
 citation-key: whelanReflectionsMeaningAmerica2024
 container-title: "America in Ireland: Culture and Society, 1841\u20131925"
 editor:
@@ -19,13 +19,12 @@ issued:
   year: 2024
 language: English
 layout: page
-note: 'chapter: 1'
 permalink: /whelanReflectionsMeaningAmerica2024
 publisher: Cambridge University Press
 review: 'false'
 source: Amazon
 title: "Reflections on the meaning of America in Irish emigrant material culture,\
   \ 1845\u20131925"
-type: chapter
+type: section
 ---
 {% include sectionPageTemplate.html %}

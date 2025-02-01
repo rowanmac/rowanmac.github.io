@@ -17,16 +17,17 @@ issue: '4'
 issued:
 - year: 2024
 layout: page
-note: 'review: true'
 page: 90-92
 permalink: /mcevoyBecomingIrishAmerican2024
-review: 'false'
-'review:': 'true'
+review: 'true'
 source: Project MUSE
 title: 'Becoming Irish American: The Making and Remaking of a People from Roanoke
   to JFK by Timothy J. Meagher (review)'
 title-short: Becoming Irish American
 type: article-journal
 volume: '135'
+workReviewed: Becoming Irish American The Making and Remaking of a People from Roanoke
+  to JFK
+workReviewedCitekey: meagherBecomingIrishAmerican2023
 ---
-{% include articlePageTemplate.html %}
+{% include reviewPageTemplate.html %}

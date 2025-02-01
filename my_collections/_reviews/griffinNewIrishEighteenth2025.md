@@ -25,6 +25,7 @@ author:
   given: Michael
 category: 202501
 citation-key: griffinNewIrishEighteenth2025
+cleanTitle: 'true'
 container-title: Eighteenth-Century Life
 container-title-short: Eighteenth-Century Life
 externalUrl: https://doi.org/10.1215/00982601-11523728
@@ -35,14 +36,14 @@ issued:
   month: 1
   year: 2025
 layout: page
-note: 'review: true'
 page: 116-121
 permalink: /griffinNewIrishEighteenth2025
-review: 'false'
-'review:': 'true'
+review: 'true'
 source: Silverchair
 title: A New Irish Eighteenth Century
 type: article-journal
 volume: '49'
+workReviewed: "Irish Literature in Transition, 1700\u20131780 Volume 1"
+workReviewedCitekey: "Irish Literature in Transition, 1700\u20131780 Volume 1"
 ---
-{% include articlePageTemplate.html %}
+{% include reviewPageTemplate.html %}

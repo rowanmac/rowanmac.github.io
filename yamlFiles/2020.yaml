@@ -1,0 +1,59 @@
+---
+references:
+- id: haslettIrishLiteratureTransition2020
+  abstract: >-
+    This volume examines eighteenth-century Irish literature, highlighting the
+    diversity of texts, authors and approaches that characterises contemporary
+    studies of the period. Chapters consider the contexts of history, politics,
+    language, philosophy, gender, sexuality, and the environment while situating
+    Irish literature in relation to Ireland, Britain, Europe and beyond.
+    Well-known authors (Jonathan Swift, Edmund Burke and Oliver Goldsmith) are
+    read alongside less familiar writers (including Mary Barber, William
+    Chaigneau, Frances Sheridan, and Samuel Whyte) and popular and ephemeral
+    literatures take their place with formerly canonical texts. It demonstrates
+    the exciting vitality and richness of eighteenth-century Irish literature -
+    written and performed - as well as its complex intersections with different
+    communities and traditions. This book will be a key resource to scholars and
+    students of Irish eighteenth-century studies as well as readers generally
+    interested in questions of Anglophone and Irish-language culture,
+    representations of gender and sexuality, and national and trans-national
+    identities.
+  citation-key: haslettIrishLiteratureTransition2020
+  editor:
+    - family: Haslett
+      given: Moyra
+  event-place: Cambridge, United Kingdom New York
+  ISBN: 978-1-108-42750-0
+  issued:
+    - year: 2020
+      month: 3
+      day: 12
+  language: English
+  number-of-pages: '424'
+  publisher: Cambridge University Press
+  publisher-place: Cambridge, United Kingdom New York
+  source: Amazon
+  title: 'Irish Literature in Transition, 1700–1780: Volume 1'
+  title-short: Irish Literature in Transition, 1700–1780
+  type: book
+
+- id: hayesBestAddressTown2020
+  author:
+    - family: Hayes
+      given: Melanie
+  citation-key: hayesBestAddressTown2020
+  event-place: Dublin
+  ISBN: 978-1-84682-847-8
+  issued:
+    - year: 2020
+  language: eng
+  number-of-pages: '293'
+  publisher: Four Courts Press
+  publisher-place: Dublin
+  source: K10plus ISBN
+  title: >-
+    The best address in town: Henrietta Street, Dublin and its first residents
+    (1720-80)
+  title-short: The best address in town
+  type: book
+...

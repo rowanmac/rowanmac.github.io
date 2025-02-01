@@ -35,10 +35,9 @@ issued:
   year: 2025
 language: en
 layout: page
-note: 'preprint: FirstView'
 page: 1-20
 permalink: /walshTransnationalKnowledgeCirculation2025
-'preprint:': FirstView
+preprint: FirstView
 review: 'false'
 source: Cambridge University Press
 title: Transnational Knowledge Circulation and the Closing of Minds to Progressive

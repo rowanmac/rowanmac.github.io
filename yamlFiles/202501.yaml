@@ -96,10 +96,10 @@ references:
   note: >-
     review: true 
 
-    workReviewed1: Political Culture, the State, and the Problem of Religious
-    War in Britain and Ireland, 1578–1625.
+    workReviewed: Political Culture, the State, and the Problem of Religious War
+    in Britain and Ireland, 1578–1625.
 
-    workReviewed1Citekey: smutsPoliticalCultureState2023
+    workReviewedCitekey: smutsPoliticalCultureState2023
   page: 1-2
   source: Cambridge University Press
   title: >-
@@ -129,7 +129,7 @@ references:
       day: 21
       circa: true
   language: English
-  note: 'chapter: Afterword'
+  note: 'chapter: 1000'
   publisher: Cambridge University Press
   title: 'Afterword: David Fitzpatrick, influencer'
   type: chapter
@@ -206,7 +206,11 @@ references:
     - year: 2025
       month: 1
       day: 1
-  note: 'review: true'
+  note: |-
+    review: true
+    cleanTitle: true
+    workReviewed: Irish Literature in Transition, 1700–1780: Volume 1
+    workReviewedCitekey: Irish Literature in Transition, 1700–1780: Volume 1
   page: 116-121
   source: Silverchair
   title: A New Irish Eighteenth Century
@@ -236,10 +240,10 @@ references:
   note: >-
     review: true
 
-    workReviewed1: Patriotism is a Catholic Virtue: Irish-American Catholics and
-    the Church in the Era of the Great War, 1900–1918. By Thomas J. Rowland.
+    workReviewed: Patriotism is a Catholic Virtue: Irish-American Catholics and
+    the Church in the Era of the Great War, 1900–1918.
 
-    workReviewed1Citekey: /rowlandPatriotismCatholicVirtue2023
+    workReviewedCitekey: rowlandPatriotismCatholicVirtue2023
   page: 1-2
   source: Cambridge University Press
   title: >-
@@ -290,7 +294,13 @@ references:
     - year: 2025
       month: 1
       day: 1
-  note: 'review: true'
+  note: >-
+    review: true
+
+    workReviewed: Foreign Tongues: Victorian Language Learning and the Shaping
+    of Modern Ireland
+
+    workReviewedCitekey: gaffneyForeignTonguesVictorian2024
   title: >-
     Review of ‘Foreign Tongues : Victorian Language Learning and the Shaping of
     Modern Ireland
@@ -373,7 +383,13 @@ references:
   issue: '4'
   issued:
     - year: 2024
-  note: 'review: true'
+  note: >-
+    review: true
+
+    workReviewed: Becoming Irish American: The Making and Remaking of a People
+    from Roanoke to JFK
+
+    workReviewedCitekey: meagherBecomingIrishAmerican2023
   page: 90-92
   source: Project MUSE
   title: >-
@@ -533,7 +549,13 @@ references:
   issue: '3'
   issued:
     - year: 2024
-  note: 'review: true'
+  note: >-
+    review: true
+
+    workReviewed: The Irish and the Imagination of Race: White Supremacy Across
+    the Atlantic in the Nineteenth Century
+
+    workReviewedCitekey: omalleyIrishImaginationRace2023
   page: 486-488
   source: Project MUSE
   title: >-
@@ -784,9 +806,15 @@ references:
       given: Brian
   citation-key: sheehanLabourCourt1946
   container-title: Irish Labour History Society
-  note: 'review: true'
+  note: >-
+    review: true
+
+    workReviewed: The Labour Court: 1946 to 2021. A History of Seventy-Five
+    Years
+
+    workReviewedCitekey: finlayLabourCourt19462024
   title: 'The Labour Court: 1946 to 2021. A History of Seventy-Five Years. (2024)'
-  type: webpage
+  type: article-journal
   URL: >-
     https://www.irishlabourhistorysociety.com/wp-content/uploads/2025/01/LABOUR-Court-History-75-yrs-a-review.pdf
 
@@ -919,6 +947,7 @@ references:
       day: 21
       circa: true
   language: English
+  note: 'sections: true'
   number-of-pages: '250'
   publisher: Cambridge University Press
   source: Amazon
@@ -942,7 +971,7 @@ references:
       day: 21
       circa: true
   language: English
-  note: 'chapter: Introduction'
+  note: 'chapter: 0'
   publisher: Cambridge University Press
   source: Amazon
   title: Americanisation as a framework for Irish historical studies

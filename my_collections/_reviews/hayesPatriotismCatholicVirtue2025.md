@@ -21,13 +21,9 @@ issued:
   year: 2025
 language: en
 layout: page
-note: "review: true\nworkReviewed1: Patriotism is a Catholic Virtue: Irish-American\
-  \ Catholics and the Church in the Era of the Great War, 1900\u20131918. By Thomas\
-  \ J. Rowland.\nworkReviewed1Citekey: /rowlandPatriotismCatholicVirtue2023"
 page: 1-2
 permalink: /hayesPatriotismCatholicVirtue2025
-review: 'false'
-'review:': 'true'
+review: 'true'
 source: Cambridge University Press
 title: "Patriotism is a Catholic Virtue: Irish-American Catholics and the Church in\
   \ the Era of the Great War, 1900\u20131918. By Thomas J. Rowland. Washington, D.C.:\
@@ -35,8 +31,8 @@ title: "Patriotism is a Catholic Virtue: Irish-American Catholics and the Church
   \ 978-0-8132-3771-8."
 title-short: Patriotism is a Catholic Virtue
 type: article-journal
-'workReviewed1:': "Patriotism is a Catholic Virtue: Irish-American Catholics and the\
-  \ Church in the Era of the Great War, 1900\u20131918. By Thomas J. Rowland."
-'workReviewed1Citekey:': /rowlandPatriotismCatholicVirtue2023
+workReviewed: "Patriotism is a Catholic Virtue Irish-American Catholics and the Church\
+  \ in the Era of the Great War, 1900\u20131918."
+workReviewedCitekey: rowlandPatriotismCatholicVirtue2023
 ---
-{% include articlePageTemplate.html %}
+{% include reviewPageTemplate.html %}

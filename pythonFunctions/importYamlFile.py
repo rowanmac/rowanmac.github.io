@@ -29,8 +29,14 @@ def importYamlFile(destinationDirectory, YYYYMM):
         # Unpacks note section into new fields
         notes = reference.get("note", "").splitlines()
         for note in notes:
-            note = note.split(" ")
-            reference[note[0]] = " ".join(note[1:])
+            note = note.split(":")
+            reference[note[0]] = "".join(note[1:]).strip()
+        reference.pop("note", None)
+
+        # Converts chapter type to section
+        if reference.get("type", "") == "chapter":
+            reference["type"] = "section"
+            reference["chapter"] = int(reference["chapter"])
         
         try:
             reference["review"]
@@ -39,6 +45,7 @@ def importYamlFile(destinationDirectory, YYYYMM):
 
         fileType = reference.get("type", "")
         if reference["review"] == "true":
+            reference["type"] == "review"
             destinationDirectory = reviewDirectory
             template = "{% include reviewPageTemplate.html %}"
         elif fileType == "article-journal":
@@ -47,7 +54,7 @@ def importYamlFile(destinationDirectory, YYYYMM):
         elif fileType == "book":
             destinationDirectory = bookDirectory
             template = "{% include bookPageTemplate.html %}"
-        elif fileType == "chapter":
+        elif fileType == "section":
             destinationDirectory = sectionDirectory
             template = "{% include sectionPageTemplate.html %}"
         else:

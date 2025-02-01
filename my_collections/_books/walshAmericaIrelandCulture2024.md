@@ -33,6 +33,7 @@ number-of-pages: '250'
 permalink: /walshAmericaIrelandCulture2024
 publisher: Cambridge University Press
 review: 'false'
+sections: 'true'
 source: Amazon
 title: "America in Ireland: Culture and Society, 1841\u20131925"
 title-short: America in Ireland
