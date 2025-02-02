@@ -5,19 +5,16 @@
       <a class="ihbItem" href="{{ book.url }}">
         <li>
           <h4>{{ book.title }}</h4><br>
-          {% if book.author %}<img class="inlineIcon" src="/assets/images/author.jpg" alt="A green quill" width="25"/>{% for person in book.author %}{{ person.given }} {{ person.family }}{% if forloop.last == false %}, {% endif %}{% endfor %}<br>{% endif %}
-          {% if book.editor %}<img class="inlineIcon" src="/assets/images/author.jpg" alt="A green quill" width="25"/>{% if book.editor.size > 1%}Eds. {% else %}Ed. {% endif %}{% for person in book.editor %}{{ person.given }} {{ person.family }}{% if forloop.last  == false %}, {% endif %}{% endfor %}<br>{% endif %}
+          {% if book.author %}<img class="inlineIcon" src="/assets/images/author.png" alt="A green quill" width="25"/>{% for person in book.author %}{{ person.given }} {{ person.family }}{% if forloop.last == false %}, {% endif %}{% endfor %}<br>{% endif %}
+          {% if book.editor %}<img class="inlineIcon" src="/assets/images/author.png" alt="A green quill" width="25"/>{% if book.editor.size > 1%}Eds. {% else %}Ed. {% endif %}{% for person in book.editor %}{{ person.given }} {{ person.family }}{% if forloop.last  == false %}, {% endif %}{% endfor %}<br>{% endif %}
           {% if book.publisher %}<img class="inlineIcon" src="/assets/images/publisher.png" alt="A tall office building" width="25"/>{{ book.publisher }}<br>{% endif %}
-          {% if book.externalUrl %}<a href="{{ book.externalUrl }}"><img class="inlineIcon" src="/assets/images/link.png" alt="A link in a chain" width="25"></a>{% endif %}
-          <div class="copyIcon" onclick=""></div>
+          <div class="helpColumn">
+            <div class="copyIcon" onclick="copyText(event)" bibliographyData="test"></div>
+            {% if book.externalUrl %}<div class="externalUrl" href="{{ book.externalUrl }}" onclick=""></div>{% endif %}
+          </div>
         </li>
         {% if book.sections %}{% include sectionItemTemplate.html %}{% endif %}
       </a>
     {% endif %}
   {% endfor %}
 </ul>
-
-{% if book.author %}<img class="inlineIcon" src="/assets/images/author.jpg" alt="A green quill" width="25"/>{% for person in book.author %}{{ person.given }} {{ person.family }}{% if forloop.last  == false %}, {% endif %}{% endfor %}<br>{% endif %}
-{% if book.editor %}<img class="inlineIcon" src="/assets/images/author.jpg" alt="A green quill" width="25"/>{% if book.editor.size > 1%}Eds. {% else %}Ed. {% endif %}{% for person in book.editors %}{{ person.given }} {{ person.family }}{% if forloop.last  == false %}, {% endif %}{% endfor %}<br>{% endif %}
-{% if book.publisher %}<img class="inlineIcon" src="/assets/images/publisher.png" alt="A tall office building" width="25"/>{{ book.publisher }}<br>{% endif %}
-{% if book.externalUrl %}<a href="{{ book.externalUrl }}"><img class="inlineIcon" src="/assets/images/link.png" alt="A link in a chain" width="25"></a>{% endif %}

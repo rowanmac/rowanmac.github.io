@@ -65,24 +65,6 @@ img {
   vertical-align: middle; /* Align the image vertically in the middle of the text */
 }
 
-.copyIcon {
-  width: 1.25em; /* Set the width of the icon */
-  height: 1.25em; /* Set the height of the icon */
-  background-image: url("/assets/images/copy.png"); /* Default image */
-  background-size: contain; /* Scale the image to fit the width and height */
-  background-repeat: no-repeat;
-  display: inline-block; /* Make it inline-block to behave like an image */
-  vertical-align: middle; /* Align the image vertically in the middle of the text */
-}
-
-.copyIcon:hover {
-  background-image: url("/assets/images/copyHover.png"); /* Image on hover */
-  cursor: pointer; /* Change the cursor to a pointer on hover */
-}
-
-
-
-
 /**
  * Figures
  */
@@ -147,7 +129,7 @@ ul.bookList li::before {
   top: 0.2em; /* Adjust to vertically align the image */
   width: 3em; /* Set the width of the image */
   height: 3em; /* Set the height of the image */
-  background-image: url("../../assets/images/book.jpg");
+  background-image: url("../../assets/images/book.png");
   background-size: contain; /* Scale the image to fit the width and height */
   background-repeat: no-repeat;
 }
@@ -256,6 +238,7 @@ a {
 }
 
 a.ihbItem {
+  display: block; /* Make the link a block element */
   color: $text-color;
   text-decoration: none;
   &:hover {
@@ -263,6 +246,45 @@ a.ihbItem {
     text-decoration: none;
   }
 }
+
+/**
+ * Bibliographic Items
+ */
+
+ .helpColumn {
+    position: absolute;
+    top: 0;
+    right: 0;
+    display: flex;
+    flex-direction: column; /* Stack children vertically */
+    align-items: flex-end; /* Align children to the right */
+  }
+
+  .copyIcon {
+    width: 2em; /* Set the width of the icon */
+    height: 2em; /* Set the height of the icon */
+    background-image: url("/assets/images/copy.png"); /* Default image */
+    background-size: contain; /* Scale the image to fit the width and height */
+    background-repeat: no-repeat;
+    margin-bottom: 0.5em;
+  }
+  
+  .copyIcon:hover {
+    background-image: url("/assets/images/copyHover.png"); /* Image on hover */
+    cursor: pointer; /* Change the cursor to a pointer on hover */
+  }
+
+  .externalUrl {
+    width: 2em; /* Set the width of the icon */
+    height: 2em; /* Set the height of the icon */
+    background-image: url("/assets/images/link.png"); /* Default image */
+    background-size: contain; /* Scale the image to fit the width and height */
+    background-repeat: no-repeat;
+    margin-bottom: 0.5em;
+    &:hover {
+      color: red;
+    }
+  }
 
 
 /**
@@ -362,8 +384,6 @@ pre {
     padding-top: 5px;
   }
 }
-
-
 
 /**
  * Tables

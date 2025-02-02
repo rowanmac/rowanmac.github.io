@@ -1,9 +1,14 @@
 ---
 ---
 
-copyText = (text) ->
-  document.addEventListener 'copy', (e) ->
-    e.clipboardData.setData 'text/plain', text
-    e.preventDefault()
+document.addEventListener "DOMContentLoaded", ->
+  copyIcons = document.querySelectorAll ".copyIcon"
 
-  document.execCommand 'copy'
+  copyIcons.forEach (icon) ->
+    icon.addEventListener "click", (event) ->
+      event.stopPropagation() # Prevent the click event from bubbling up to the parent
+      copyText(event)
+      
+copyText = (event) ->
+  # Your copy text logic here
+  alert "Copy icon clicked!"
