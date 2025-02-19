@@ -4,10 +4,10 @@
     {% if article.category == page.YYYYMM %}
       <a class="ihbItem" href="{{ article.url }}">
         <li>
-          <h4>{{ article.title }}</h4><br>
-            {% if article.author %}<img class="inlineIcon" src="/assets/images/author.jpg" alt="A green quill" width="25"/>{% for person in article.author %}{{ person.given }} {{ person.family }}{% if forloop.last  == false %}, {% endif %}{% endfor %}<br>{% endif %}
-            {% if article.container-title %}<img class="inlineIcon" src="/assets/images/journal.jpg" alt="A thin green book" width="25"/>{{ article.container-title }}<br>{% endif %}
-            {% if article.externalUrl %}<a href="{{ article.externalUrl }}"><img class="inlineIcon" src="/assets/images/link.png" alt="A link in a chain" width="25"></a>{% endif %}
+          <h4>{{ article.title }}</h4>
+            {% if article.author %}By {% for person in article.author %}{{ person.given }} {{ person.family }}{% if forloop.last  == false %}, {% endif %}{% endfor %}<br>{% endif %}
+            {% if article.container-title %}<img class="inlineIcon" src="/assets/images/journal.jpg" alt="A thin green book" width="25"/>In {{ article.container-title }}<br>{% endif %}
+            {% if article.externalUrl %}<a href="{{ article.externalUrl }}" target="_blank"><img class="inlineIcon" src="/assets/images/link.png" alt="A link in a chain" width="25">Link</a>{% endif %}
         </li>
       </a>
     {% endif %}

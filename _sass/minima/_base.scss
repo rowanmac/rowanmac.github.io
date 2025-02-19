@@ -61,8 +61,9 @@ img {
 
 .inlineIcon {
   height: 1.25em; /* Match the image height to the line height */
-  width: auto;
+  width: 1.25em;
   vertical-align: middle; /* Align the image vertically in the middle of the text */
+  padding-right: 0.4em;
 }
 
 /**
@@ -92,23 +93,30 @@ li {
   }
 }
 
+div:has(> ul.bookList), div:has(> ul.sectionList), div:has(> ul.articleList), div:has(> ul.reviewList) {
+  background-color: #f3f7fa;
+  border-radius: 10px;
+  padding-bottom: 1em;
+  padding-left: 1em;
+}
+
 ul.bookList li, ul.sectionList li, ul.articleList li, ul.reviewList li {
   list-style: none; /* Remove default list style */
-  padding-left: 2em; /* Adjust padding to make space for the image */
-  border: 1px solid #fdfdfd; /* Add a border */
-  border-radius: 10px; /* Add rounded borders */
   padding: 1em; /* Add padding inside the border */
-  transition: border-color 0.3s ease; /* Add transition for border color */
+  padding-left: 4em; /* Adjust padding to make space for the image */
+  padding-bottom: 0.3em;
+  padding-top: 0.3em;
+  border-radius: 10px; /* Initial border radius */
+  transition: border-color 1s ease, border-radius 1s ease; /* Add transition for border color and border radius */
+  margin-bottom: 1em; /* Add margin between list items */
+  margin-right: 1em; /* Add margin to the right of list items */
+  background-color: #fdfdfd; /* Add background color */
   a.externalUrl {
     position: absolute;
     top: 0.5em; /* Adjust the top position as needed */
     right: 0.5em; /* Adjust the right position as needed */
     text-decoration: none; /* Remove underline from the link */
   }
-}
-
-ul.bookList li:hover, ul.sectionList li:hover, ul.articleList li:hover, ul.reviewList li:hover {
-border-color: #ccc; /* Change border color on hover */
 }
 
 ul.bookList {
@@ -125,10 +133,9 @@ ul.bookList li {
 ul.bookList li::before {
   content: "";
   position: absolute;
-  left: 0;
-  top: 0.2em; /* Adjust to vertically align the image */
-  width: 3em; /* Set the width of the image */
-  height: 3em; /* Set the height of the image */
+  left: 0.3em;
+  width: 2.5em; /* Set the width of the image */
+  height: 2.5em; /* Set the height of the image */
   background-image: url("../../assets/images/book.png");
   background-size: contain; /* Scale the image to fit the width and height */
   background-repeat: no-repeat;
@@ -148,10 +155,9 @@ ul.sectionList li {
 ul.sectionList li::before {
   content: "";
   position: absolute;
-  left: 0;
-  top: 0.2em; /* Adjust to vertically align the image */
-  width: 3em; /* Set the width of the image */
-  height: 3em; /* Set the height of the image */
+  left: 0.3em;
+  width: 2.5em; /* Set the width of the image */
+  height: 2.5em; /* Set the height of the image */
   background-image: url("../../assets/images/section.png");
   background-size: contain; /* Scale the image to fit the width and height */
   background-repeat: no-repeat;
@@ -171,10 +177,9 @@ ul.articleList li {
 ul.articleList li::before {
   content: "";
   position: absolute;
-  left: 0;
-  top: 0.2em; /* Adjust to vertically align the image */
-  width: 3em; /* Set the width of the image */
-  height: 3em; /* Set the height of the image */
+  left: 0.3em;
+  width: 2.5em; /* Set the width of the image */
+  height: 2.5em; /* Set the height of the image */
   background-image: url("../../assets/images/article.png");
   background-size: contain; /* Scale the image to fit the width and height */
   background-repeat: no-repeat;
@@ -194,14 +199,15 @@ ul.reviewList li {
 ul.reviewList li::before {
   content: "";
   position: absolute;
-  left: 0;
-  top: 0.2em; /* Adjust to vertically align the image */
-  width: 3em; /* Set the width of the image */
-  height: 3em; /* Set the height of the image */
+  left: 0.3em;
+  width: 2.5em; /* Set the width of the image */
+  height: 2.5em; /* Set the height of the image */
   background-image: url("../../assets/images/review.png");
   background-size: contain; /* Scale the image to fit the width and height */
   background-repeat: no-repeat;
 }
+
+
 
 /**
  * Headings
@@ -210,6 +216,13 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: $base-font-weight;
 }
 
+.bookList h4,
+.articleList h4,
+.sectionList h4,
+.reviewList h4 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
 
 
 /**

@@ -4,8 +4,10 @@
       <ul class="sectionList">
         <a class="ihbItem" href="{{ section.url }}">
           <li>
-            <h4>{{ section.title }}</h4><br>
-            <img class="inlineIcon" src="/assets/images/author.jpg" alt="A green quill" width="25"/>{{ section.author[0].given }} {{ section.author[0].family }}
+            <h4>{{ section.title }}</h4>
+            By {{ section.author[0].given }} {{ section.author[0].family }}<br>
+            <img class="inlineIcon" src="/assets/images/sectionBook.png" alt="A green book">In {{ section.container-title }}
+            {% if section.externalUrl %}<a href="{{ section.externalUrl }}" target="_blank"><img class="inlineIcon" src="/assets/images/link.png" alt="A link in a chain" width="25">Link</a><br>{% endif %}
           </li>
         </a>
       </ul>

@@ -4,13 +4,13 @@
       <a class="ihbItem" href="{{ review.url }}">
         <li>
           {% if review.cleanTitle %}
-            <h4>{{ review.title }}<br>Work reviewed: {{ review.workReviewed }}</h4><br>
+            <h4>{{ review.title }}<br>Work reviewed: {{ review.workReviewed }}</h4>
           {% else %}
-            <h4>{{ review.workReviewed }}</h4><br>
+            <h4>{{ review.workReviewed }}</h4>
           {% endif %}
-          {% if review.author %}<img class="inlineIcon" src="/assets/images/author.jpg" alt="A green quill" width="25"/>Reviewed by {% for person in review.author %}{{ person.given }} {{ person.family }}{% if forloop.last  == false %}, {% endif %}{% endfor %}<br>{% endif %}
-          {% if review.container-title %}<img class="inlineIcon" src="/assets/images/journal.jpg" alt="A thin green book" width="25"/>{{ review.container-title }}<br>{% endif %}
-          {% if review.externalUrl %}<a href="{{ review.externalUrl }}"><img class="inlineIcon" src="/assets/images/link.png" alt="A link in a chain" width="25"></a><br>{% endif %}
+          {% if review.author %}Reviewed by {% for person in review.author %}{{ person.given }} {{ person.family }}{% if forloop.last  == false %}, {% endif %}{% endfor %}<br>{% endif %}
+          {% if review.container-title %}<img class="inlineIcon" src="/assets/images/journal.jpg" alt="A thin green book" width="25"/>In {{ review.container-title }}<br>{% endif %}
+          {% if review.externalUrl %}<a href="{{ review.externalUrl }}" target="_blank"><img class="inlineIcon" src="/assets/images/link.png" alt="A link in a chain" width="25">Link</a><br>{% endif %}
         </li>
       </a>
     {% endif %}
