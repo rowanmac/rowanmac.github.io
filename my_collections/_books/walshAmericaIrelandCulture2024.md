@@ -26,7 +26,7 @@ issued:
 - circa: true
   day: 21
   month: 12
-  year: 2024
+  year: 2025
 language: English
 layout: page
 number-of-pages: '250'

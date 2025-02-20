@@ -1,7 +1,6 @@
 ---
 ISBN: 978-0-7453-4875-9
-URL: https://www.amazon.co.uk/Fragments-Victory-Contemporary-Irish-Left/dp/0745348750,
-  https://www.plutobooks.com/9780745348759/fragments-of-victory/
+URL: https://www.plutobooks.com/9780745348759/fragments-of-victory/
 abstract: "There is much to learn from modern left-wing activism in Ireland. A rich\
   \ tapestry of movements, including republicans, social democrats, trade unions,\
   \ Trotskyists and anarchists, they have been battling neoliberalism and austerity\
@@ -20,8 +19,7 @@ editor:
   given: "Ois\xEDn"
 - family: Landy
   given: David
-externalUrl: https://www.amazon.co.uk/Fragments-Victory-Contemporary-Irish-Left/dp/0745348750,
-  https://www.plutobooks.com/9780745348759/fragments-of-victory/
+externalUrl: https://www.plutobooks.com/9780745348759/fragments-of-victory/
 id: gilmoreFragmentsVictoryContemporary2025
 issued:
 - day: 20

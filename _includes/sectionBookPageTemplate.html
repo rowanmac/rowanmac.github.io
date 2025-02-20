@@ -1,6 +1,6 @@
 {% assign sortedSections = site.sections | sort: 'chapter' %}
   {% for section in sortedSections %}
-    {% if section.container-title == book.title %}
+    {% if section.container-title == page.title %}
       <ul class="sectionList">
         <a class="ihbItem" href="{{ section.url }}">
           <li>

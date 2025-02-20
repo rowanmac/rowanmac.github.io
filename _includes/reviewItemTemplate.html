@@ -8,8 +8,8 @@
           {% else %}
             <h4>{{ review.workReviewed }}</h4>
           {% endif %}
-          {% if review.author %}Reviewed by {% for person in review.author %}{{ person.given }} {{ person.family }}{% if forloop.last  == false %}, {% endif %}{% endfor %}<br>{% endif %}
-          {% if review.container-title %}<img class="inlineIcon" src="/assets/images/journal.jpg" alt="A thin green book" width="25"/>In {{ review.container-title }}<br>{% endif %}
+          {% if review.author %}By {% if review.author.size == 1 %}{{ review.author[0].given }} {{ review.author[0].family }}{% else %}{% for person in review.author %}{% if forloop.last == true %} and {% endif %}{{ person.given }} {{ person.family }}{% if forloop.last == false %}, {% endif %}{% endfor %}{% endif %}<br>{% endif %}
+          {% if review.container-title %}In {{ review.container-title }}<br>{% endif %}
           {% if review.externalUrl %}<a href="{{ review.externalUrl }}" target="_blank"><img class="inlineIcon" src="/assets/images/link.png" alt="A link in a chain" width="25">Link</a><br>{% endif %}
         </li>
       </a>

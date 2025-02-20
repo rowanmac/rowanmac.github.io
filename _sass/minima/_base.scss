@@ -107,7 +107,6 @@ ul.bookList li, ul.sectionList li, ul.articleList li, ul.reviewList li {
   padding-bottom: 0.3em;
   padding-top: 0.3em;
   border-radius: 10px; /* Initial border radius */
-  transition: border-color 1s ease, border-radius 1s ease; /* Add transition for border color and border radius */
   margin-bottom: 1em; /* Add margin between list items */
   margin-right: 1em; /* Add margin to the right of list items */
   background-color: #fdfdfd; /* Add background color */
@@ -117,6 +116,10 @@ ul.bookList li, ul.sectionList li, ul.articleList li, ul.reviewList li {
     right: 0.5em; /* Adjust the right position as needed */
     text-decoration: none; /* Remove underline from the link */
   }
+}
+
+ul.bookList li:hover, ul.sectionList li:hover, ul.articleList li:hover, ul.reviewList li:hover {
+
 }
 
 ul.bookList {
@@ -261,44 +264,56 @@ a.ihbItem {
 }
 
 /**
- * Bibliographic Items
+ * Bibliographic Item Pages
  */
 
- .helpColumn {
+article:has( div.bookPage), article:has( div.articlePage), article:has( div.reviewPage), article:has( div.sectionPage) {
+  border: solid;
+  border-color: #f3f7fa;
+  border-width: 20px;
+  border-radius: $spacing-unit;
+  padding: $spacing-unit/2;
+  padding-left: $spacing-unit*3;
+  .post-title {
+    position: relative;
+  }
+  .post-title::before {
+    content: "";
     position: absolute;
-    top: 0;
-    right: 0;
-    display: flex;
-    flex-direction: column; /* Stack children vertically */
-    align-items: flex-end; /* Align children to the right */
-  }
-
-  .copyIcon {
-    width: 2em; /* Set the width of the icon */
-    height: 2em; /* Set the height of the icon */
-    background-image: url("/assets/images/copy.png"); /* Default image */
+    width: 75px; /* Set the width of the image */
+    height: 75px; /* Set the height of the image */
     background-size: contain; /* Scale the image to fit the width and height */
     background-repeat: no-repeat;
-    margin-bottom: 0.5em;
   }
-  
-  .copyIcon:hover {
-    background-image: url("/assets/images/copyHover.png"); /* Image on hover */
-    cursor: pointer; /* Change the cursor to a pointer on hover */
-  }
+}
 
-  .externalUrl {
-    width: 2em; /* Set the width of the icon */
-    height: 2em; /* Set the height of the icon */
-    background-image: url("/assets/images/link.png"); /* Default image */
-    background-size: contain; /* Scale the image to fit the width and height */
-    background-repeat: no-repeat;
-    margin-bottom: 0.5em;
-    &:hover {
-      color: red;
-    }
+article:has( div.bookPage) {
+  .post-title::before {
+    left: -$spacing-unit*2;
+    background-image: url("../../assets/images/book.png");
   }
+}
 
+article:has( div.articlePage) {
+  .post-title::before {
+    left: -$spacing-unit*2.5;
+    background-image: url("../../assets/images/article.png");
+  }
+}
+
+article:has( div.reviewPage) {
+  .post-title::before {
+    left: -$spacing-unit*2.5;
+    background-image: url("../../assets/images/review.png");
+  }
+}
+
+article:has( div.sectionPage) {
+  .post-title::before {
+    left: -$spacing-unit*2.7;
+    background-image: url("../../assets/images/section.png");
+  }
+}
 
 /**
  * Blockquotes
