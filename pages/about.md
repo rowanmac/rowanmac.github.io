@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm Rowan MacConville, currently an MPhil student in Chinese Studies at Trinity College Dublin. Welcome to my blog!
+I'm Rowan MacConville, currently an MPhil student in Chinese Studies at Trinity College Dublin, formally BA History at University College Dublin.
 ## The Irish History Brief
 This site was created mostly to publically host my bibliographic project, The Irish History Brief.
 In late 2024 I was looking for up-to-date information about what was being published in Irish history and I discovered that there really wasn't any frequently updated database.
@@ -34,4 +34,15 @@ When book chapters are written by different authors, I try to list the chapters 
 I would love to include PhD theses and conference papers and am currently thinking about how I conveniently and comprehensively access this data.
 It would also be nice to include things like articles, say for example from History Ireland magazine, or new documentaries, radio shows, podcasts etc, but I haven't found a good way to collect this data.
 
+# Features & Planned Features
+- [x] A monthly brief
+- [x] Individual pages for each work with more information
+- [ ] A newsletter version
+- [ ] Options to export citation data to reference managment software
+- [ ] Index of journals, publishers & scholars
+- [ ] Inclusion of conference papers & PhD theses
+- [ ] Inclusion of newspaper articles and reviews, documentaries, radio features & podcasts.
+
 ## Other Interests
+I may post other things from time to time: reviews of books, essays, primary source commentaries, reading lists, interesting links, not necessary related to Irish history.
+
