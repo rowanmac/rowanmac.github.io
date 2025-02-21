@@ -1,4 +1,5 @@
 {% assign sortedBooks = site.books | sort: 'title' %}
+<button class="toggleBibList"></button>
 <ul class="bookList">
   {% for book in sortedBooks %}
     {% if book.category == page.YYYYMM %}
@@ -9,8 +10,8 @@
           {% if book.editor %}Edited by {% if book.editor.size == 1 %}{{ book.editor[0].given }} {{ book.editor[0].family }}{% else %}{% for person in book.editor %}{% if forloop.last == true %} and {% endif %}{{ person.given }} {{ person.family }}{% if forloop.last  == false %}, {% endif %}{% endfor %}{% endif %}<br>{% endif %}
           {% if book.externalUrl %}<a href="{{ book.externalUrl }}" target="_blank"><img class="inlineIcon" src="/assets/images/link.png" alt="A link in a chain" width="25">Link</a>{% endif %}
         </li>
-        {% if book.sections %}{% include sectionItemTemplate.html %}{% endif %}
       </a>
+      {% if book.sections %}{% include sectionItemTemplate.html %}{% endif %}
     {% endif %}
   {% endfor %}
 </ul>

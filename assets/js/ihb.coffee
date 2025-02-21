@@ -1,14 +1,17 @@
 ---
 ---
 
-document.addEventListener "DOMContentLoaded", ->
-  copyIcons = document.querySelectorAll ".copyIcon"
+    toggleUl = (button) ->
+      button.addEventListener "click", ->
+        ul = button.nextElementSibling
+        return unless ul?.tagName is "UL"
 
-  copyIcons.forEach (icon) ->
-    icon.addEventListener "click", (event) ->
-      event.stopPropagation() # Prevent the click event from bubbling up to the parent
-      copyText(event)
-      
-copyText = (event) ->
-  # Your copy text logic here
-  alert "Copy icon clicked!"
+        if ul.style.display == "none"
+          ul.style.display = "block"
+        else
+          ul.style.display = "none"
+
+    document.addEventListener "DOMContentLoaded", ->
+      buttons = document.querySelectorAll("button.toggleBibList")
+      for button in buttons
+        toggleUl(button)

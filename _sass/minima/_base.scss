@@ -145,6 +145,7 @@ ul.bookList li::before {
 }
 
 ul.sectionList {
+  display: none;
   list-style: none; /* Remove default list style */
   padding-left: 2em; /* Adjust padding to make space for the image */
 }
@@ -440,3 +441,18 @@ table {
     border: 1px solid $grey-color-light;
   }
 }
+
+/**
+ * Buttons
+ */
+
+ .toggleBibList {
+    background-color: #fdfdfd;
+    border-radius: 10px;
+    border-color: #fdfdfd;
+    padding: 0.5em;
+    margin-bottom: 1em;
+    margin-right: 1em;
+    display: inline-block;
+    cursor: pointer;
+ }
