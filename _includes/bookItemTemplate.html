@@ -1,5 +1,4 @@
 {% assign sortedBooks = site.books | sort: 'title' %}
-<button class="toggleBibList"></button>
 <ul class="bookList">
   {% for book in sortedBooks %}
     {% if book.category == page.YYYYMM %}
