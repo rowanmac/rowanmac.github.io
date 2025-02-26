@@ -26,7 +26,7 @@ author:
   given: James
 category: 202501
 citation-key: oneilNineYearsWar15932025
-externalUrl: null
+externalUrl: https://www.helion.co.uk/military-history-books/the-nine-years-war-1593-1603-part-1-the-ascendancy-of-irish-arms-and-the-road-to-yellow-ford-1593-1598.php
 id: oneilNineYearsWar15932025
 issued:
 - day: 15

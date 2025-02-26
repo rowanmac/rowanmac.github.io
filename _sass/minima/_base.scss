@@ -129,8 +129,11 @@ ul.bookList li:hover, ul.sectionList li:hover, ul.articleList li:hover, ul.revie
 
 ul.sectionList {
   display: none;
+  &:hover{
+    text-decoration: none;
+  }
   li {
-    padding-left: $spacing-unit
+    margin-left: $spacing-unit
   }
 }
 
@@ -363,13 +366,16 @@ table {
  * Buttons
  */
 
- .toggleBibList {
-    background-color: #fdfdfd;
-    border-radius: 10px;
-    border-color: #fdfdfd;
-    padding: 0.5em;
+ button.toggleBibList {
+    background-color: $ihb-background-color;
+    font-family: $base-font-family;
+    font-size: $base-font-size;
+    border: none;
     margin-bottom: 1em;
     margin-right: 1em;
     display: inline-block;
     cursor: pointer;
+    &:hover {
+      text-decoration: underline;
+    }
  }

@@ -10,7 +10,7 @@ container-title: "America in Ireland: Culture and Society, 1841\u20131925"
 editor:
 - family: Walsh
   given: Fionnuala
-externalUrl: null
+externalUrl: https://www.cambridge.org/core/books/abs/america-in-ireland/representations-of-the-returned-yank-in-the-emigration-to-america-questionnaire-1955/AB659994DED4DE8999F6DA22AE057526
 id: maccarthaighRepresentationsReturnedYank2024
 issued:
 - circa: true

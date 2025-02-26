@@ -10,7 +10,7 @@ container-title: "America in Ireland: Culture and Society, 1841\u20131925"
 editor:
 - family: Walsh
   given: Fionnuala
-externalUrl: null
+externalUrl: https://www.cambridge.org/core/books/abs/america-in-ireland/americanisation-in-irish-politics-c-18501925/C31F97F032DEB3B81DA2C5A47B2B4D98
 id: whelehanAmericanisationIrishPolitics2024
 issued:
 - circa: true

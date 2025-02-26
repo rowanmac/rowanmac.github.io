@@ -16,7 +16,7 @@ author:
 category: 202501
 citation-key: smithCatholicsLawRestoration2025
 collection-title: Studies in Early Modern Irish History
-externalUrl: null
+externalUrl: https://www.jstor.org/stable/jj.23925640
 id: smithCatholicsLawRestoration2025
 issued:
 - day: 14

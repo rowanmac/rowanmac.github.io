@@ -19,7 +19,7 @@ author:
   given: Neha
 category: 202501
 citation-key: ryanIrishNursesNHS2025
-externalUrl: null
+externalUrl: https://www.fourcourtspress.ie/books/2025/irish-nurses-in-the-nhs
 id: ryanIrishNursesNHS2025
 issued:
 - day: 31

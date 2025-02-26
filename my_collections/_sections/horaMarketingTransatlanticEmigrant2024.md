@@ -10,7 +10,7 @@ container-title: "America in Ireland: Culture and Society, 1841\u20131925"
 editor:
 - family: Walsh
   given: Fionnuala
-externalUrl: null
+externalUrl: https://www.cambridge.org/core/books/abs/america-in-ireland/marketing-the-transatlantic-emigrant-crossing/8BBED550C0063150B18C0BC099EED9A0
 id: horaMarketingTransatlanticEmigrant2024
 issued:
 - circa: true

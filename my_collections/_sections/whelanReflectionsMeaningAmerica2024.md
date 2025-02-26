@@ -10,7 +10,7 @@ container-title: "America in Ireland: Culture and Society, 1841\u20131925"
 editor:
 - family: Walsh
   given: Fionnuala
-externalUrl: null
+externalUrl: https://www.cambridge.org/core/books/abs/america-in-ireland/reflections-on-the-meaning-of-america-in-irish-emigrant-material-culture-18451925/652B4D0E2549AFF61573DF75B2EC5917
 id: whelanReflectionsMeaningAmerica2024
 issued:
 - circa: true

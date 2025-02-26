@@ -20,7 +20,7 @@ citation-key: walshAmericaIrelandCulture2024
 editor:
 - family: Walsh
   given: Fionnuala
-externalUrl: null
+externalUrl: "https://www.cambridge.org/core/books/america-in-ireland/6A6FC871D8AD4A3DBB1D9647FE53D0BD"
 id: walshAmericaIrelandCulture2024
 issued:
 - circa: true

@@ -24,7 +24,7 @@ author:
   given: Karl
 category: 202501
 citation-key: ohanlonOfficialVoicesPoets2024
-externalUrl: null
+externalUrl: https://www.liverpooluniversitypress.co.uk/doi/book/10.3828/9781835538463
 id: ohanlonOfficialVoicesPoets2024
 issued:
 - day: 28

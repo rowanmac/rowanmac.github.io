@@ -21,7 +21,7 @@ author:
   given: Christina
 category: 202501
 citation-key: wadeFilthyQueensHistory2025
-externalUrl: null
+externalUrl: https://ninebeanrowsbooks.com/products/filthy-queens
 id: wadeFilthyQueensHistory2025
 issued:
 - day: 30

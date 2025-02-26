@@ -43,5 +43,6 @@ source: Amazon
 title: 'A Hillfort Through Time: Excavations at Rathgall, County Wicklow'
 title-short: A Hillfort Through Time
 type: book
+externalUrl: "https://wordwellbooks.com/index.php?route=product/product&product_id=2100"
 ---
 {% include bookPageTemplate.html %}

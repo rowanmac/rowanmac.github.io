@@ -5,12 +5,12 @@
       <li>
         <a href="{{ book.url }}" class="ihbItem">
           <h4>{{ book.title }}</h4>
-          {% if book.author %}By {% if book.author.size == 1 %}{{ book.author[0].given }} {{ book.author[0].family }}{% else %}{% for person in book.author %}{% if forloop.last == true %} and {% endif %}{{ person.given }} {{ person.family }}{% if forloop.last == false %}, {% endif %}{% endfor %}{% endif %}<br>{% endif %}
-          {% if book.editor %}Edited by {% if book.editor.size == 1 %}{{ book.editor[0].given }} {{ book.editor[0].family }}{% else %}{% for person in book.editor %}{% if forloop.last == true %} and {% endif %}{{ person.given }} {{ person.family }}{% if forloop.last  == false %}, {% endif %}{% endfor %}{% endif %}{% endif %}
+          {% if book.author %}by {% if book.author.size == 1 %}{{ book.author[0].given }} {{ book.author[0].family }}{% else %}{% for person in book.author %}{% if forloop.last == true %} and {% endif %}{{ person.given }} {{ person.family }}{% if forloop.last == false %}, {% endif %}{% endfor %}{% endif %}.<br>{% endif %}
+          {% if book.editor %}edited by {% if book.editor.size == 1 %}{{ book.editor[0].given }} {{ book.editor[0].family }}{% else %}{% for person in book.editor %}{% if forloop.last == true %} and {% endif %}{{ person.given }} {{ person.family }}{% if forloop.last  == false %}, {% endif %}{% endfor %}{% endif %}.{% endif %}
         </a>
-        {% if book.externalUrl %}<a href="{{ book.externalUrl }}" target="_blank">Link</a>{% endif %}
+        {% if book.externalUrl %}<a href="{{ book.externalUrl }}" target="_blank">Link</a><br>{% endif %}
+        {% if book.sections %}{% include sectionListTemplate.html %}{% endif %}
       </li>
-      {% if book.sections %}{% include sectionListTemplate.html %}{% endif %}
     {% endif %}
   {% endfor %}
 </ul>

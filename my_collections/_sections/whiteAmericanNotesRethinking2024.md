@@ -10,7 +10,7 @@ container-title: "America in Ireland: Culture and Society, 1841\u20131925"
 editor:
 - family: Walsh
   given: Fionnuala
-externalUrl: null
+externalUrl: https://www.cambridge.org/core/books/abs/america-in-ireland/american-notes/8A918559EC15A1DB5F14B18D6BD6078F
 id: whiteAmericanNotesRethinking2024
 issued:
 - circa: true

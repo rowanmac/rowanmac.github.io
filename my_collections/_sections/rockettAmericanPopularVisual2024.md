@@ -10,7 +10,7 @@ container-title: "America in Ireland: Culture and Society, 1841\u20131925"
 editor:
 - family: Walsh
   given: Fionnuala
-externalUrl: null
+externalUrl: https://www.cambridge.org/core/books/abs/america-in-ireland/american-popular-visual-culture-and-ireland-1840s1920s/88B1064F5D06FDC91428EDB639C6DACE
 id: rockettAmericanPopularVisual2024
 issued:
 - circa: true

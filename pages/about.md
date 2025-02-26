@@ -31,7 +31,7 @@ For example an independently reseached and published work of local history would
 # What is included?
 Expect to see books, both from university presses and generalist publishers, journal articles and academic book reviews.
 When book chapters are written by different authors, I try to list the chapters seperately when I can get this information.
-I would love to include PhD theses and conference papers and am currently thinking about how I conveniently and comprehensively access this data.
+I would love to include PhD theses and conference papers and am currently thinking about how I could conveniently and comprehensively access this data.
 It would also be nice to include things like articles, say for example from History Ireland magazine, or new documentaries, radio shows, podcasts etc, but I haven't found a good way to collect this data.
 
 # Features & Planned Features
