@@ -10,7 +10,7 @@
           {% endif %}
           {% if review.author %}Reviewed by {% if review.author.size == 1 %}{{ review.author[0].given }} {{ review.author[0].family }}{% else %}{% for person in review.author %}{% if forloop.last == true %} and {% endif %}{{ person.given }} {{ person.family }}{% if forloop.last == false %}, {% endif %}{% endfor %}{% endif %}<br>{% endif %}
           {% if review.container-title %}In {{ review.container-title }}<br>{% endif %}
-          {% if review.externalUrl %}<a href="{{ review.externalUrl }}" target="_blank"><img class="inlineIcon" src="/assets/images/link.png" alt="A link in a chain" width="25">Link</a><br>{% endif %}
+          {% if review.externalUrl %}<a href="{{ review.externalUrl }}" target="_blank">Link</a><br>{% endif %}
         </li>
       </a>
     {% endif %}

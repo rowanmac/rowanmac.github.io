@@ -8,7 +8,7 @@
           <h4>{{ section.title }}</h4>
           {% if section.author %}By {% if section.author.size == 1 %}{{ section.author[0].given }} {{ section.author[0].family }}{% else %}{% for person in section.author %}{% if forloop.last == true %} and {% endif %}{{ person.given }} {{ person.family }}{% if forloop.last == false %}, {% endif %}{% endfor %}{% endif %}<br>{% endif %}
           In {{ section.container-title }}
-          {% if section.externalUrl %}<a href="{{ section.externalUrl }}" target="_blank"><img class="inlineIcon" src="/assets/images/link.png" alt="A link in a chain" width="25">Link</a><br>{% endif %}
+          {% if section.externalUrl %}<a href="{{ section.externalUrl }}" target="_blank">Link</a><br>{% endif %}
         </li>
       </a>
     {% endif %}

@@ -94,7 +94,7 @@ li {
 }
 
 div:has(> ul.bookList), div:has(> ul.sectionList), div:has(> ul.articleList), div:has(> ul.reviewList) {
-  background-color: #f3f7fa;
+  background-color: $ihb-background-color;
   border-radius: 10px;
   padding-bottom: 1em;
   padding-left: 1em;
@@ -109,7 +109,7 @@ ul.bookList li, ul.sectionList li, ul.articleList li, ul.reviewList li {
   border-radius: 10px; /* Initial border radius */
   margin-bottom: 1em; /* Add margin between list items */
   margin-right: 1em; /* Add margin to the right of list items */
-  background-color: #fdfdfd; /* Add background color */
+  background-color: $background-color; /* Add background color */
   a.externalUrl {
     position: absolute;
     top: 0.5em; /* Adjust the top position as needed */
@@ -270,7 +270,7 @@ a.ihbItem {
 
 article:has( div.bookPage), article:has( div.articlePage), article:has( div.reviewPage), article:has( div.sectionPage) {
   border: solid;
-  border-color: #f3f7fa;
+  border-color: $ihb-background-color;
   border-width: 20px;
   border-radius: $spacing-unit;
   padding: $spacing-unit/2;

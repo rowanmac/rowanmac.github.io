@@ -3,7 +3,7 @@
         {% if page.author %}By {% if page.author.size == 1 %}{{ page.author[0].given }} {{ page.author[0].family }}{% else %}{% for person in page.author %}{% if forloop.last == true %} and {% endif %}{{ person.given }} {{ person.family }}{% if forloop.last == false %}, {% endif %}{% endfor %}{% endif %}<br>{% endif %}
         {% if page.container-title %}In {{ page.container-title }}<br>{% endif %}
         Published {{ page.category | slice: 4, 6 |date:'%B' }} {{ page.category | slice: 0, 4 }}.<br>
-        {% if page.externalUrl %}<a href="{{ page.externalUrl }}" target="_blank"><img class="inlineIcon" src="/assets/images/link.png" alt="A link in a chain" width="25">Link</a><br>{% endif %}
+        {% if page.externalUrl %}<a href="{{ page.externalUrl }}" target="_blank">Link</a><br>{% endif %}
         {% if page.abstract %}<br><h3>Abstract</h3><p>{{ page.abstract }}</p>{% endif %}
     </div>
 </div>
