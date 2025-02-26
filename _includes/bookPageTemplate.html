@@ -4,7 +4,7 @@
         {% if page.editor %}Edited by {% if page.editor.size == 1 %}{{ page.editor[0].given }} {{ page.editor[0].family }}{% else %}{% for person in page.editor %}{% if forloop.last == true %} and {% endif %}{{ person.given }} {{ person.family }}{% if forloop.last  == false %}, {% endif %}{% endfor %}{% endif %}<br>{% endif %}
         {% if page.publisher %}Published by {{ page.publisher }}{% if page.issued %}, {{ page.issued[0].month |date:'%B' }} {{ page.issued[0].year }}. {% endif %}<br>{% endif %}
         {% if page.ISBN %}ISBN: {{ page.ISBN }}<br>{% endif %}
-        {% if page.externalUrl %}<a href="{{ page.externalUrl }}" target="_blank">>Link</a><br>{% endif %}
+        {% if page.externalUrl %}<a href="{{ page.externalUrl }}" target="_blank">Link</a><br>{% endif %}
         {% if page.abstract %}<br><h3>Abstract</h3><p>{{ page.abstract }}</p>{% endif %}
         {% if page.sections %}<h3>Chapters</h3>{% include sectionBookPageTemplate.html %}{% endif %}
     </div>

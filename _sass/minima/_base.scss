@@ -101,19 +101,19 @@ div:has(> ul.bookList), div:has(> ul.sectionList), div:has(> ul.articleList), di
 }
 
 ul.bookList, ul.sectionList, ul.articleList, ul.reviewList {
-  list-style: none;
   padding: 0px;
   margin-left: 0px;
 }
 
 ul.bookList li, ul.sectionList li, ul.articleList li, ul.reviewList li {
+  position: relative;
   list-style: none; /* Remove default list style */
-  padding: 1em; /* Add padding inside the border */
-  padding-left: 4em; /* Adjust padding to make space for the image */
   padding-bottom: 0.3em;
   padding-top: 0.3em;
   margin-right: 1em; /* Add margin to the right of list items */
   background-color: $background-color; /* Add background color */
+  border-image: linear-gradient(to right, $grey-color, 5%, $background-color 60%) 1;
+  border-bottom: 1px dotted grey;
   a.externalUrl {
     position: absolute;
     top: 0.5em; /* Adjust the top position as needed */
@@ -123,82 +123,16 @@ ul.bookList li, ul.sectionList li, ul.articleList li, ul.reviewList li {
 }
 
 ul.bookList li:hover, ul.sectionList li:hover, ul.articleList li:hover, ul.reviewList li:hover {
-
+  text-decoration: underline;
 }
 
-ul.bookList li {
-  list-style: none;
-  position: relative;
-  padding-left: 2em; /* Adjust padding to make space for the image */
-}
-
-ul.bookList li::before {
-  content: "";
-  position: absolute;
-  left: 0.3em;
-  width: 2.5em; /* Set the width of the image */
-  height: 2.5em; /* Set the height of the image */
-  background-image: url("../../assets/images/book.png");
-  background-size: contain; /* Scale the image to fit the width and height */
-  background-repeat: no-repeat;
-}
 
 ul.sectionList {
   display: none;
+  li {
+    padding-left: $spacing-unit
+  }
 }
-
-ul.sectionList li {
-  list-style: none;
-  position: relative;
-  padding-left: 3.5em; /* Adjust padding to make space for the image */
-}
-
-ul.sectionList li::before {
-  content: "";
-  position: absolute;
-  left: 0.3em;
-  width: 2.5em; /* Set the width of the image */
-  height: 2.5em; /* Set the height of the image */
-  background-image: url("../../assets/images/section.png");
-  background-size: contain; /* Scale the image to fit the width and height */
-  background-repeat: no-repeat;
-}
-
-ul.articleList li {
-  list-style: none;
-  position: relative;
-  padding-left: 3.5em; /* Adjust padding to make space for the image */
-}
-
-ul.articleList li::before {
-  content: "";
-  position: absolute;
-  left: 0.3em;
-  width: 2.5em; /* Set the width of the image */
-  height: 2.5em; /* Set the height of the image */
-  background-image: url("../../assets/images/article.png");
-  background-size: contain; /* Scale the image to fit the width and height */
-  background-repeat: no-repeat;
-}
-
-ul.reviewList li {
-  list-style: none;
-  position: relative;
-  padding-left: 3.5em; /* Adjust padding to make space for the image */
-}
-
-ul.reviewList li::before {
-  content: "";
-  position: absolute;
-  left: 0.3em;
-  width: 2.5em; /* Set the width of the image */
-  height: 2.5em; /* Set the height of the image */
-  background-image: url("../../assets/images/review.png");
-  background-size: contain; /* Scale the image to fit the width and height */
-  background-repeat: no-repeat;
-}
-
-
 
 /**
  * Headings
