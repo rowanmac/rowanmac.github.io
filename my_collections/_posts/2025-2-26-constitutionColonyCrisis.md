@@ -63,60 +63,82 @@ Unmentioned but impossible to ignore is that Ireland, in their view, toes the sa
 
 It is tricky to fit the constitutional thought of the *DUM* in the 1830s into the broader arc of post-famine constitutional history. On the one hand much is familiar; Protestant fear toward Catholic demographic dominance, the use of other territories in the empire as constitutional analogies and a scepticism of Union were all to be features of former *DUM* editor Issac Butt's work on federalism and Home Rule in the 1870s.[^29] In fact he even reuses in his 1870 pamphlet on federalism certain phrases which appear in the *DUM*. So too are there the seeds of a constructive Unionism in the *DUM*. There was always a genuine, if garishly orange, care for the proper governance of Ireland and a belief that through good government the British connection could come to be cherished by the whole of the population. And despite an openly sectarian editorial line, the *DUM*'s attempts at creating an Irish identity for the Protestant people address a question which remains pertinent to this very day. On the other hand, however, it is set apart in some critical ways. The acuteness of the Protestant sense of betrayal created an apocalyptic tone which stands out against later texts. Issac Butt's federalist pamphlet, in many ways an evolution of the *DUM*'s thinking, is staid in comparison. But most of all it is the relation to the colonial nature of Ireland and the Protestant role within it which sets the *DUM* apart. After the famine union, albeit a dysfunctional union, was the status quo and the benchmark for constitutional change. The *DUM* in the 1830s, however, was working from rawer, crueller and baser stuff. They accepted union but the basis of their understanding of what Ireland was and what their purpose as a class was remained colonial. Union was the constitutional paper over the reality of domination. The anger would fade over the decades into milder, maturer and more accepting forms but the wound of betrayal remained.
 
-[^1]: [@DublinUniversityMagazine Jan. 1837, 124].
+# Bibliography
 
-[^2]: [@hallDialoguesMarginStudy1999 30].
+Butt, Isaac, and Home Government Association. *Irish Federalism : Its Meaning, Its Objects, and Its Hopes.* Dublin: John Falconer, 1870.
 
-[^3]: [@geogheganImpactConnell18152018 124].
+Conrad, Margaret. *A Concise History of Canada.* Cambridge: Cambridge University Press, 2012.
 
-[^4]: [@hallDublinUniversityMagazine1987 50].
+Geoghegan, Patrick M. “The Impact of O’Connell, 1815–1850.” Edited by James Kelly. In *The Cambridge History of Ireland: Volume 3: 1730–1880.* Cambridge: Cambridge University Press, 2018.
 
-[^5]: [@jacksonIreland17981998Politics1999 39].
+Hall, Wayne E. *Dialogues in the Margin : A Study of the Dublin University Magazine.* Washington, D.C. Catholic University of America Press, 1999.
 
-[^6]: [@tilleyNationalJournalDublin2020 65].
+----. “The ”Dublin University Magazine” and Isaac Butt, 1834-1838.” *Victorian Periodicals Review* 20, no. 2 (1987): 43–56.
 
-[^7]: [@spencePhilosophyIrishToryism1991 32].
+Jackson, Alvin. *Ireland, 1798-1998 : Politics and War.* Oxford, UK: Blackwell Publishers, 1999.
 
-[^8]: [@hallDialoguesMarginStudy1999 37].
+Spence, Joseph. “The Philosophy of Irish Toryism, 1833-52: A Study of Reactions to Liberal Reformism in Ireland in the Generation between the First Reform Act and the Famine.” PhD diss., Birkbeck (University of London), 1991.
 
-[^9]: [@spencePhilosophyIrishToryism1991 33].
+*The Dublin University Magazine, a Literary and Political Journal.* Dublin, W. Curry, jun., and co.
 
-[^10]: [@spencePhilosophyIrishToryism1991 30].
+Tilley, Elizabeth. The National Journal: The Dublin University Magazine (1833–1877). In *The Periodical Press in Nineteenth-Century Ireland*, 63–90. Cham: Springer International Publishing, 2020.
 
-[^11]: [@hallDialoguesMarginStudy1999 3].
+Ward, Alan J. *The Irish Constitutional Tradition: Responsible Government and Modern Ireland; 1782 - 1992.* Washington, D.C: The Catholic Univ. of America Press, 1994.
 
-[^12]: [@hallDublinUniversityMagazine1987 44].
+[^1]: {%- include footnote.html id='/DublinUniversityMagazinea' %} Jan. 1837, 124.
 
-[^13]: [@hallDublinUniversityMagazine1987 46].
+[^2]: {%- include footnote.html id='/hallDialoguesMarginStudy1999a' %} 30.
 
-[^14]: [@geogheganImpactConnell18152018 104].
+[^3]: {%- include footnote.html id='/geogheganImpactConnell18152018a' %} 124.
 
-[^15]: [@spencePhilosophyIrishToryism1991 58].
+[^4]: {%- include footnote.html id='/hallDublinUniversityMagazine1987a' %} 50.
 
-[^16]: [@DublinUniversityMagazine Nov. 1833, 587].
+[^5]: {%- include footnote.html id='/jacksonIreland17981998Politics1999a' %} 39.
 
-[^17]: [@DublinUniversityMagazine Apr. 1833, 401].
+[^6]: {%- include footnote.html id='/tilleyNationalJournalDublin2020a' %} 65.
 
-[^18]: [@DublinUniversityMagazine Apr. 1833, 463].
+[^7]: {%- include footnote.html id='/spencePhilosophyIrishToryism1991a' %} 32.
 
-[^19]: [@DublinUniversityMagazine Nov. 1833, 586].
+[^8]: {%- include footnote.html id='/hallDialoguesMarginStudy1999a' %} 37.
 
-[^20]: [@wardIrishConstitutionalTradition1994 37].
+[^9]: {%- include footnote.html id='/spencePhilosophyIrishToryism1991a' %} 33.
 
-[^21]: [@DublinUniversityMagazine May. 1833, 472].
+[^10]: {%- include footnote.html id='/spencePhilosophyIrishToryism1991a' %} 30.
 
-[^22]: [@DublinUniversityMagazine Dec. 1833, 607].
+[^11]: {%- include footnote.html id='/hallDialoguesMarginStudy1999a' %} 3.
 
-[^23]: [@DublinUniversityMagazine Dec. 1833, 606].
+[^12]: {%- include footnote.html id='/hallDublinUniversityMagazine1987a' %} 44.
 
-[^24]: [@conradConciseHistoryCanada2012 127].
+[^13]: {%- include footnote.html id='/hallDublinUniversityMagazine1987a' %} 46.
 
-[^25]: [@DublinUniversityMagazine Jan. 1839, 3].
+[^14]: {%- include footnote.html id='/geogheganImpactConnell18152018a' %} 104.
 
-[^26]: [@DublinUniversityMagazine Jan. 1839, 10].
+[^15]: {%- include footnote.html id='/spencePhilosophyIrishToryism1991a' %} 58.
 
-[^27]: [@DublinUniversityMagazine Jan. 1839, 11].
+[^16]: {%- include footnote.html id='/DublinUniversityMagazinea' %}  Nov. 1833, 587.
 
-[^28]: [@DublinUniversityMagazine Jan. 1839, 22].
+[^17]: {%- include footnote.html id='/DublinUniversityMagazinea' %} Apr. 1833, 401.
 
-[^29]: [@buttIrishFederalismIts1870].
+[^18]: {%- include footnote.html id='/DublinUniversityMagazinea' %} Apr. 1833, 463.
+
+[^19]: {%- include footnote.html id='/DublinUniversityMagazinea' %} Nov. 1833, 586.
+
+[^20]: {%- include footnote.html id='/wardIrishConstitutionalTradition1994a' %} 37.
+
+[^21]: {%- include footnote.html id='/DublinUniversityMagazinea' %} May. 1833, 472.
+
+[^22]: {%- include footnote.html id='/DublinUniversityMagazinea' %} Dec. 1833, 607.
+
+[^23]: {%- include footnote.html id='/DublinUniversityMagazinea' %} Dec. 1833, 606.
+
+[^24]: {%- include footnote.html id='/conradConciseHistoryCanada2012a' %} 127.
+
+[^25]: {%- include footnote.html id='/DublinUniversityMagazinea' %} Jan. 1839, 3.
+
+[^26]: {%- include footnote.html id='/DublinUniversityMagazinea' %} Jan. 1839, 10.
+
+[^27]: {%- include footnote.html id='/DublinUniversityMagazinea ' %} Jan. 1839, 11.
+
+[^28]: {%- include footnote.html id='/DublinUniversityMagazinea' %} Jan. 1839, 22.
+
+[^29]: {%- include footnote.html id='/buttIrishFederalismIts1870a' %}

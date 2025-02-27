@@ -52,6 +52,8 @@ collections:
     output: true
   people:
     output: true
+  sources:
+    output: true
 collections_dir: my_collections
 
 sidebar:

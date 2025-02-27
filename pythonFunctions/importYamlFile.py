@@ -2,13 +2,14 @@ import os
 import yaml
 import argparse
 
-def importYamlFile(destinationDirectory, YYYYMM):
+def importYamlFile(destinationDirectory, YAMLFile):
     # File Paths
     articleDirectory = destinationDirectory + "/_articles/"
     bookDirectory = destinationDirectory + "/_books/"
     reviewDirectory = destinationDirectory + "/_reviews/"
     sectionDirectory = destinationDirectory + "/_sections/"
-    yamlFilePath = os.path.join("/Users/rowanmacconville/Projects/rowanmac.github.io/yamlFiles/" + f"{YYYYMM}.yaml")
+    sourceDirectory = destinationDirectory + "/_sources/"
+    yamlFilePath = os.path.join("/Users/rowanmacconville/rowanmac.github.io/yamlFiles/" + f"{YAMLFile}")
 
     if not os.path.exists(yamlFilePath):
         print(f"YAML file {yamlFilePath} does not exist")
@@ -21,7 +22,7 @@ def importYamlFile(destinationDirectory, YYYYMM):
     for reference in references:
 
         # Adds extra Yaml info
-        reference["category"] = int(YYYYMM)
+        reference["categories"] = YAMLFile.split(".")[0]
         reference["layout"] = "page"
         reference["externalUrl"] = reference.get("URL")
         reference["permalink"] = "/" + reference.get("citation-key", "")
@@ -36,7 +37,8 @@ def importYamlFile(destinationDirectory, YYYYMM):
         # Converts chapter type to section
         if reference.get("type", "") == "chapter":
             reference["type"] = "section"
-            reference["chapter"] = int(reference["chapter"])
+            if "chapter" in reference:
+                reference["chapter"] = int(reference["chapter"])
         
         try:
             reference["review"]
@@ -57,6 +59,9 @@ def importYamlFile(destinationDirectory, YYYYMM):
         elif fileType == "section":
             destinationDirectory = sectionDirectory
             template = "{% include sectionPageTemplate.html %}"
+        elif fileType == "manuscript":
+            destinationDirectory = sourceDirectory
+            template = "{% include sourcePageTemplate.html %}"
         else:
             print(f"File type {fileType} not recognised")
             continue

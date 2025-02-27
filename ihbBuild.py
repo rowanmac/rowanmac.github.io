@@ -5,17 +5,17 @@ from pythonFunctions.importBibliography import importBibliography
 from pythonFunctions.importYamlFile import importYamlFile
 from pythonFunctions.buildDynamicIhb import buildDynamicIhb
 
-parser = argparse.ArgumentParser(description='Input YYYYMM')
-parser.add_argument('YYYYMM', type=int, help='YYYYMM')
+parser = argparse.ArgumentParser(description='Input YAML file to import')
+parser.add_argument('YAMLFile', help='YAML file to import')
 arg = parser.parse_args()
 
 # File Paths
-YYYYMM = arg.YYYYMM
-destinationDirectory = "/Users/rowanmacconville/Projects/rowanmac.github.io/my_collections/"
+YAMLFile = arg.YAMLFile
+destinationDirectory = "/Users/rowanmacconville/rowanmac.github.io/my_collections/"
 
 # Import individual bibliography files for published material
 startTime = time.time()
-importYamlFile(destinationDirectory, YYYYMM)
+importYamlFile(destinationDirectory, YAMLFile)
 endTime = time.time()
 print(f"Bibliography imported successfully in {endTime - startTime:.2f} seconds")
 
@@ -23,6 +23,6 @@ print(f"Bibliography imported successfully in {endTime - startTime:.2f} seconds"
 
 # Build the dynamic IHB post
 startTime = time.time()
-#buildDynamicIhb(destinationDirectory, YYYYMM)
+#buildDynamicIhb(destinationDirectory, YAMLFile)
 endTime = time.time()
 print(f"IHB post built successfully in {endTime - startTime:.2f} seconds")

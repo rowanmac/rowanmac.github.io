@@ -1,0 +1,195 @@
+---
+references:
+- id: boyceDefendersUnionSurvey2001a
+  citation-key: boyceDefendersUnionSurvey2001a
+  editor:
+    - family: Boyce
+      given: David George
+  event-place: London New York
+  issued:
+    - year: 2001
+  publisher: Routledge
+  publisher-place: London New York
+  title: 'Defenders of the Union: a survey of British and Irish unionism since 1801'
+  title-short: Defenders of the Union
+  type: book
+
+- id: buttIrishFederalismIts1870a
+  author:
+    - family: Butt
+      given: Isaac
+    - literal: Home Government Association
+  citation-key: buttIrishFederalismIts1870a
+  event-place: Dublin
+  issued:
+    - year: 1870
+  publisher: John Falconer
+  publisher-place: Dublin
+  title: 'Irish federalism : Its meaning, its objects, and its hopes'
+  title-short: Irish federalism
+  type: book
+
+- id: conradConciseHistoryCanada2012a
+  author:
+    - family: Conrad
+      given: Margaret
+  citation-key: conradConciseHistoryCanada2012a
+  event-place: Cambridge
+  issued:
+    - year: 2012
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  title: A concise history of Canada
+  type: book
+
+- id: DublinUniversityMagazinea
+  citation-key: DublinUniversityMagazinea
+  title: The Dublin University magazine, a literary and political journal.
+  title-short: Dublin University Magazine
+  type: manuscript
+  URL: https://catalog.hathitrust.org/Record/000529297
+
+- id: geogheganImpactOConnell181518502018a
+  author:
+    - family: Geoghegan
+      given: Patrick M.
+  citation-key: geogheganImpactOConnell181518502018a
+  container-title: 'The Cambridge History of Ireland: Volume 3: 1730–1880'
+  editor:
+    - family: Kelly
+      given: James
+  event-place: Cambridge
+  issued:
+    - year: 2018
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  title: The Impact of O’Connell, 1815–1850
+  type: chapter
+  volume: '3'
+
+- id: hallDialoguesMarginStudy1999a
+  author:
+    - family: Hall
+      given: Wayne E.
+  citation-key: hallDialoguesMarginStudy1999a
+  event-place: Washington, D.C.
+  issued:
+    - year: 1999
+  publisher: Catholic University of America Press
+  publisher-place: Washington, D.C.
+  title: 'Dialogues in the margin : a study of the Dublin university magazine'
+  title-short: Dialogues in the margin
+  type: book
+
+- id: hallDublinUniversityMagazine1987a
+  author:
+    - family: Hall
+      given: Wayne E.
+  citation-key: hallDublinUniversityMagazine1987a
+  container-title: Victorian Periodicals Review
+  issue: '2'
+  issued:
+    - year: 1987
+  page: 43–56
+  title: The "Dublin University Magazine" and Isaac Butt, 1834-1838
+  type: article-journal
+  volume: '20'
+
+- id: jacksonIreland17981998Politics1999a
+  author:
+    - family: Jackson
+      given: Alvin
+  citation-key: jacksonIreland17981998Politics1999a
+  event-place: Oxford, UK
+  issued:
+    - year: 1999
+  publisher: Blackwell Publishers
+  publisher-place: Oxford, UK
+  title: 'Ireland, 1798-1998 : Politics and war'
+  title-short: Ireland, 1798-1998
+  type: book
+
+- id: kendleIrelandFederalSolution1989a
+  author:
+    - family: Kendle
+      given: John Edward
+  citation-key: kendleIrelandFederalSolution1989a
+  event-place: Kingston [Ont.]
+  issued:
+    - year: 1989
+  publisher: McGill-Queen's university press
+  publisher-place: Kingston [Ont.]
+  title: >-
+    Ireland and the federal solution: The debate over the United Kingdom
+    constitution, 1870-1921
+  title-short: Ireland and the federal solution
+  type: book
+
+- id: reidExperimentConstructiveUnionism2014a
+  author:
+    - family: Reid
+      given: Colin W.
+  citation-key: reidExperimentConstructiveUnionism2014a
+  container-title: The English Historical Review
+  issue: '537'
+  issued:
+    - year: 2014
+  page: 332–361
+  title: >-
+    'An Experiment in Constructive Unionism': Isaac Butt, Home Rule and
+    Federalist Political Thought during the 1870s
+  title-short: '''An Experiment in Constructive Unionism'''
+  type: article-journal
+  volume: '129'
+
+- id: spencePhilosophyIrishToryism1991a
+  author:
+    - family: Spence
+      given: Joseph
+  citation-key: spencePhilosophyIrishToryism1991a
+  genre: phdthesis
+  issued:
+    - year: 1991
+  publisher: Birkbeck (University of London)
+  title: >-
+    The philosophy of Irish Toryism, 1833-52: a study of reactions to liberal
+    reformism in Ireland in the generation between the first Reform Act and the
+    Famine
+  title-short: The philosophy of Irish Toryism, 1833-52
+  type: thesis
+
+- id: tilleyNationalJournalDublin2020a
+  author:
+    - family: Tilley
+      given: Elizabeth
+  citation-key: tilleyNationalJournalDublin2020a
+  container-author:
+    - family: Tilley
+      given: Elizabeth
+  container-title: The Periodical Press in Nineteenth-Century Ireland
+  event-place: Cham
+  issued:
+    - year: 2020
+  page: 63–90
+  publisher: Springer International Publishing
+  publisher-place: Cham
+  title: 'The National Journal: The Dublin University Magazine (1833–1877)'
+  title-short: The National Journal
+  type: chapter
+
+- id: wardIrishConstitutionalTradition1994a
+  author:
+    - family: Ward
+      given: Alan J.
+  citation-key: wardIrishConstitutionalTradition1994a
+  event-place: Washington, D.C
+  issued:
+    - year: 1994
+  publisher: The Catholic Univ. of America Press
+  publisher-place: Washington, D.C
+  title: >-
+    The Irish constitutional tradition: Responsible government and modern
+    Ireland; 1782 - 1992
+  title-short: The Irish constitutional tradition
+  type: book
+...
