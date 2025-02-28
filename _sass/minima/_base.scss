@@ -50,6 +50,30 @@ main {
 }
 
 
+/**
+ * Headers & footers
+ */
+
+ header.site-header {
+  border-top: 1px solid $ihb-background-color;
+  border-bottom: 1px solid $grey-color;
+ }
+
+ a.site-title {
+  color: $text-color;
+  text-decoration: none;
+  &:hover {
+    text-decoration: underline;
+  }
+  &:visited {
+    color: $text-color;
+  }
+ }
+
+ footer.site-footer {
+  border-top: 1px solid $grey-color;
+ }
+
 
 /**
  * Images
@@ -240,8 +264,8 @@ article:has( div.sectionPage) {
  * Blockquotes
  */
 blockquote {
-  color: $grey-color;
-  border-left: 4px solid $grey-color-light;
+  color: $text-color;
+  border-left: 4px solid $grey-color;
   padding-left: $spacing-unit / 2;
   @include relative-font-size(1.125);
   letter-spacing: -1px;
