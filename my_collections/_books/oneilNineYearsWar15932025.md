@@ -1,5 +1,6 @@
 ---
 ISBN: 978-1-80451-552-5
+URL: https://www.helion.co.uk/military-history-books/the-nine-years-war-1593-1603-part-1-the-ascendancy-of-irish-arms-and-the-road-to-yellow-ford-1593-1598.php
 abstract: The Nine Years War (1593-1603), sometimes known as Tyrone's Rebellion, was
   one of the most devastating and brutal conflicts to sweep the island. Never would
   the English Crown come so close to losing its grip on Ireland. It was brought on
@@ -24,7 +25,7 @@ abstract: The Nine Years War (1593-1603), sometimes known as Tyrone's Rebellion,
 author:
 - family: O'Neil
   given: James
-category: 202501
+categories: '202501'
 citation-key: oneilNineYearsWar15932025
 externalUrl: https://www.helion.co.uk/military-history-books/the-nine-years-war-1593-1603-part-1-the-ascendancy-of-irish-arms-and-the-road-to-yellow-ford-1593-1598.php
 id: oneilNineYearsWar15932025

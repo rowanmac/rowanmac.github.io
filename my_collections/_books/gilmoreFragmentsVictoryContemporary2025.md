@@ -12,7 +12,7 @@ abstract: "There is much to learn from modern left-wing activism in Ireland. A r
   \ is also addressed.Each chapter covers a different campaign or group, written by\
   \ leading activists who provide insiders' perspectives on how history was made,\
   \ and share valuable insights that can be applied to international movements everywhere."
-category: 202501
+categories: '202501'
 citation-key: gilmoreFragmentsVictoryContemporary2025
 editor:
 - family: Gilmore

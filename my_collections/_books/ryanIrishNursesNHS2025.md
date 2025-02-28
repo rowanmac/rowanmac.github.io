@@ -1,5 +1,6 @@
 ---
 ISBN: 978-1-80151-163-6
+URL: https://www.fourcourtspress.ie/books/2025/irish-nurses-in-the-nhs
 abstract: From the inception of the National Health Service (NHS) in 1948, Irish women
   and men were actively recruited to train and work as nurses in British hospitals.
   By the 1960s approximately 30,000 Irish-born nurses were working across the NHS,
@@ -17,7 +18,7 @@ author:
   given: "Gr\xE1inne"
 - family: Doshi
   given: Neha
-category: 202501
+categories: '202501'
 citation-key: ryanIrishNursesNHS2025
 externalUrl: https://www.fourcourtspress.ie/books/2025/irish-nurses-in-the-nhs
 id: ryanIrishNursesNHS2025

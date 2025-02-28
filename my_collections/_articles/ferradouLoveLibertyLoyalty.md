@@ -21,7 +21,7 @@ accessed:
 author:
 - family: Ferradou
   given: Mathieu
-category: 202501
+categories: '202501'
 citation-key: ferradouLoveLibertyLoyalty
 container-title: History of European Ideas
 externalUrl: https://doi.org/10.1080/01916599.2024.2445411

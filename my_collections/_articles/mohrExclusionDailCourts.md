@@ -25,7 +25,7 @@ accessed:
 author:
 - family: Mohr
   given: Thomas
-category: 202501
+categories: '202501'
 citation-key: mohrExclusionDailCourts
 container-title: The Journal of Legal History
 externalUrl: https://doi.org/10.1080/01440365.2024.2447003

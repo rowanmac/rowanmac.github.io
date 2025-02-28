@@ -1,5 +1,6 @@
 ---
 ISBN: 978-1-913934-77-4
+URL: https://wordwellbooks.com/index.php?route=product/product&product_id=2100
 abstract: This publication presents the excavations at Rathgall, Rath East, Co. Wicklow,
   conducted by Barry Raftery, retired Professor of Celtic Archaeology at University
   College Dublin. Raftery published aspects of the site, primarily in the 1970s (Raftery
@@ -23,10 +24,10 @@ author:
   given: Barry
 - family: Becker
   given: Katharina
-category: 202501
+categories: '202501'
 citation-key: rafteryHillfortTimeExcavations2025
 event-place: Bray, Ireland
-externalUrl: null
+externalUrl: https://wordwellbooks.com/index.php?route=product/product&product_id=2100
 id: rafteryHillfortTimeExcavations2025
 issued:
 - day: 14
@@ -43,6 +44,5 @@ source: Amazon
 title: 'A Hillfort Through Time: Excavations at Rathgall, County Wicklow'
 title-short: A Hillfort Through Time
 type: book
-externalUrl: "https://wordwellbooks.com/index.php?route=product/product&product_id=2100"
 ---
 {% include bookPageTemplate.html %}

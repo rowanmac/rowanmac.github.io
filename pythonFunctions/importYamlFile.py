@@ -9,7 +9,7 @@ def importYamlFile(destinationDirectory, YAMLFile):
     reviewDirectory = destinationDirectory + "/_reviews/"
     sectionDirectory = destinationDirectory + "/_sections/"
     sourceDirectory = destinationDirectory + "/_sources/"
-    yamlFilePath = os.path.join("/Users/rowanmacconville/rowanmac.github.io/yamlFiles/" + f"{YAMLFile}")
+    yamlFilePath = os.path.join("/Users/rowanmacconville/rowanmac.github.io/yamlFiles/" + f"{YAMLFile}.yaml")
 
     if not os.path.exists(yamlFilePath):
         print(f"YAML file {yamlFilePath} does not exist")

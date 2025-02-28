@@ -1,8 +1,7 @@
 <div class="reviewPage">
     <div class="reviewPageContent">
-        {% if page.author %}By {% if page.author.size == 1 %}{{ page.author[0].given }} {{ page.author[0].family }}{% else %}{% for person in page.author %}{% if forloop.last == true %} and {% endif %}{{ person.given }} {{ person.family }}{% if forloop.last == false %}, {% endif %}{% endfor %}{% endif %}<br>{% endif %}
-        {% if page.container-title %}In {{ page.container-title }}<br>{% endif %}
-        Published Published {{ page.issued[0].month | date:'%B' }} {{ page.issued[0].year }}.<br>.<br>
+        <i><a href="{{ page.workReviewedCitekey }}">{{ page.workReviewed }}</a></i>{% if page.author %} reviewed by {% if page.author.size == 1 %}{{ page.author[0].given }} {{ page.author[0].family }}{% else %}{% for person in page.author %}{% if forloop.last == true %} and {% endif %}{{ person.given }} {{ person.family }}{% if forloop.last == false %}, {% endif %}{% endfor %}{% endif %}<br>{% endif %}
+        Published in {{ page.container-title }}{% if page.issued %}, {{ page.issued[0].month | date:'%B' }} {{ page.issued[0].year }}.{% elsif page.accessed %}, {{ page.accessed[0].month | date:'%B' }} {{ page.accessed[0].year }}.{% endif %}<br>
         {% if page.externalUrl %}<a href="{{ page.externalUrl }}" target="_blank">Link</a><br>{% endif %}
         {% if page.abstract %}<br><h3>Abstract</h3><p>{{ page.abstract }}</p>{% endif %}
     </div>

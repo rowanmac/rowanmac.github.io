@@ -7,7 +7,7 @@ accessed:
 author:
 - family: Hyland
   given: "\xC1ine"
-category: 202501
+categories: '202501'
 citation-key: hylandReviewForeignTongues2025
 container-title: Irish Labour History Society
 externalUrl: https://www.irishlabourhistorysociety.com/wp-content/uploads/2025/01/Review-of-Foreign-Tongues-Victorian-Language-Learning-and-the-Shaping-of-Modern-Ireland-1.pdf

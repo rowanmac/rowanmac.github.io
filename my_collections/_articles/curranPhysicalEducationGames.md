@@ -23,7 +23,7 @@ accessed:
 author:
 - family: Curran
   given: Conor
-category: 202501
+categories: '202501'
 citation-key: curranPhysicalEducationGames
 container-title: Sport in History
 externalUrl: https://doi.org/10.1080/17460263.2024.2439279

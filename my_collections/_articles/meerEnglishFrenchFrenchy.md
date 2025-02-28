@@ -33,7 +33,7 @@ accessed:
 author:
 - family: Meer
   given: Sarah
-category: 202501
+categories: '202501'
 citation-key: meerEnglishFrenchFrenchy
 container-title: Nineteenth-Century Contexts
 externalUrl: https://doi.org/10.1080/08905495.2024.2437807

@@ -75,8 +75,6 @@ references:
   volume: '0'
 
 - id: fordPoliticalCultureState2025
-  abstract: >-
-    //static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS0009640724001392/resource/name/firstPage-pdf-S0009640724001392a.jpg
   accessed:
     - year: 2025
       month: 1
@@ -113,26 +111,26 @@ references:
   URL: >-
     https://www.cambridge.org/core/journals/church-history/article/political-culture-the-state-and-the-problem-of-religious-war-in-britain-and-ireland-15781625-by-r-malcolm-smuts-oxford-oxford-university-press-2023-xiii-754-pp-16000-cloth/915D4AED45BAA74F24EB2C4CCF46555E?utm_source=SFMC&utm_medium=email&utm_content=Article&utm_campaign=New%20Cambridge%20Alert%20-%20Articles&WT.mc_id=New%20Cambridge%20Alert%20-%20Articles
 
-- id: fosterAfterwordDavidFitzpatrick2024
+- id: fosterAfterwordDavidFitzpatrick2025
   author:
     - family: Foster
       given: Roy
-  citation-key: fosterAfterwordDavidFitzpatrick2024
+  citation-key: fosterAfterwordDavidFitzpatrick2025
   container-title: 'America in Ireland: Culture and Society, 1841–1925'
   editor:
     - family: Walsh
       given: Fionnuala
   ISBN: 978-1-009-37687-7
   issued:
-    - year: 2024
-      month: 12
-      day: 21
-      circa: true
+    - year: 2025
+      month: 1
   language: English
   note: 'chapter: 1000'
   publisher: Cambridge University Press
   title: 'Afterword: David Fitzpatrick, influencer'
   type: chapter
+  URL: >-
+    https://www.cambridge.org/core/books/abs/america-in-ireland/afterword/27C1B655FD65370F2DC68FA3834D9863
 
 - id: gilmoreFragmentsVictoryContemporary2025
   abstract: >-
@@ -167,9 +165,7 @@ references:
   title: 'Fragments of Victory: The Contemporary Irish Left'
   title-short: Fragments of Victory
   type: book
-  URL: >-
-    https://www.amazon.co.uk/Fragments-Victory-Contemporary-Irish-Left/dp/0745348750,
-    https://www.plutobooks.com/9780745348759/fragments-of-victory/
+  URL: https://www.plutobooks.com/9780745348759/fragments-of-victory/
 
 - id: griffinNewIrishEighteenth2025
   abstract: >-
@@ -219,8 +215,6 @@ references:
   volume: '49'
 
 - id: hayesPatriotismCatholicVirtue2025
-  abstract: >-
-    //static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS0009640724001100/resource/name/firstPage-pdf-S0009640724001100a.jpg
   accessed:
     - year: 2025
       month: 1
@@ -256,21 +250,19 @@ references:
   URL: >-
     https://www.cambridge.org/core/journals/church-history/article/patriotism-is-a-catholic-virtue-irishamerican-catholics-and-the-church-in-the-era-of-the-great-war-19001918-by-thomas-j-rowland-washington-dc-catholic-university-of-america-press-2023-xiii-354-pp-3495-paperback-isbn-9780813237718/941EFA8AAEC9296CE87A39B607C6B2A3?utm_source=SFMC&utm_medium=email&utm_content=Article&utm_campaign=New%20Cambridge%20Alert%20-%20Articles&WT.mc_id=New%20Cambridge%20Alert%20-%20Articles
 
-- id: horaMarketingTransatlanticEmigrant2024
+- id: horaMarketingTransatlanticEmigrant2025
   author:
     - family: Hora
       given: Kevin
-  citation-key: horaMarketingTransatlanticEmigrant2024
+  citation-key: horaMarketingTransatlanticEmigrant2025
   container-title: 'America in Ireland: Culture and Society, 1841–1925'
   editor:
     - family: Walsh
       given: Fionnuala
   ISBN: 978-1-009-37687-7
   issued:
-    - year: 2024
-      month: 12
-      day: 21
-      circa: true
+    - year: 2025
+      month: 1
   language: English
   note: 'chapter: 2'
   publisher: Cambridge University Press
@@ -279,6 +271,8 @@ references:
     Marketing the transatlantic emigrant crossing: American shipping firms'
     influence on commercial propaganda on the Irish market
   type: chapter
+  URL: >-
+    https://www.cambridge.org/core/books/abs/america-in-ireland/marketing-the-transatlantic-emigrant-crossing/8BBED550C0063150B18C0BC099EED9A0
 
 - id: hylandReviewForeignTongues2025
   accessed:
@@ -346,21 +340,19 @@ references:
   type: article-journal
   URL: https://doi.org/10.1177/03324893241306418
 
-- id: maccarthaighRepresentationsReturnedYank2024
+- id: maccarthaighRepresentationsReturnedYank2025
   author:
     - family: Mac Cárthaigh
       given: Críostóir
-  citation-key: maccarthaighRepresentationsReturnedYank2024
+  citation-key: maccarthaighRepresentationsReturnedYank2025
   container-title: 'America in Ireland: Culture and Society, 1841–1925'
   editor:
     - family: Walsh
       given: Fionnuala
   ISBN: 978-1-009-37687-7
   issued:
-    - year: 2024
-      month: 12
-      day: 21
-      circa: true
+    - year: 2025
+      month: 1
   language: English
   note: 'chapter: 8'
   publisher: Cambridge University Press
@@ -368,6 +360,8 @@ references:
     Representations of the returned Yank in the emigration to America
     questionnaire, 1955
   type: chapter
+  URL: >-
+    https://www.cambridge.org/core/books/abs/america-in-ireland/representations-of-the-returned-yank-in-the-emigration-to-america-questionnaire-1955/AB659994DED4DE8999F6DA22AE057526
 
 - id: mcevoyBecomingIrishAmerican2024
   accessed:
@@ -566,7 +560,7 @@ references:
   URL: https://muse.jhu.edu/pub/3/article/949323
   volume: '66'
 
-- id: ohanlonOfficialVoicesPoets2024
+- id: ohanlonOfficialVoicesPoets2025
   abstract: >-
     Official Voices: Poets and the Irish State examines the poet-politicians and
     bureaucrats who shaped the twenty-six-county Irish state, from its
@@ -592,11 +586,11 @@ references:
   author:
     - family: O'Hanlon
       given: Karl
-  citation-key: ohanlonOfficialVoicesPoets2024
+  citation-key: ohanlonOfficialVoicesPoets2025
   ISBN: 978-1-83553-846-3
   issued:
-    - year: 2024
-      month: 11
+    - year: 2025
+      month: 1
       day: 28
   language: English
   number-of-pages: '208'
@@ -605,28 +599,29 @@ references:
   title: 'Official Voices: Poets and the Irish State'
   title-short: Official Voices
   type: book
+  URL: https://www.liverpooluniversitypress.co.uk/doi/book/10.3828/9781835538463
 
-- id: oneillLiteraryAmericanisationIreland2024
+- id: oneillLiteraryAmericanisationIreland2025
   author:
     - family: O'Neill
       given: Ciaran
-  citation-key: oneillLiteraryAmericanisationIreland2024
+  citation-key: oneillLiteraryAmericanisationIreland2025
   container-title: 'America in Ireland: Culture and Society, 1841–1925'
   editor:
     - family: Walsh
       given: Fionnuala
   ISBN: 978-1-009-37687-7
   issued:
-    - year: 2024
-      month: 12
-      day: 21
-      circa: true
+    - year: 2025
+      month: 1
   language: English
   note: 'chapter: 5'
   publisher: Cambridge University Press
   source: Amazon
   title: The literary Americanisation of Ireland 1841–1925
   type: chapter
+  URL: >-
+    https://www.cambridge.org/core/books/abs/america-in-ireland/literary-americanisation-of-ireland-18411925/5EE3E5B375C837C751CA6742100327A4
 
 - id: oneilNineYearsWar15932025
   abstract: >-
@@ -671,6 +666,8 @@ references:
     Road to Yellow Ford, 1593-1598
   title-short: Nine Years War-1593 to 1603 Volume 1
   type: book
+  URL: >-
+    https://www.helion.co.uk/military-history-books/the-nine-years-war-1593-1603-part-1-the-ascendancy-of-irish-arms-and-the-road-to-yellow-ford-1593-1598.php
 
 - id: rafteryHillfortTimeExcavations2025
   abstract: >-
@@ -715,44 +712,43 @@ references:
   title: 'A Hillfort Through Time: Excavations at Rathgall, County Wicklow'
   title-short: A Hillfort Through Time
   type: book
+  URL: https://wordwellbooks.com/index.php?route=product/product&product_id=2100
 
-- id: rockettAmericanPopularVisual2024
+- id: rockettAmericanPopularVisual2025
   author:
     - family: Rockett
       given: Kevin
-  citation-key: rockettAmericanPopularVisual2024
+  citation-key: rockettAmericanPopularVisual2025
   container-title: 'America in Ireland: Culture and Society, 1841–1925'
   editor:
     - family: Walsh
       given: Fionnuala
   ISBN: 978-1-009-37687-7
   issued:
-    - year: 2024
-      month: 12
-      day: 21
-      circa: true
+    - year: 2025
+      month: 1
   language: English
   note: 'chapter: 6'
   publisher: Cambridge University Press
   source: Amazon
   title: American popular visual culture and Ireland, 1840s to 1920s
   type: chapter
+  URL: >-
+    https://www.cambridge.org/core/books/abs/america-in-ireland/american-popular-visual-culture-and-ireland-1840s1920s/88B1064F5D06FDC91428EDB639C6DACE
 
-- id: roddySpiritualEmpireStrikes2024
+- id: roddySpiritualEmpireStrikes2025
   author:
     - family: Roddy
       given: Sarah
-  citation-key: roddySpiritualEmpireStrikes2024
+  citation-key: roddySpiritualEmpireStrikes2025
   container-title: 'America in Ireland: Culture and Society, 1841–1925'
   editor:
     - family: Walsh
       given: Fionnuala
   ISBN: 978-1-009-37687-7
   issued:
-    - year: 2024
-      month: 12
-      day: 21
-      circa: true
+    - year: 2025
+      month: 1
   language: English
   note: 'chapter: 3'
   publisher: Cambridge University Press
@@ -761,6 +757,8 @@ references:
     The spiritual empire strikes back: Americanisation and religion in Ireland,
     1841–1925
   type: chapter
+  URL: >-
+    https://www.cambridge.org/core/books/abs/america-in-ireland/spiritual-empire-strikes-back/CAC451F1309570D08039BC2CDFA4C983
 
 - id: ryanIrishNursesNHS2025
   abstract: >-
@@ -795,6 +793,7 @@ references:
   title: 'Irish Nurses in the NHS: An Oral History'
   title-short: Irish Nurses in the NHS
   type: book
+  URL: https://www.fourcourtspress.ie/books/2025/irish-nurses-in-the-nhs
 
 - id: sheehanLabourCourt1946
   accessed:
@@ -847,6 +846,7 @@ references:
   source: Amazon
   title: Catholics and the law in Restoration Ireland
   type: book
+  URL: https://www.jstor.org/stable/jj.23925640
 
 - id: steeleFemaleGothicsTraumatic
   abstract: >-
@@ -917,8 +917,9 @@ references:
   title: 'Filthy Queens: A History of Beer in Ireland'
   title-short: Filthy Queens
   type: book
+  URL: https://ninebeanrowsbooks.com/products/filthy-queens
 
-- id: walshAmericaIrelandCulture2024
+- id: walshAmericaIrelandCulture2025
   abstract: >-
     While the impacts of Irish emigration to America following the Great Famine
     of 1845–1852 have been well studied, comparatively little scholarly
@@ -936,16 +937,14 @@ references:
     activities and introduced their families to American products, culture and
     speech. In doing so, this book demonstrates the value of a transnational and
     global perspective for understanding Ireland's history.
-  citation-key: walshAmericaIrelandCulture2024
+  citation-key: walshAmericaIrelandCulture2025
   editor:
     - family: Walsh
       given: Fionnuala
   ISBN: 978-1-009-37687-7
   issued:
-    - year: 2024
-      month: 12
-      day: 21
-      circa: true
+    - year: 2025
+      month: 1
   language: English
   note: 'sections: true'
   number-of-pages: '250'
@@ -954,28 +953,30 @@ references:
   title: 'America in Ireland: Culture and Society, 1841–1925'
   title-short: America in Ireland
   type: book
+  URL: >-
+    https://www.cambridge.org/core/books/america-in-ireland/6A6FC871D8AD4A3DBB1D9647FE53D0BD
 
-- id: walshAmericanisationFrameworkIrish2024
+- id: walshAmericanisationFrameworkIrish2025
   author:
     - family: Walsh
       given: Fionnuala
-  citation-key: walshAmericanisationFrameworkIrish2024
+  citation-key: walshAmericanisationFrameworkIrish2025
   container-title: 'America in Ireland: Culture and Society, 1841–1925'
   editor:
     - family: Walsh
       given: Fionnuala
   ISBN: 978-1-009-37687-7
   issued:
-    - year: 2024
-      month: 12
-      day: 21
-      circa: true
+    - year: 2025
+      month: 1
   language: English
   note: 'chapter: 0'
   publisher: Cambridge University Press
   source: Amazon
   title: Americanisation as a framework for Irish historical studies
   type: chapter
+  URL: >-
+    https://www.cambridge.org/core/books/abs/america-in-ireland/introduction/9001A63C276D295626C48459B81255EF
 
 - id: walshTransnationalKnowledgeCirculation2025
   abstract: >-
@@ -1022,21 +1023,19 @@ references:
   URL: >-
     https://www.cambridge.org/core/journals/history-of-education-quarterly/article/abs/transnational-knowledge-circulation-and-the-closing-of-minds-to-progressive-education-influences-on-schooling-in-the-first-decade-of-independence-in-ireland/120130C511A693349B876BCB3C4EAF92?utm_source=SFMC&utm_medium=email&utm_content=Article&utm_campaign=New%20Cambridge%20Alert%20-%20Articles&WT.mc_id=New%20Cambridge%20Alert%20-%20Articles
 
-- id: whelanReflectionsMeaningAmerica2024
+- id: whelanReflectionsMeaningAmerica2025
   author:
     - family: Whelan
       given: Bernadette
-  citation-key: whelanReflectionsMeaningAmerica2024
+  citation-key: whelanReflectionsMeaningAmerica2025
   container-title: 'America in Ireland: Culture and Society, 1841–1925'
   editor:
     - family: Walsh
       given: Fionnuala
   ISBN: 978-1-009-37687-7
   issued:
-    - year: 2024
-      month: 12
-      day: 21
-      circa: true
+    - year: 2025
+      month: 1
   language: English
   note: 'chapter: 1'
   publisher: Cambridge University Press
@@ -1045,48 +1044,50 @@ references:
     Reflections on the meaning of America in Irish emigrant material culture,
     1845–1925
   type: chapter
+  URL: >-
+    https://www.cambridge.org/core/books/abs/america-in-ireland/reflections-on-the-meaning-of-america-in-irish-emigrant-material-culture-18451925/652B4D0E2549AFF61573DF75B2EC5917
 
-- id: whelehanAmericanisationIrishPolitics2024
+- id: whelehanAmericanisationIrishPolitics2025
   author:
     - family: Whelehan
       given: Niall
-  citation-key: whelehanAmericanisationIrishPolitics2024
+  citation-key: whelehanAmericanisationIrishPolitics2025
   container-title: 'America in Ireland: Culture and Society, 1841–1925'
   editor:
     - family: Walsh
       given: Fionnuala
   ISBN: 978-1-009-37687-7
   issued:
-    - year: 2024
-      month: 12
-      day: 21
-      circa: true
+    - year: 2025
+      month: 1
   language: English
   note: 'chapter: 4'
   publisher: Cambridge University Press
   source: Amazon
   title: Americanisation in Irish politics, c. 1850 to 1925
   type: chapter
+  URL: >-
+    https://www.cambridge.org/core/books/abs/america-in-ireland/americanisation-in-irish-politics-c-18501925/C31F97F032DEB3B81DA2C5A47B2B4D98
 
-- id: whiteAmericanNotesRethinking2024
+- id: whiteAmericanNotesRethinking2025
   author:
     - family: White
       given: Harry
-  citation-key: whiteAmericanNotesRethinking2024
+  citation-key: whiteAmericanNotesRethinking2025
   container-title: 'America in Ireland: Culture and Society, 1841–1925'
   editor:
     - family: Walsh
       given: Fionnuala
   ISBN: 978-1-009-37687-7
   issued:
-    - year: 2024
-      month: 12
-      day: 21
-      circa: true
+    - year: 2025
+      month: 1
   language: English
   note: 'chapter: 7'
   publisher: Cambridge University Press
   source: Amazon
   title: '''American notes'': Re-thinking Irish cultural paradigms'
   type: chapter
+  URL: >-
+    https://www.cambridge.org/core/books/abs/america-in-ireland/american-notes/8A918559EC15A1DB5F14B18D6BD6078F
 ...

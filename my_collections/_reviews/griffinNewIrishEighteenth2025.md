@@ -23,7 +23,7 @@ accessed:
 author:
 - family: Griffin
   given: Michael
-category: 202501
+categories: '202501'
 citation-key: griffinNewIrishEighteenth2025
 cleanTitle: 'true'
 container-title: Eighteenth-Century Life

@@ -1,6 +1,6 @@
 <ul class="reviewList">
   {% for review in site.reviews %}
-    {% if review.category == page.YYYYMM %}
+    {% if review.categories contains page.YYYYMM %}
       <a class="ihbItem" href="{{ review.url }}">
         <li>
           {% if review.cleanTitle %}

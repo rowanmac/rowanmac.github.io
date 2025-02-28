@@ -7,7 +7,7 @@ accessed:
 author:
 - family: Sheehan
   given: Brian
-category: 202501
+categories: '202501'
 citation-key: sheehanLabourCourt1946
 container-title: Irish Labour History Society
 externalUrl: https://www.irishlabourhistorysociety.com/wp-content/uploads/2025/01/LABOUR-Court-History-75-yrs-a-review.pdf

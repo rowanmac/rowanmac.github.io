@@ -24,7 +24,7 @@ accessed:
 author:
 - family: Morin
   given: Ashley M.
-category: 202501
+categories: '202501'
 citation-key: morinConflictUrbanMobility2025
 container-title: Journal of Modern European History
 container-title-short: J Mod Eur Hist

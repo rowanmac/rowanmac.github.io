@@ -1,7 +1,7 @@
 {% assign sortedBooks = site.books | sort: 'title' %}
 <ul class="bookList">
   {% for book in sortedBooks %}
-    {% if book.category == page.YYYYMM %}
+    {% if book.categories contains page.YYYYMM %}
       <li>
         <a href="{{ book.url }}" class="ihbItem">
           <h4>{{ book.title }}</h4>

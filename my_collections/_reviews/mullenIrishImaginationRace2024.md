@@ -8,7 +8,7 @@ accessed:
 author:
 - family: Mullen
   given: Mary L.
-category: 202501
+categories: '202501'
 citation-key: mullenIrishImaginationRace2024
 container-title: Victorian Studies
 externalUrl: https://muse.jhu.edu/pub/3/article/949323

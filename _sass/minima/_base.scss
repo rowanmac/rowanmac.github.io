@@ -153,12 +153,8 @@ ul.bookList li:hover, ul.sectionList li:hover, ul.articleList li:hover, ul.revie
 
 ul.sectionList {
   display: none;
-  &:hover{
-    text-decoration: none;
-  }
-  li {
-    margin-left: $spacing-unit
-  }
+  padding-left: $spacing-unit;
+  border-left: 1px solid $grey-color;
 }
 
 /**
@@ -401,5 +397,11 @@ table {
     cursor: pointer;
     &:hover {
       text-decoration: underline;
+    }
+ }
+
+ .toggleBibList + ul {
+    &:hover {
+      text-decoration: none;
     }
  }

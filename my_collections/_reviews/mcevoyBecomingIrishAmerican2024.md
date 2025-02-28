@@ -8,7 +8,7 @@ accessed:
 author:
 - family: Mcevoy
   given: "Gr\xE1inne"
-category: 202501
+categories: '202501'
 citation-key: mcevoyBecomingIrishAmerican2024
 container-title: American Catholic Studies
 externalUrl: https://muse.jhu.edu/pub/156/article/949077

@@ -1,4 +1,5 @@
 ---
+URL: https://www.jstor.org/stable/jj.23925640
 abstract: In 1660 Charles II was restored to the thrones of England, Scotland and
   Ireland, but his hold on power was precarious. In particular, Ireland was fundamentally
   unstable - Catholics formed the majority of the population in a country where Protestantism
@@ -13,7 +14,7 @@ abstract: In 1660 Charles II was restored to the thrones of England, Scotland an
 author:
 - family: Smith
   given: Paul
-category: 202501
+categories: '202501'
 citation-key: smithCatholicsLawRestoration2025
 collection-title: Studies in Early Modern Irish History
 externalUrl: https://www.jstor.org/stable/jj.23925640

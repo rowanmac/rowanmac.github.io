@@ -1,7 +1,7 @@
 {% assign sortedArticles = site.articles | sort: 'publication' %}
 <ul class="articleList">
   {% for article in sortedArticles %}
-    {% if article.category == page.YYYYMM %}
+    {% if article.categories contains page.YYYYMM %}
       <a class="ihbItem" href="{{ article.url }}">
         <li>
           <h4>{{ article.title }}</h4>

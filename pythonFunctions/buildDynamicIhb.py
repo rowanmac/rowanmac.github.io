@@ -20,7 +20,7 @@ def buildDynamicIhb(destinationDirectory, YYYYMM):
         'title': postTitle,
         'date': f"{briefYear}-{briefMonth}-{briefDay}",
         'categories': 'ihb',
-        'YYYYMM': int(YYYYMM)
+        'YYYYMM': f'{YYYYMM}'
     }
     yamlHeader = "---\n" + yaml.dump(yamlHeaderDict) + "---\n"
 

@@ -19,7 +19,7 @@ accessed:
 author:
 - family: Loughman
   given: Michael
-category: 202501
+categories: '202501'
 citation-key: loughmanOurCattleProblem2025
 container-title: Irish Economic and Social History
 externalUrl: https://doi.org/10.1177/03324893241306418

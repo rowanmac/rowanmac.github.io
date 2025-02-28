@@ -1,25 +1,24 @@
 ---
 ISBN: 978-1-009-37687-7
+URL: https://www.cambridge.org/core/books/abs/america-in-ireland/reflections-on-the-meaning-of-america-in-irish-emigrant-material-culture-18451925/652B4D0E2549AFF61573DF75B2EC5917
 author:
 - family: Whelan
   given: Bernadette
-category: 202501
+categories: '202501'
 chapter: 1
-citation-key: whelanReflectionsMeaningAmerica2024
+citation-key: whelanReflectionsMeaningAmerica2025
 container-title: "America in Ireland: Culture and Society, 1841\u20131925"
 editor:
 - family: Walsh
   given: Fionnuala
 externalUrl: https://www.cambridge.org/core/books/abs/america-in-ireland/reflections-on-the-meaning-of-america-in-irish-emigrant-material-culture-18451925/652B4D0E2549AFF61573DF75B2EC5917
-id: whelanReflectionsMeaningAmerica2024
+id: whelanReflectionsMeaningAmerica2025
 issued:
-- circa: true
-  day: 21
-  month: 12
-  year: 2024
+- month: 1
+  year: 2025
 language: English
 layout: page
-permalink: /whelanReflectionsMeaningAmerica2024
+permalink: /whelanReflectionsMeaningAmerica2025
 publisher: Cambridge University Press
 review: 'false'
 source: Amazon

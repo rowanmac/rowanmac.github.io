@@ -1,5 +1,6 @@
 ---
 ISBN: 978-1-009-37687-7
+URL: https://www.cambridge.org/core/books/america-in-ireland/6A6FC871D8AD4A3DBB1D9647FE53D0BD
 abstract: "While the impacts of Irish emigration to America following the Great Famine\
   \ of 1845\u20131852 have been well studied, comparatively little scholarly attention\
   \ has been paid to the effects of reverse migration on Irish culture, society, and\
@@ -15,22 +16,20 @@ abstract: "While the impacts of Irish emigration to America following the Great 
   \ their families to American products, culture and speech. In doing so, this book\
   \ demonstrates the value of a transnational and global perspective for understanding\
   \ Ireland's history."
-category: 202501
-citation-key: walshAmericaIrelandCulture2024
+categories: '202501'
+citation-key: walshAmericaIrelandCulture2025
 editor:
 - family: Walsh
   given: Fionnuala
-externalUrl: "https://www.cambridge.org/core/books/america-in-ireland/6A6FC871D8AD4A3DBB1D9647FE53D0BD"
-id: walshAmericaIrelandCulture2024
+externalUrl: https://www.cambridge.org/core/books/america-in-ireland/6A6FC871D8AD4A3DBB1D9647FE53D0BD
+id: walshAmericaIrelandCulture2025
 issued:
-- circa: true
-  day: 21
-  month: 12
+- month: 1
   year: 2025
 language: English
 layout: page
 number-of-pages: '250'
-permalink: /walshAmericaIrelandCulture2024
+permalink: /walshAmericaIrelandCulture2025
 publisher: Cambridge University Press
 review: 'false'
 sections: 'true'

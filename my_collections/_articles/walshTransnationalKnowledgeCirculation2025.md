@@ -24,7 +24,7 @@ author:
   given: Thomas
 - family: "O\u2019Donoghue"
   given: Tom
-category: 202501
+categories: '202501'
 citation-key: walshTransnationalKnowledgeCirculation2025
 container-title: History of Education Quarterly
 externalUrl: https://www.cambridge.org/core/journals/history-of-education-quarterly/article/abs/transnational-knowledge-circulation-and-the-closing-of-minds-to-progressive-education-influences-on-schooling-in-the-first-decade-of-independence-in-ireland/120130C511A693349B876BCB3C4EAF92?utm_source=SFMC&utm_medium=email&utm_content=Article&utm_campaign=New%20Cambridge%20Alert%20-%20Articles&WT.mc_id=New%20Cambridge%20Alert%20-%20Articles

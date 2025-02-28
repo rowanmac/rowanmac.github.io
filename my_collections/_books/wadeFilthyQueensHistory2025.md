@@ -1,5 +1,6 @@
 ---
 ISBN: 978-1-7384795-2-8
+URL: https://ninebeanrowsbooks.com/products/filthy-queens
 abstract: "In Filthy Queens, Dr Christina Wade looks at the history of beer alongside\
   \ some of the biggest events in the story of Ireland. You\u2019ll find 18th-century\
   \ courtesans who had a wicked streak of beer snobbery and early medieval monks who\
@@ -19,7 +20,7 @@ abstract: "In Filthy Queens, Dr Christina Wade looks at the history of beer alon
 author:
 - family: Wade
   given: Christina
-category: 202501
+categories: '202501'
 citation-key: wadeFilthyQueensHistory2025
 externalUrl: https://ninebeanrowsbooks.com/products/filthy-queens
 id: wadeFilthyQueensHistory2025

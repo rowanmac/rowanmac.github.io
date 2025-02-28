@@ -1,5 +1,6 @@
 ---
 ISBN: 978-1-83553-846-3
+URL: https://www.liverpooluniversitypress.co.uk/doi/book/10.3828/9781835538463
 abstract: "Official Voices: Poets and the Irish State examines the poet-politicians\
   \ and bureaucrats who shaped the twenty-six-county Irish state, from its pre-history\
   \ in the revolutionary period through its foundation in 1922 and complicated modernisation\
@@ -22,18 +23,18 @@ abstract: "Official Voices: Poets and the Irish State examines the poet-politici
 author:
 - family: O'Hanlon
   given: Karl
-category: 202501
-citation-key: ohanlonOfficialVoicesPoets2024
+categories: '202501'
+citation-key: ohanlonOfficialVoicesPoets2025
 externalUrl: https://www.liverpooluniversitypress.co.uk/doi/book/10.3828/9781835538463
-id: ohanlonOfficialVoicesPoets2024
+id: ohanlonOfficialVoicesPoets2025
 issued:
 - day: 28
-  month: 11
-  year: 2024
+  month: 1
+  year: 2025
 language: English
 layout: page
 number-of-pages: '208'
-permalink: /ohanlonOfficialVoicesPoets2024
+permalink: /ohanlonOfficialVoicesPoets2025
 publisher: Liverpool University Press
 review: 'false'
 source: Amazon

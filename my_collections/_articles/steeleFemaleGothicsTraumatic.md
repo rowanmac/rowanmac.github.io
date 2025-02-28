@@ -19,7 +19,7 @@ accessed:
 author:
 - family: Steele
   given: Karen
-category: 202501
+categories: '202501'
 citation-key: steeleFemaleGothicsTraumatic
 container-title: Irish Studies Review
 externalUrl: https://doi.org/10.1080/09670882.2025.2450790
