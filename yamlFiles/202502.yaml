@@ -1,5 +1,29 @@
 ---
 references:
+- id: clarkEcologiesForgettingClimate2024
+  accessed:
+    - year: 2025
+      month: 3
+      day: 3
+  author:
+    - family: Clark
+      given: Ian David
+  citation-key: clarkEcologiesForgettingClimate2024
+  container-title: Éire-Ireland
+  ISSN: 1550-5162
+  issue: '3'
+  issued:
+    - year: 2024
+  page: 53-77
+  source: Project MUSE
+  title: >-
+    Ecologies of Forgetting: Climate Change and the Archaeological Impulse in
+    Seamus Heaney's Bog Poetry
+  title-short: Ecologies of Forgetting
+  type: article-journal
+  URL: https://muse.jhu.edu/pub/41/article/952525
+  volume: '59'
+
 - id: collinsIrishJacobiteArmy
   accessed:
     - year: 2025
@@ -208,6 +232,29 @@ references:
   URL: https://muse.jhu.edu/pub/81/article/949088
   volume: '28'
 
+- id: fernandezMairinMitchellPolitics2024
+  accessed:
+    - year: 2025
+      month: 3
+      day: 3
+  author:
+    - family: Fernández
+      given: José Francisco
+    - family: Peral
+      given: Germán Asensio
+  citation-key: fernandezMairinMitchellPolitics2024
+  container-title: Éire-Ireland
+  ISSN: 1550-5162
+  issue: '3'
+  issued:
+    - year: 2024
+  page: 107-126
+  source: Project MUSE
+  title: Mairin Mitchell and the Politics of the "London Irish" in the 1930s
+  type: article-journal
+  URL: https://muse.jhu.edu/pub/41/article/952527
+  volume: '59'
+
 - id: griffithTravellingCircusCounty2024
   accessed:
     - year: 2025
@@ -298,6 +345,43 @@ references:
   URL: https://muse.jhu.edu/pub/81/article/949087
   volume: '28'
 
+- id: houlistonOxfordHistoryBritish2025
+  abstract: >-
+    //static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS000964072500006X/resource/name/firstPage-pdf-S000964072500006Xa.jpg
+  accessed:
+    - year: 2025
+      month: 3
+      day: 3
+  author:
+    - family: Houliston
+      given: Victor
+  citation-key: houlistonOxfordHistoryBritish2025
+  container-title: Church History
+  DOI: 10.1017/S000964072500006X
+  ISSN: 0009-6407, 1755-2613
+  issued:
+    - year: 2025
+      month: 2
+      day: 28
+  language: en
+  note: >-
+    review: true
+
+    workReviewed: The Oxford History of British and Irish Catholicism: Vol. 2:
+    Uncertainty and Change, 1641–1745.
+
+    workReviewedCitekey: morrillOxfordHistoryBritish2023
+  page: 1-2
+  source: Cambridge University Press
+  title: >-
+    The Oxford History of British and Irish Catholicism: Vol. 2: Uncertainty and
+    Change, 1641–1745. Edited by John Morrill & Liam Temple. Oxford: Oxford
+    University Press, 2023. xxv + 324 pp. $165.00 cloth.
+  title-short: The Oxford History of British and Irish Catholicism
+  type: article-journal
+  URL: >-
+    https://www.cambridge.org/core/journals/church-history/article/oxford-history-of-british-and-irish-catholicism-vol-2-uncertainty-and-change-16411745-edited-by-john-morrill-liam-temple-oxford-oxford-university-press-2023-xxv-324-pp-16500-cloth/D67D15204B01C9FD9C764345E93A600F
+
 - id: janssenPeriodicalFaminesIrish2025
   abstract: >-
     Long recognized as Ireland's greatest demographic disaster in recent
@@ -343,6 +427,30 @@ references:
   title-short: Periodical Famines
   type: book
   URL: https://muse.jhu.edu/pub/3/monograph/book/132410
+
+- id: mccaffertyIntroduction120Years2024
+  accessed:
+    - year: 2025
+      month: 3
+      day: 3
+  author:
+    - family: McCafferty
+      given: Máire
+    - family: Nic Congáil
+      given: Ríona
+  citation-key: mccaffertyIntroduction120Years2024
+  container-title: Éire-Ireland
+  ISSN: 1550-5162
+  issue: '3'
+  issued:
+    - year: 2024
+  page: 127-135
+  source: Project MUSE
+  title: 'Introduction: 120 Years of the Irish-Language Summer Colleges'
+  title-short: Introduction
+  type: article-journal
+  URL: https://muse.jhu.edu/pub/41/article/952528
+  volume: '59'
 
 - id: mcgowanIrelandRevolutionEnglish2024
   accessed:
@@ -409,6 +517,30 @@ references:
   type: article-journal
   URL: https://doi.org/10.1080/00076791.2025.2466655
   volume: '0'
+
+- id: molonyFlashGunMaking2024
+  accessed:
+    - year: 2025
+      month: 3
+      day: 3
+  author:
+    - family: Molony
+      given: Martin G.
+  citation-key: molonyFlashGunMaking2024
+  container-title: Éire-Ireland
+  ISSN: 1550-5162
+  issue: '3'
+  issued:
+    - year: 2024
+  page: 5-27
+  source: Project MUSE
+  title: >-
+    "A Flash Gun for Making Puffs of Smoke": Eugene Lambert, Puppetry, and
+    Ireland's New Television Service
+  title-short: A Flash Gun for Making Puffs of Smoke
+  type: article-journal
+  URL: https://muse.jhu.edu/pub/41/article/952523
+  volume: '59'
 
 - id: mulvaghIndianLawStudents2025
   abstract: >-
@@ -515,6 +647,27 @@ references:
   URL: >-
     https://www.cambridge.org/core/journals/church-history/article/abs/raw-generals-and-green-soldiers-catholic-armies-in-ireland-from-1641-to-1643-by-padraig-lenihan-century-of-the-soldier-106-warwick-helion-company-2023-xiv-173-pp-2995-paper/2471B5D96FAEF4ECB067EA47B281E5C5
 
+- id: niccongailLitriochtNaGColaisti2024
+  accessed:
+    - year: 2025
+      month: 3
+      day: 3
+  author:
+    - family: Nic Congáil
+      given: Ríona
+  citation-key: niccongailLitriochtNaGColaisti2024
+  container-title: Éire-Ireland
+  ISSN: 1550-5162
+  issue: '3'
+  issued:
+    - year: 2024
+  page: 136-159
+  source: Project MUSE
+  title: Litríocht na gColáistí Samhraidh/Irish College Literature
+  type: article-journal
+  URL: https://muse.jhu.edu/pub/41/article/952529
+  volume: '59'
+
 - id: odohertyBilingualProgrammeInstruction2024
   accessed:
     - year: 2025
@@ -539,6 +692,52 @@ references:
   type: article-journal
   URL: https://muse.jhu.edu/pub/81/article/949086
   volume: '28'
+
+- id: oneilDorothyGodfreysCivil2024
+  accessed:
+    - year: 2025
+      month: 3
+      day: 3
+  author:
+    - family: O'Neil
+      given: Timothy M.
+  citation-key: oneilDorothyGodfreysCivil2024
+  container-title: Éire-Ireland
+  ISSN: 1550-5162
+  issue: '3'
+  issued:
+    - year: 2024
+  page: 78-106
+  source: Project MUSE
+  title: >-
+    Dorothy Godfrey's Civil War: American Activism in the Transatlantic Irish
+    Republican Movement, 1923–32
+  title-short: Dorothy Godfrey's Civil War
+  type: article-journal
+  URL: https://muse.jhu.edu/pub/41/article/952526
+  volume: '59'
+
+- id: redwineCrackThatClaw2024
+  accessed:
+    - year: 2025
+      month: 3
+      day: 3
+  author:
+    - family: Redwine
+      given: Elizabeth Brewer
+  citation-key: redwineCrackThatClaw2024
+  container-title: Éire-Ireland
+  ISSN: 1550-5162
+  issue: '3'
+  issued:
+    - year: 2024
+  page: 28-52
+  source: Project MUSE
+  title: '"Crack That Claw": Empire Day and the Radical Player Queen of 1919'
+  title-short: Crack That Claw
+  type: article-journal
+  URL: https://muse.jhu.edu/pub/41/article/952524
+  volume: '59'
 
 - id: rowlandNationalCoalitionCessation2024
   accessed:
