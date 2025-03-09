@@ -1,5 +1,38 @@
 ---
 references:
+- id: colemanOrangeOrderGlobal2025
+  abstract: >-
+    On a sunny day, men and women march through the streets wearing orange
+    collarettes and carrying colourful banners. However, this is not the Orange
+    Order in Northern Ireland but the same organisation in Africa. This book
+    moves beyond the cliché to delve deeply into the inner structure and rituals
+    of the Orange Order and its global reach. The Orange Order, while Irish
+    Protestant-founded, managed in a short period to spread to not only other
+    parts of the UK, but also to Australia, New Zealand and even Africa.
+    Previous research has tended to focus on just one to two countries within a
+    narrow timeframe. This book, by contrast, covers almost 230 years of the
+    Orange Order across multiple countries. Unlike other studies, it integrates
+    the activities of men, women and children.
+  author:
+    - family: Coleman
+      given: Patrick
+  citation-key: colemanOrangeOrderGlobal2025
+  event-place: Edinburgh
+  ISBN: 978-1-3995-1814-7
+  issued:
+    - year: 2025
+      month: 1
+      day: 31
+  language: English
+  number-of-pages: '280'
+  publisher: Edinburgh University Press
+  publisher-place: Edinburgh
+  source: Amazon
+  title: 'The Orange Order: A Global History'
+  title-short: The Orange Order
+  type: book
+  URL: https://edinburghuniversitypress.com/book-the-orange-order.html
+
 - id: curranPhysicalEducationGames
   abstract: >-
     This article examines the implementation of physical education in Ireland’s
