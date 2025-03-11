@@ -5,8 +5,9 @@ layout: post
 categories: essay
 date: 2025-2-26
 ---
-*This is a research essay written for an undergraduate history class and that shows in analysis and style. Professor Conor Mulvagh, the lecturer of the class it was written for, was kind in telling me that it had potential with some revision. This is the so far unedited version which I hope to edit in the future*
+*This is a research essay written for an undergraduate history class and that shows in analysis and style. Professor Conor Mulvagh, the lecturer of the class it was written for, was kind in telling me that it had potential with some revision. This is the so far unedited version which I hope to edit in the future.*
 
+---
 In 1833 Irish Protestants found themselves unmoored. The ascendency which had defined their role for over a century had begun its long decline. The question of what Ireland was, is and ought to be, was on their minds as was the mounting challenge of Catholic political participation. This essay assess the constitutional thought of Irish Protestants as represented in the *Dublin University Magazine*, a literature and politics magazine which represented the Protestant Irish Tory set. Considered first is the social and political context of 1830s Ireland as well as the history of the magazine itself and its general constitutional positions. This essay then hones in on two moments in the *DUM*'s coverage which exemplify key aspects of its constitutional thought. A study of political coverage from the first two years of the magazine reveals how Irish Toryism tried to reassert itself in the aftermath of two political blows, namely Catholic emancipation and the 1832 reform act. These underline the magazine's fundamental thinking regarding the Act of Union which was naturally the dominant constitutional issue. Addressed second are a series of articles from 1839 on the colonies and empire which reveal how Irish Tories situated Ireland within the empire and what analogies they drew from abroad regarding their constitutional status.
 
 The political events of the late 1820s and early 1830s had dealt a grievous political wound to the Protestant ascendancy, one whose implications would play out over the coming century as the power and prestige of the Anglo-Irish declined. 'Grievous wound' is not poetic license. It is in line with the *DUM*'s own descriptions. One 1837 article described emancipation as "the first great wound given to Protestantism in Ireland\".[^1] The 1829 Catholic emancipation and 1832 reform act, although not immediately, unleashed the demographic force of Catholic Ireland. The gate of participation once opened was not to be closed again. The exclusive franchise required for ascendancy was beginning to crumble.[^2] It was against this backdrop that the *DUM* was founded. In this respect it can be seen as the first sortie in a doomed rearguard action which lasted till 1921. The topics covered by the *DUM* reflect this purpose. Daniel O'Connell and the repealers are a frequent target of opprobrium. Not surprising considering that the theatrical Catholic nationalism of O'Connell was all Protestant fears of the demographic threat made manifest in one politician.[^3] There is an almost millenarian aspect to the editorial line in these early years. The Irish Protestant is seen to be the first domino in a long chain which ends quite dramatically in the fall of Western civilisation.[^4] Although the hysteric tone lands strange on the modern ear, knowing the British empire was just beginning to reach the heights of its 19th century domination, it needs to be stressed that the empire as *DUM* saw it was in a state of constant and potentially lethal peril and their coverage takes on the immediacy of this view. Their constitutional thought tends to take an emotional tack rather than sober consideration of the issue. It would be unfair, however, to chalk this entirely up to Protestant desperation. Repeal was the instigator of most of the *DUM*'s consideration of constitutional questions and O'Connell's deliberate unwillingness to give repeal a concrete constitutional form may well have necessitated that the *DUM* respond in terms of sentiment rather than dry constitutionalism.[^5] There was, after all, no easy foothold from which to criticise repeal as a constitutional idea beyond attacking its lack of a specific constitutional form. It was nevertheless a feeling of dissolution and uncertainty which motived the constitutional thought of the *DUM*.
@@ -65,6 +66,7 @@ It is tricky to fit the constitutional thought of the *DUM* in the 1830s into th
 
 # Bibliography
 
+--- 
 Butt, Isaac, and Home Government Association. *Irish Federalism : Its Meaning, Its Objects, and Its Hopes.* Dublin: John Falconer, 1870.
 
 Conrad, Margaret. *A Concise History of Canada.* Cambridge: Cambridge University Press, 2012.
@@ -73,7 +75,7 @@ Geoghegan, Patrick M. “The Impact of O’Connell, 1815–1850.” Edited by Ja
 
 Hall, Wayne E. *Dialogues in the Margin : A Study of the Dublin University Magazine.* Washington, D.C. Catholic University of America Press, 1999.
 
-----. “The ”Dublin University Magazine” and Isaac Butt, 1834-1838.” *Victorian Periodicals Review* 20, no. 2 (1987): 43–56.
+---. “The ”Dublin University Magazine” and Isaac Butt, 1834-1838.” *Victorian Periodicals Review* 20, no. 2 (1987): 43–56.
 
 Jackson, Alvin. *Ireland, 1798-1998 : Politics and War.* Oxford, UK: Blackwell Publishers, 1999.
 
@@ -85,60 +87,61 @@ Tilley, Elizabeth. The National Journal: The Dublin University Magazine (1833–
 
 Ward, Alan J. *The Irish Constitutional Tradition: Responsible Government and Modern Ireland; 1782 - 1992.* Washington, D.C: The Catholic Univ. of America Press, 1994.
 
-[^1]: {%- include footnote.html id='/DublinUniversityMagazinea' %} Jan. 1837, 124.
+---
+[^1]: The Dublin University Magazine, a Literary and Political Journal. (Dublin, W. Curry, jun., and co.), Jan. 1837, 124.
 
-[^2]: {%- include footnote.html id='/hallDialoguesMarginStudy1999a' %} 30.
+[^2]: Wayne E. Hall, Dialogues in the Margin : A Study of the Dublin University Magazine (Washington, D.C.: Catholic University of America Press, 1999), 30.
 
-[^3]: {%- include footnote.html id='/geogheganImpactConnell18152018a' %} 124.
+[^3]: Patrick M. Geoghegan, “The Impact of O’Connell, 1815–1850,” in The Cambridge History of Ireland: Volume 3: 1730–1880, ed. James Kelly, vol. 3 (Cambridge: Cambridge University Press, 2018), 124.
 
-[^4]: {%- include footnote.html id='/hallDublinUniversityMagazine1987a' %} 50.
+[^4]: Wayne E. Hall, “The ‘Dublin University Magazine’ and Isaac Butt, 1834-1838,” Victorian Periodicals Review 20, no. 2 (1987): 50.
 
-[^5]: {%- include footnote.html id='/jacksonIreland17981998Politics1999a' %} 39.
+[^5]: Alvin Jackson, Ireland, 1798-1998 : Politics and War (Oxford, UK: Blackwell Publishers, 1999), 39.
 
-[^6]: {%- include footnote.html id='/tilleyNationalJournalDublin2020a' %} 65.
+[^6]: Elizabeth Tilley, “The National Journal: The Dublin University Magazine (1833–1877),” in The Periodical Press in Nineteenth-Century Ireland, by Elizabeth Tilley (Cham: Springer International Publishing, 2020), 65.
 
-[^7]: {%- include footnote.html id='/spencePhilosophyIrishToryism1991a' %} 32.
+[^7]: Joseph Spence, “The Philosophy of Irish Toryism, 1833-52: A Study of Reactions to Liberal Reformism in Ireland in the Generation between the First Reform Act and the Famine” (Ph.D., Birkbeck (University of London), 1991), 32.
 
-[^8]: {%- include footnote.html id='/hallDialoguesMarginStudy1999a' %} 37.
+[^8]: Hall, Dialogues in the Margin, 37.
 
-[^9]: {%- include footnote.html id='/spencePhilosophyIrishToryism1991a' %} 33.
+[^9]: Spence, “The Philosophy of Irish Toryism, 1833-52,” 33.
 
-[^10]: {%- include footnote.html id='/spencePhilosophyIrishToryism1991a' %} 30.
+[^10]: Spence, “The Philosophy of Irish Toryism, 1833-52,” 30.
 
-[^11]: {%- include footnote.html id='/hallDialoguesMarginStudy1999a' %} 3.
+[^11]: Hall, Dialogues in the Margin, 3.
 
-[^12]: {%- include footnote.html id='/hallDublinUniversityMagazine1987a' %} 44.
+[^12]: Hall, “The ‘Dublin University Magazine’ and Isaac Butt, 1834-1838,” 44.
 
-[^13]: {%- include footnote.html id='/hallDublinUniversityMagazine1987a' %} 46.
+[^13]: Hall, “The ‘Dublin University Magazine’ and Isaac Butt, 1834-1838,” 46.
 
-[^14]: {%- include footnote.html id='/geogheganImpactConnell18152018a' %} 104.
+[^14]: Geoghegan, “The Impact of O’Connell, 1815–1850,” 104.
 
-[^15]: {%- include footnote.html id='/spencePhilosophyIrishToryism1991a' %} 58.
+[^15]: Spence, “The Philosophy of Irish Toryism, 1833-52,” 58.
 
-[^16]: {%- include footnote.html id='/DublinUniversityMagazinea' %}  Nov. 1833, 587.
+[^16]: Dublin University Magazine, Nov. 1833, 587.
 
-[^17]: {%- include footnote.html id='/DublinUniversityMagazinea' %} Apr. 1833, 401.
+[^17]: Dublin University Magazine, Apr. 1833, 401.
 
-[^18]: {%- include footnote.html id='/DublinUniversityMagazinea' %} Apr. 1833, 463.
+[^18]: Dublin University Magazine, Apr. 1833, 463.
 
-[^19]: {%- include footnote.html id='/DublinUniversityMagazinea' %} Nov. 1833, 586.
+[^19]: Dublin University Magazine, Nov. 1833, 586.
 
-[^20]: {%- include footnote.html id='/wardIrishConstitutionalTradition1994a' %} 37.
+[^20]: Alan J. Ward, The Irish Constitutional Tradition: Responsible Government and Modern Ireland; 1782 - 1992 (Washington, D.C: The Catholic Univ. of America Press, 1994), 37.
 
-[^21]: {%- include footnote.html id='/DublinUniversityMagazinea' %} May. 1833, 472.
+[^21]: Dublin University Magazine, May. 1833, 472.
 
-[^22]: {%- include footnote.html id='/DublinUniversityMagazinea' %} Dec. 1833, 607.
+[^22]: Dublin University Magazine, Dec. 1833, 607.
 
-[^23]: {%- include footnote.html id='/DublinUniversityMagazinea' %} Dec. 1833, 606.
+[^23]: Dublin University Magazine, Dec. 1833, 606.
 
-[^24]: {%- include footnote.html id='/conradConciseHistoryCanada2012a' %} 127.
+[^24]: Margaret Conrad, A Concise History of Canada (Cambridge: Cambridge University Press, 2012), 127.
 
-[^25]: {%- include footnote.html id='/DublinUniversityMagazinea' %} Jan. 1839, 3.
+[^25]: Dublin University Magazine, Jan. 1839, 3.
 
-[^26]: {%- include footnote.html id='/DublinUniversityMagazinea' %} Jan. 1839, 10.
+[^26]: Dublin University Magazine, Jan. 1839, 10.
 
-[^27]: {%- include footnote.html id='/DublinUniversityMagazinea ' %} Jan. 1839, 11.
+[^27]: Dublin University Magazine, Jan. 1839, 11.
 
-[^28]: {%- include footnote.html id='/DublinUniversityMagazinea' %} Jan. 1839, 22.
+[^28]: Dublin University Magazine, Jan. 1839, 22.
 
-[^29]: {%- include footnote.html id='/buttIrishFederalismIts1870a' %}
+[^29]: Isaac Butt and Home Government Association, Irish Federalism : Its Meaning, Its Objects, and Its Hopes (Dublin: John Falconer, 1870).

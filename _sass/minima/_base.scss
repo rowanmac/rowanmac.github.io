@@ -298,12 +298,17 @@ blockquote {
 /**
  * Code formatting
  */
+
+pre.highlight {
+  background: $background-accent-color !important;
+}
+
 pre,
 code {
   @include relative-font-size(0.9375);
-  border: 1px solid $grey-color-light;
+  border: 1px solid $background-accent-color;
   border-radius: 3px;
-  background-color: #eef;
+  background-color: $background-accent-color;
 }
 
 code {
@@ -320,7 +325,6 @@ pre {
     padding-left: 0;
   }
 }
-
 
 
 /**
