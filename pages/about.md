@@ -23,7 +23,7 @@ Expect to see books, both from university presses and generalist publishers, jou
 # Features & Planned Features
 - [x] A monthly brief
 - [x] Individual pages for each work with more information
-- [ ] A newsletter version
+- [x] A newsletter version
 - [ ] Options to export citation data to reference managment software
 - [ ] Index of journals, publishers & scholars
 - [ ] Inclusion of conference papers & PhD theses

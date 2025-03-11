@@ -3,6 +3,6 @@ layout: page
 title: Contact
 permalink: /contact
 ---
-Email: irishhistorybrief@gmail.com
+For things related to Irish history bibliography or historiography: irishhistorybrief@gmail.com
+For anything else: macconvr@tcd.ie
 
-Twitter (for now): @IrishHistBrief

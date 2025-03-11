@@ -47,31 +47,33 @@ The CAIR was a response to post-war continental intellectual currents which call
 
 This was an initial foray into the study of the CAIR. One blind spot of this study is its neglect of the Catholic press, any further work should expand its scope to periodicals like *The Irish Catholic* which also reported on CAIR activities. Other potential avenues for future research were apparent when researching this essay. The CAIR's elite audience and early interest in pan-European ideas suggests that it could be an under appreciated part of Ireland's intellectual journey toward European integration. Similarly the CAIR's educational mission and connections to Universities could be relevant to histories of third level Irish education. Potentially the most fruitful area for future work is the suite of international Catholic organisations of which the CAIR was part. A study of the various national branches of the CUIS during wartime could reveal whether the perceived lack of interest from the Irish public was in fact an issue common to organisations of its kind. The papers of the Catholic Institute for International Relations (CIIR) in England also bear researching either to discover potential continuities between the two organisations or to compare the issues they faced. The CAIR did not succeed but it would be a lazy assumption to conclude that its failure was caused by a small minded Irish Catholicism, although its members often assumed as much. However, in the absence of sources detailing the CAIR's decision making it remains difficult to assess if the ultimate causes of failure were internal or external.
 
-**Primary Sources Cited**
+# Primary Sources
 
-**UCD Archives**
+---
+
+# UCD Archives
 
 Papers of Desmond (1888--1947) and Mabel (1884--1957) FitzGerald,
 
 Papers of John Marcus O'Sullivan (1881--1948).
 
-**Irish Jesuit Archives**
+# Irish Jesuit Archives
 
 IE IJA ADMN/3/59 Letters to the Irish Provincial on various matters,
 
 Fr. Stephen J. Brown Papers.
 
-**National Library of Ireland**
+# National Library of Ireland
 
 Delos, Joseph T. *International Relations from a Catholic Standpoint.* Browne and Nolan, Ltd., 1932.
 
 O'Sullivan, John Marcus.*"Some Elements of European Disorder" Lecture Delivered at University College* Catholic Association for International Relations, 1939.
 
-**Dáil Éireann Debates Online**
+# Dáil Éireann Debates Online
 
 Committee on Finance.-Adjournment Debate---International Affairs, Thursday, 9 Nov 1944 Vol. 95 No. 6.
 
-**Irish Newspaper Archives**
+# Irish Newspaper Archives
 
 Evening Herald
 
@@ -81,63 +83,95 @@ Irish Press
 
 Irish Times
 
-[^1]: [@brownQuestionIrishNationality1912; @brownWhatNation1912].
+# Bibliography
 
-[^2]: [@brownInternationalEnquiryConcerning1923].
+---
 
-[^3]: [@brownInternationalEnquiryConcerning1923 311].
+Brown, Stephen J. “An International Enquiry Concerning Nationalism.” *Studies: An Irish Quarterly Review* 12, no. 46 (1923): 306–313.
 
-[^4]: [@brownInternationalEnquiryConcerning1923 312].
+----. “Catholic Internationalism.” *Studies: An Irish Quarterly Review* 14, no. 55 (1925): 476–479.
 
-[^5]: [@curtisChallengeDemocracyMilitant2010 93].
+----. “Catholics and Peace: A Conference in Dublin, August 1937.” *Studies: An Irish Quarterly Review* 26, no. 103 (1937): 489–494.
 
-[^6]: [@brownCatholicInternationalism1925 476].
+----. “The Question of Irish Nationality.” Studies: An Irish Quarterly Review 1, no. 4 (1912): 634–654.
 
-[^7]: [@brownCatholicInternationalism1925 477].
+----. “What Is a Nation?” *Studies: An Irish Quarterly Review* 1, no. 3 (1912): 496–510.
 
-[^8]: [@brownCatholicInternationalism1925 478].
+----. “What of the League of Nations?” *The Irish Monthly* 57, no. 670 (1929): 205–210.
 
-[^9]: [@brownCatholicInternationalism1925 478].
+Curtis, Maurice. *A Challenge to Democracy: Militant Catholicism in Modern Ireland.* Dublin: History Press, 2010.
 
-[^10]: [@brownCatholicInternationalism1925 479].
+Delos, Joseph T. *International Relations from a Catholic Standpoint : Translated from the French [La Soci´et´e Internationale].* N.p.: Browne and Nolan, Ltd., 1932.
 
-[^11]: [@brownWhatLeagueNations1929 209].
+Dutton, Kenneth R. “James Johnston Auchmuty (1909–1981).” In *Australian Dictionary of Biography.* 18 vols. Canberra: National Centre of Biography, Australian National University, n.d.
 
-[^12]: [@delosInternationalRelationsCatholic1932 4].
+Fanning, Bryan. *Irish Adventures in Nation-Building.* Manchester, Manchester University Press, 2016.
+
+Keogh, Dermot. *The Vatican, the Bishops, and Irish Politics, 1919-39.* Cambridge University Press, 1986.
+
+O’Sullivan, John Marcus. *”Some Elements of European Disorder” : Lecture Delivered at University College, Dublin, February 24, 1939.* Catholic Association for International Relations, 1939.
+
+Whyte, John Henry. *Church and State in Modern Ireland, 1923-1979.* Dublin. Barnes & Noble Books, 1980.
+
+---
+
+[^1]: Stephen J. Brown, “The Question of Irish Nationality,” Studies: An Irish Quarterly Review 1, no. 4 (1912): 634–54; Stephen J. Brown, “What Is a Nation?,” Studies: An Irish Quarterly Review 1, no. 3 (1912): 496–510.
+
+[^2]: Stephen J. Brown, “An International Enquiry Concerning Nationalism,” Studies: An Irish Quarterly Review 12, no. 46 (1923): 306–13.
+
+[^3]: Brown, “An International Enquiry Concerning Nationalism,” 311.
+
+[^4]: Brown, “An International Enquiry Concerning Nationalism,” 312.
+
+[^5]: Maurice Curtis, A Challenge to Democracy: Militant Catholicism in Modern Ireland (Dublin: History Press, 2010), 93.
+
+[^6]: Stephen J. Brown, “Catholic Internationalism,” Studies: An Irish Quarterly Review 14, no. 55 (1925): 476.
+
+[^7]: Brown, “Catholic Internationalism,” 477.
+
+[^8]: Brown, “Catholic Internationalism,” 478.
+
+[^9]: ibid.
+
+[^10]: Brown, “Catholic Internationalism,” 479.
+
+[^11]: Stephen J. Brown, “What of the League of Nations?,” The Irish Monthly 57, no. 670 (1929): 209.
+
+[^12]: Joseph T. Delos, International Relations from a Catholic Standpoint : Translated from the French [La Société Internationale] (Browne and Nolan, Ltd., 1932), 4.
 
 [^13]: CAIR Leaflet, 1945-46, J54\|34(1), Irish Jesuit Archives, Dublin.
 
-[^14]: [@delosInternationalRelationsCatholic1932 198].
+[^14]: Delos, International Relations from a Catholic Standpoint, 198.
 
-[^15]: [@delosInternationalRelationsCatholic1932 199].
+[^15]: Delos, International Relations from a Catholic Standpoint, 199.
 
-[^16]: [@delosInternationalRelationsCatholic1932 41, 53].
+[^16]: Delos, International Relations from a Catholic Standpoint, 41 & 53.
 
-[^17]: [@fanningIrishAdventuresNationBuilding2016 45].
+[^17]: Bryan Fanning, Irish Adventures in Nation-Building (Manchester: Manchester University Press, 2016), 45.
 
-[^18]: [@brownCatholicsPeaceConference1937 493].
+[^18]: Stephen J. Brown, “Catholics and Peace: A Conference in Dublin, August 1937,” Studies: An Irish Quarterly Review 26, no. 103 (1937): 493.
 
-[^19]: [@whyteChurchStateModern1980a 80].
+[^19]: John Henry Whyte, Church and State in Modern Ireland, 1923-1979 (Dublin : Gill and Macmillan , 1980), 80.
 
-[^20]: [@brownCatholicsPeaceConference1937 494].
+[^20]: Brown, “Catholics and Peace,” 494.
 
-[^21]: [@brownCatholicsPeaceConference1937 490].
+[^21]: Brown, “Catholics and Peace,” 490.
 
-[^22]: [@osullivanElementsEuropeanDisorder1939 Forward].
+[^22]: John Marcus O’Sullivan, “Some Elements of European Disorder” : Lecture Delivered at University College, Dublin, February 24, 1939 (Catholic Association for International Relations, 1939), Forward.
 
 [^23]: New Association For Catholics, *Irish Independent*, December 30, 1938, 8.
 
-[^24]: [@osullivanElementsEuropeanDisorder1939 4].
+[^24]: O’Sullivan, Some Elements of European Disorder, 4.
 
-[^25]: [@osullivanElementsEuropeanDisorder1939 21].
+[^25]: O’Sullivan, Some Elements of European Disorder, 21.
 
-[^26]: [@osullivanElementsEuropeanDisorder1939 17].
+[^26]: O’Sullivan, Some Elements of European Disorder, 17.
 
 [^27]: A Charter For Christian Peace, 1937-40, P80/1295 (2), Desmond Fitzgerald Papers, UCD Archives, Dublin.
 
-[^28]: [@osullivanElementsEuropeanDisorder1939 23].
+[^28]: O’Sullivan, Some Elements of European Disorder, 23.
 
-[^29]: [@fanningIrishAdventuresNationBuilding2016 47].
+[^29]: Fanning, Irish Adventures in Nation-Building, 47.
 
 [^30]: What Can We Do For Peace?, 1937-40, P80/1295 (3), Desmond Fitzgerald Collection, UCD Archives, Dublin, 2.
 
@@ -153,7 +187,7 @@ Irish Times
 
 [^36]: Committee on Finance. - Adjournment Debate---International Affairs, Dáil Éireann, November 9, 1944, Vol. 95 No. 6.
 
-[^37]: [@duttonJamesJohnstonAuchmuty].
+[^37]: Kenneth R. Dutton, “James Johnston Auchmuty (1909–1981),” in Australian Dictionary of Biography, 18 vols. (Canberra: National Centre of Biography, Australian National University).
 
 [^38]: People And Places, *Irish Press*, July 18, 1944, 2.
 
@@ -163,7 +197,7 @@ Irish Times
 
 [^41]: Minister On Cause Of Europe's Failure, *Irish Independent*, September 28, 1948, 5.
 
-[^42]: [@keoghVaticanBishopsIrish1986a 201].
+[^42]: Dermot Keogh, The Vatican, the Bishops, and Irish Politics, 1919-39 (Cambridge University Press, 1986), 201.
 
 [^43]: Leader Page Parade, *Irish Independent*, October 18, 1944, 2.
 
