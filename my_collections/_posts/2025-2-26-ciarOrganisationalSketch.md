@@ -114,6 +114,8 @@ O’Sullivan, John Marcus. *”Some Elements of European Disorder” : Lecture D
 
 Whyte, John Henry. *Church and State in Modern Ireland, 1923-1979.* Dublin. Barnes & Noble Books, 1980.
 
+{% include shareSection.html %}
+
 ---
 
 [^1]: Stephen J. Brown, “The Question of Irish Nationality,” Studies: An Irish Quarterly Review 1, no. 4 (1912): 634–54; Stephen J. Brown, “What Is a Nation?,” Studies: An Irish Quarterly Review 1, no. 3 (1912): 496–510.

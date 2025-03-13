@@ -216,6 +216,8 @@ Mungello, D. E. *The Catholic Invasion of China: Remaking Chinese Christianity.*
 
 Van de Ven, Hans J. *War and Nationalism in China, 1925-1945.* London ; New York: Routledge, 2003.
 
+{% include shareSection.html %}
+
 ---
 [^1]: “CN1/147 Galvin Letters and Papers Regarding China” (June 25, 1912). This is a liberal paraphrase for effect.
 

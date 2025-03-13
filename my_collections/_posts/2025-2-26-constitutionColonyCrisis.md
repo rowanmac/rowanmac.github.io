@@ -87,6 +87,8 @@ Tilley, Elizabeth. The National Journal: The Dublin University Magazine (1833–
 
 Ward, Alan J. *The Irish Constitutional Tradition: Responsible Government and Modern Ireland; 1782 - 1992.* Washington, D.C: The Catholic Univ. of America Press, 1994.
 
+{% include shareSection.html %}
+
 ---
 [^1]: The Dublin University Magazine, a Literary and Political Journal. (Dublin, W. Curry, jun., and co.), Jan. 1837, 124.
 
