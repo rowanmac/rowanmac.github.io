@@ -54,6 +54,8 @@ collections:
     output: true
   sources:
     output: true
+  lists:
+    output: true
 collections_dir: my_collections
 
 sidebar:
