@@ -1,12 +1,11 @@
 ---
 author: Rowan MacConville
-title: Digital Humanities List
+title: Joyful Internet List
 layout: page
 categories: 
 date:
-permalink: /digHumList
 ---
-*A unordered dump of different digital humanities projects that I find fun, interesting or useful (all of the above really) not necessarily related to Irish history. I try to update it whenever I find something new.*
+*A unordered dump of different websites and online project that I find fun, interesting or useful (or all of the above). Skews toward history research but has a bit of everything.*
 
 ---
 - [The Teletext Museum](https://teletext.mb21.co.uk/) Website archiving the history of teletext with examples from all over the world.
@@ -16,5 +15,14 @@ permalink: /digHumList
 - [Children & Youth in History](https://chnm.gmu.edu/cyh/introduction.html) Online guide and primary source repository for the history of children and youth. Has plain text annotated and translated primary sources from around the world, guides to studying the topic and teaching modules.
 - [The Shakespeare Media Archive](https://sites.google.com/ncsu.edu/the-shakespeare-media-archive/home) Collection of free video performances of and lectures on Shakespeare's works.
 - [Collecting the Modern Library](https://www.modernlib.com)  A site for collectors of the Modern Library book series with historical information and listings of the collection.
+- [Everyman's Library Collectiong](http://everymanslibrarycollecting.com/) Similar to above but for the Everyman's library series.
+- [Series of Series](https://seriesofseries.com/) Great website cataloguing book series published in the 20th century, as far as I can tell only in English, great to think about popular literacy in the 20th century.
+- [Chinese Cyberfeminism Archive](https://chinese-cyberfeminism-archive.com/) Wonderfully presented collection of archived sites made by Chinese feminists.
+- [Low Tech Magazine](https://solar.lowtechmagazine.com/) The solar powered website of a great magazine, imagining how to live sustainably and beautifully with homebrew tech.
+- [David Rumsey Map Collection](https://www.davidrumsey.com/) A large digitised searchable map collection.
+- [The Html Review](https://thehtml.review/) An experimental online art journal.
+- [Chinese Film Classics](https://chinesefilmclassics.org/)  A great project preserving and making accessible early Chinese film, with lots of supplementary material to help study.
+- [China Unofficial Archives](https://minjian-danganguan.org/s/china-unofficial/page/welcome) An archive of Chinese dissident material.
+- [Irustoya](https://www.irasutoya.com/) Charming and free Japanese clip art.
 
 {% include shareSection.html %}
