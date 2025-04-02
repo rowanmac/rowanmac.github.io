@@ -1724,29 +1724,6 @@ references:
   type: chapter
   URL: https://www.fourcourtspress.ie/books/2025/people-prehistory-and-the-past
 
-- id: NextOneYou2025
-  abstract: A True Story of Guns, Country, and the Ira's Secret American Army
-  accessed:
-    - year: 2025
-      month: 3
-      day: 11
-  citation-key: NextOneYou2025
-  ISBN: 978-0-316-53827-5
-  issued:
-    - year: 2025
-      month: 3
-      day: 11
-  language: en
-  publisher: Little, Brown and Company
-  source: bookshop.org
-  title: >-
-    The Next One Is for You: A True Story of Guns, Country, and the Ira's Secret
-    American Army
-  title-short: The Next One Is for You
-  type: book
-  URL: >-
-    https://www.hachettebookgroup.com/titles/ali-watkins/the-next-one-is-for-you/9780316538275/?lens=little-brown-and-company
-
 - id: niccongailIrishLanguageChildrensLiterature2025
   author:
     - family: Nic Congáil
@@ -3672,4 +3649,30 @@ references:
   type: chapter
   URL: >-
     https://global.oup.com/academic/product/the-oxford-history-of-the-irish-book-volume-ii-9780199249763?cc=ge&lang=3n#
+
+- id: watkinsNextOneYou2025
+  abstract: A True Story of Guns, Country, and the Ira's Secret American Army
+  accessed:
+    - year: 2025
+      month: 3
+      day: 11
+  author:
+    - family: Watkins
+      given: Ali
+  citation-key: watkinsNextOneYou2025
+  ISBN: 978-0-316-53827-5
+  issued:
+    - year: 2025
+      month: 3
+      day: 11
+  language: en
+  publisher: Little, Brown and Company
+  source: bookshop.org
+  title: >-
+    The Next One Is for You: A True Story of Guns, Country, and the Ira's Secret
+    American Army
+  title-short: The Next One Is for You
+  type: book
+  URL: >-
+    https://www.hachettebookgroup.com/titles/ali-watkins/the-next-one-is-for-you/9780316538275/?lens=little-brown-and-company
 ...
