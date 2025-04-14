@@ -9,6 +9,8 @@ A list of albums I've listened through in full, with my favourite song (if I hav
 ---
 
 # 2025
+| **Album** | **Artist** | **Year** | **Day Listened** | **Favourite Song** |
+| -- | -- | -- | -- | -- |
 | Homogenic | Björk | 1997 | 29/01/2025 | Bachelorette |
 | Gino Paoli | Gino Paoli | 2001 | 29/01/2025 | Il Cielo in una stanza |
 | Whatever People Say I Am, That’s What I’m Not | Arctic Monkeys | 2006 | 31/01/2025 | I Bet You Look Good on the Dancefloor |
