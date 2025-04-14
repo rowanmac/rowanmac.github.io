@@ -8,7 +8,8 @@ A list of albums I've listened through in full, with my favourite song (if I hav
 
 ---
 
-# 2025
+# 2025 
+
 | **Album** | **Artist** | **Year** | **Day Listened** | **Favourite Song** |
 | -- | -- | -- | -- | -- |
 | Homogenic | Björk | 1997 | 29/01/2025 | Bachelorette |
@@ -66,3 +67,5 @@ A list of albums I've listened through in full, with my favourite song (if I hav
 | Nashville Skyline | Bob Dylan | 1969 | 12/04/2025 | Girl from the North Country |
 | Phases and Stages | Willie Nelson | 1974 | 13/04/2025 | (How Will I Know) I’m Falling In Love Again |
 | Roberto Carlos (1969) | Roberto Carlos | 1969 | 14/04/2025 | Do Outro Lado da Cidade |
+| Hexed! | aya | 2025 | 14/04/2025 | Hexed! |
+| Remembering the Rockets | Strange Ranger | 2019 | 14/04/2025 | Planes in Front of the Sun |

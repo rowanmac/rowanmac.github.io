@@ -390,27 +390,25 @@ pre {
  * Tables
  */
 table {
-  margin-bottom: $spacing-unit;
+  border-collapse: collapse;
   width: 100%;
   text-align: $table-text-align;
-  color: lighten($text-color, 18%);
-  border-collapse: collapse;
-  border: 1px solid $grey-color-light;
-  tr {
-    &:nth-child(even) {
-      background-color: lighten($grey-color-light, 6%);
-    }
+  color: $text-color;
+  margin-bottom: $spacing-unit;
+
+  thead {
+    position: sticky;
+    top: 0;
+    background-color: $ihb-background-color;
+    box-shadow: 0 1px 0 $background-accent-color; /* Creates a "border" effect underneath */
   }
+
   th, td {
     padding: ($spacing-unit / 3) ($spacing-unit / 2);
   }
-  th {
-    background-color: lighten($grey-color-light, 3%);
-    border: 1px solid darken($grey-color-light, 4%);
-    border-bottom-color: darken($grey-color-light, 12%);
-  }
-  td {
-    border: 1px solid $grey-color-light;
+
+  tr {
+    border-bottom: 1px solid $background-accent-color;
   }
 }
 
