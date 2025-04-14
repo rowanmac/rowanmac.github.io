@@ -4,7 +4,7 @@ title: Albums List
 layout: page
 ---
 
-A list of albums listen through in full, with my favourite song (if I have one).
+A list of albums I've listened through in full, with my favourite song (if I have one).
 
 ---
 
