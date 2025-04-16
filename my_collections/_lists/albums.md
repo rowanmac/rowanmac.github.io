@@ -70,3 +70,4 @@ A list of albums I've listened through in full, with my favourite song (if I hav
 | Hexed! | aya | 2025 | 14/04/2025 | Hexed! |
 | Remembering the Rockets | Strange Ranger | 2019 | 14/04/2025 | Planes in Front of the Sun |
 | Beetlejuice (Original Broadway Cast Recording) | Eddie Perfect | 2019 | 14/04/2025 | Ready Set, Not Yet |
+| Roberto Carlos (1971) | Roberto Carlos | 1971 | 15/04/2025 | Eu Só Tenho um Caminho |
