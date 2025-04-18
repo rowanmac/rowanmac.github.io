@@ -73,3 +73,4 @@ A list of albums I've listened through in full, with my favourite song (if I hav
 | Roberto Carlos (1971) | Roberto Carlos | 1971 | 15/04/2025 | Eu Só Tenho um Caminho |
 | Everything Is Everything | Donny Hathaway | 1970 | 17/04/2025 | The Ghetto |
 | Circulado | Caetano Veloso | 1991 | 18/04/2025 | Neide Candolina |
+| Quarteto Novo | Quarteto Novo | 1967 | 18/04/2025 | Vim De Sant'Ana |
