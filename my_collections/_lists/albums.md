@@ -74,4 +74,4 @@ A list of albums I've listened through in full, with my favourite song (if I hav
 | Everything Is Everything | Donny Hathaway | 1970 | 17/04/2025 | The Ghetto |
 | Circulado | Caetano Veloso | 1991 | 18/04/2025 | Neide Candolina |
 | Quarteto Novo | Quarteto Novo | 1967 | 18/04/2025 | Vim De Sant'Ana |
-| Chega de Saudade | João Gilberto | 1959 | 19/04/2025 | Maria Ninguém |
+| Chega de Saudade | João Gilberto | 1959 | 19/04/2025 | Brigas, Nunca Mais |
