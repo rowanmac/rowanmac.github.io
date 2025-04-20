@@ -75,3 +75,4 @@ A list of albums I've listened through in full, with my favourite song (if I hav
 | Circulado | Caetano Veloso | 1991 | 18/04/2025 | Neide Candolina |
 | Quarteto Novo | Quarteto Novo | 1967 | 18/04/2025 | Vim De Sant'Ana |
 | Chega de Saudade | João Gilberto | 1959 | 19/04/2025 | Brigas, Nunca Mais |
+| Tropicália ou Panis et Circensis | Caetano Veloso, Gilberto Gil, Gal Costa, Os Mutantes & Nara Leão | 1968 | 20/04/2025 | Baby |
