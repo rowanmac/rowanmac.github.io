@@ -77,3 +77,4 @@ A list of albums I've listened through in full, with my favourite song (if I hav
 | Chega de Saudade | João Gilberto | 1959 | 19/04/2025 | Brigas, Nunca Mais |
 | Tropicália ou Panis et Circensis | Caetano Veloso, Gilberto Gil, Gal Costa, Os Mutantes & Nara Leão | 1968 | 20/04/2025 | Baby |
 | Cesaria | Cesária Evora | 1995 | 20/04/2025 | |
+| Expresso 2222 | Gilberto Gil | 1972 | 20/04/2025 | Back in Bahia |
