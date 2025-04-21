@@ -78,3 +78,4 @@ A list of albums I've listened through in full, with my favourite song (if I hav
 | Tropicália ou Panis et Circensis | Caetano Veloso, Gilberto Gil, Gal Costa, Os Mutantes & Nara Leão | 1968 | 20/04/2025 | Baby |
 | Cesaria | Cesária Evora | 1995 | 20/04/2025 | |
 | Expresso 2222 | Gilberto Gil | 1972 | 20/04/2025 | Back in Bahia |
+| Tim Maia 1970 | Tim Maia | 1970 | 21/04/2025 | Azul Da Cor Do Mar |
