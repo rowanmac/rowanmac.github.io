@@ -83,3 +83,5 @@ A list of albums I've listened through in full, with my favourite song (if I hav
 | sore thumb | Oso Oso | 2022 | 23/04/2025 | nothing to do |
 | life till bones | Oso Oso | 2024 | 23/04/2025 | all of my love |
 | Nara | Nara Leão | 1964 | 23/04/2025 | Berimbau |
+| Os Afro - Sambas de Baden e Vinícius | Baden Powell & Vinicius de Moraes | 1966 | 23/04/2025 | |
+| Getz/Gilberto | Stan Getz & João Gilberto | 1964 | 23/04/2025 | | 
