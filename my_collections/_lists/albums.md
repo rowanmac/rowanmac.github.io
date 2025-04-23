@@ -82,3 +82,4 @@ A list of albums I've listened through in full, with my favourite song (if I hav
 | basking in the glow | Oso Oso | 2019 | 23/04/2025 | one sick plan |
 | sore thumb | Oso Oso | 2022 | 23/04/2025 | nothing to do |
 | life till bones | Oso Oso | 2024 | 23/04/2025 | all of my love |
+| Nara | Nara Leão | 1964 | 23/04/2025 | Berimbau |
