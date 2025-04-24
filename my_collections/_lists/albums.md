@@ -85,3 +85,4 @@ A list of albums I've listened through in full, with my favourite song (if I hav
 | Nara | Nara Leão | 1964 | 23/04/2025 | Berimbau |
 | Os Afro - Sambas de Baden e Vinícius | Baden Powell & Vinicius de Moraes | 1966 | 23/04/2025 | |
 | Getz/Gilberto | Stan Getz & João Gilberto | 1964 | 23/04/2025 | O Grande Amor | 
+| <b>No | <b>More | <b>American | <b>Music | <b>Please! |
