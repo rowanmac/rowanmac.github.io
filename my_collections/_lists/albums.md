@@ -87,3 +87,4 @@ A list of albums I've listened through in full, with my favourite song (if I hav
 | Getz/Gilberto | Stan Getz & João Gilberto | 1964 | 23/04/2025 | O Grande Amor | 
 | <b>No | <b>More | <b>American | <b>Music | <b>Please! |
 | Gilberto Gil (1968) | Gilberto Gil | 1968 | 24/04/2025 | Pega a Voga, Cabeludo |
+| Refazenda | Gilberto Gil | 1975 | 24/04/2025 | Refazenda |
