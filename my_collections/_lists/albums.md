@@ -10,7 +10,7 @@ A list of albums I've listened through in full, with my favourite song (if I hav
 
 # 2025 
 
-| **Album** | **Artist** | **Year** | **Day Listened** | **Favourite Song** | **Country**
+|  | **Album** | **Artist** | **Year** | **Day Listened** | **Favourite Song** | **Country**
 | -- | -- | -- | -- | -- | -- | -- |
 | 1 | Homogenic | Björk | 1997 | 29/01/2025 | Bachelorette | 🇮🇸 |
 | 2 | Gino Paoli | Gino Paoli | 2001 | 29/01/2025 | Il Cielo in una stanza | 🇮🇹 |
