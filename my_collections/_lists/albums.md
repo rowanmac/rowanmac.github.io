@@ -90,3 +90,4 @@ A list of albums I've listened through in full, with my favourite song.
 | *76* | Cartola (1976) | Cartola | 1976 | 26/04/2025 | O Mundo È um Moinho | 🇧🇷 |
 | *77* | Caetano Veloso | Caetano Veloso | 1969 | 27/04/2025 | Alfômega | 🇧🇷 |
 | *78* | Adoniran Barbosa | Adoniran Barbosa | 1974 | 27/04/2025 | | 🇧🇷 |
+| *79* | Erasmo Carlos e os Tremendões | Erasmo Carlos | 1970 | 27/04/2025 | | 🇧🇷 |
