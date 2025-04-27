@@ -88,4 +88,4 @@ A list of albums I've listened through in full, with my favourite song.
 | *74* | Gilberto Gil (1968) | Gilberto Gil | 1968 | 24/04/2025 | Pega a Voga, Cabeludo | 🇧🇷 |
 | *75* | Refazenda | Gilberto Gil | 1975 | 24/04/2025 | Refazenda | 🇧🇷 |
 | *76* | Cartola (1976) | Cartola | 1976 | 26/04/2025 | O Mundo È um Moinho | 🇧🇷 |
-| *77* | Caetano Veloso | Caetano Veloso | 1969 | 27/04/2025 | | 🇧🇷 |
+| *77* | Caetano Veloso | Caetano Veloso | 1969 | 27/04/2025 | Alfômega | 🇧🇷 |
