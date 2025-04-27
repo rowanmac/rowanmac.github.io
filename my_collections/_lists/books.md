@@ -34,7 +34,7 @@ A list of books I've finished.
 | *21* | A Thousand Splendid Suns | Khaled Hosseini | English | | 🇦🇫 |
 | *22* | Everything Under | Daisy Johnson | English | | 🇬🇧 |
 | *23* | The Polyglots | William Gerhardie | English | | 🇬🇧 |
-| *24* | The Unwomanly Face Of War | Svetlana Alexievich | | Russian | | 🇧🇾 |
+| *24* | The Unwomanly Face Of War | Svetlana Alexievich | Russian | | 🇧🇾 |
 | *25* | The Places Inbetween | Rory Stewart | English | | 🇬🇧 |
 | <b style="font-size: 30px;">2020</b> |
 | <b style="font-size: 30px;">2021</b> |
@@ -64,7 +64,7 @@ A list of books I've finished.
 | *21* | A Place In The Country | W.G. Sebald | German | | 🇩🇪 |
 | *22* | Middlemarch | George Elliot | English | | 🇬🇧 |
 | *23* | The Radetzky March | Joseph Roth | German | | 🇦🇹 |
-| *24* | On A Chinese Screen | W. Somerset Maugham | English | 🇬🇧 |
+| *24* | On A Chinese Screen | W. Somerset Maugham | English | | 🇬🇧 |
 | <b style="font-size: 30px;">2025</b> |
 | *1* | Vertigo | W.G. Sebald | German | | 🇩🇪 |
 | *2* | A Swim In The Pond In The Rain | George Saunders | English | | 🇺🇸 |
