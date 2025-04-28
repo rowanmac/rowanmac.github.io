@@ -91,5 +91,5 @@ A list of albums I've listened through in full, with my favourite song.
 | *77* | Caetano Veloso | Caetano Veloso | 1969 | 27/04/2025 | Alfômega | 🇧🇷 |
 | *78* | Adoniran Barbosa | Adoniran Barbosa | 1974 | 27/04/2025 | As Mariposa | 🇧🇷 |
 | *79* | Erasmo Carlos e os Tremendões | Erasmo Carlos | 1970 | 27/04/2025 | Menina | 🇧🇷 |
-| *80* | Hoja É o Primeiro Dia do Resto da Sua Vida | Rita Lee | 1972 | 28/04/2025 | | 🇧🇷 |
+| *80* | Hoja É o Primeiro Dia do Resto da Sua Vida | Rita Lee | 1972 | 28/04/2025 | Superfície do Planeta | 🇧🇷 |
 
