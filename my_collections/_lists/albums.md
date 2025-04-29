@@ -92,5 +92,6 @@ A list of albums I've listened through in full, with my favourite song.
 | *78* | Adoniran Barbosa | Adoniran Barbosa | 1974 | 27/04/2025 | As Mariposa | 🇧🇷 |
 | *79* | Erasmo Carlos e os Tremendões | Erasmo Carlos | 1970 | 27/04/2025 | Sentado á Beira do Caminho | 🇧🇷 |
 | *80* | Hoja É o Primeiro Dia do Resto da Sua Vida | Rita Lee | 1972 | 28/04/2025 | Superfície do Planeta | 🇧🇷 |
-| *81* | Acabou Chorare | Novos Baianos | 1972 | 29/04/2015 | Besta é Tu | 🇧🇷 |
+| *81* | Acabou Chorare | Novos Baianos | 1972 | 29/04/2025 | Besta é Tu | 🇧🇷 |
+| *82* | Clube da Esquina | Milton Nascimetno & Lô Borges | 1972 | 29/04/2025 | | 🇧🇷 |
 
