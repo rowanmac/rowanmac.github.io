@@ -94,4 +94,5 @@ A list of albums I've listened through in full, with my favourite song.
 | *80* | Hoja É o Primeiro Dia do Resto da Sua Vida | Rita Lee | 1972 | 28/04/2025 | Superfície do Planeta | 🇧🇷 |
 | *81* | Acabou Chorare | Novos Baianos | 1972 | 29/04/2025 | Besta é Tu | 🇧🇷 |
 | *82* | Clube da Esquina | Milton Nascimetno & Lô Borges | 1972 | 29/04/2025 | Clube da Esquina Nº 2 | 🇧🇷 |
+| *83* | Construção | Chico Buarque | 1971 | 30/04/2025 | Construção | 🇧🇷 |
 
