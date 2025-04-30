@@ -71,3 +71,4 @@ A list of books I've finished.
 | *3* | João Gilberto And Stan Getz's Getz/Gilberto | Bryann McCann | English | | 🇺🇸 |
 | *4* | Gilberto Gil's Refazenda | Marc A. Hertzman | English | | 🇺🇸 |
 | *5* | The Corner Club | Jonathon Grasse | English | | 🇺🇸 |
+| *6* | Mrs Dalloway | Virginia Woolf | English | | 🇬🇧 |
