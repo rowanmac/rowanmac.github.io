@@ -96,4 +96,5 @@ A list of albums I've listened through in full, with my favourite song.
 | *82* | Clube da Esquina | Milton Nascimetno & Lô Borges | 1972 | 29/04/2025 | Clube da Esquina Nº 2 | 🇧🇷 |
 | *83* | Construção | Chico Buarque | 1971 | 30/04/2025 | Construção | 🇧🇷 |
 | *84* | Gal | Gal Costa | 1969 | 30/04/2025 | Meu Nome E Gal | 🇧🇷 |
+| *85* | Transa | Caetano Veloso | 1972 | 01/05/2025 | It's a Long Way | 🇧🇷 |
 
