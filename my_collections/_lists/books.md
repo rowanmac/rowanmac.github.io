@@ -66,7 +66,7 @@ A list of books I've finished.
 | *23* | The Radetzky March | Joseph Roth | German | | 🇦🇹 |
 | *24* | On A Chinese Screen | W. Somerset Maugham | English | | 🇬🇧 |
 | <b style="font-size: 30px;">2025</b> |
-| *1* | Vertigo | W.G. Sebald | German | | 🇩🇪 |
+| *1* | Vertigo | W.G. Sebald | German | Michael Hulse | 🇩🇪 |
 | *2* | A Swim In The Pond In The Rain | George Saunders | English | | 🇺🇸 |
 | *3* | João Gilberto And Stan Getz's Getz/Gilberto | Bryann McCann | English | | 🇺🇸 |
 | *4* | Gilberto Gil's Refazenda | Marc A. Hertzman | English | | 🇺🇸 |
