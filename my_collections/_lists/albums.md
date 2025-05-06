@@ -99,4 +99,5 @@ A list of albums I've listened through in full, with my favourite song.
 | *85* | Transa | Caetano Veloso | 1972 | 01/05/2025 | It's a Long Way | 🇧🇷 |
 | *86* | Jonatan | Yung Lean | 2025 | 02/05/2025 | | 🇸🇪 |
 | *87* | Fruto Proibido | Rita Lee & Tutti Frutti | 1975 | 02/05/2025 | | 🇧🇷 |
+| *88* | Lô Borges | Lô Borges | 1972 | 06/05/2025 | | 🇧🇷 |
 
