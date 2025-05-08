@@ -101,5 +101,5 @@ A list of albums I've listened through in full, with my favourite song.
 | *87* | Fruto Proibido | Rita Lee & Tutti Frutti | 1975 | 02/05/2025 | Agora Só Falta Você | 🇧🇷 |
 | *88* | Lô Borges | Lô Borges | 1972 | 06/05/2025 | Faça Seu Jogo | 🇧🇷 |
 | *89* | Admirável Chip Novo | Pitty | 2003 | 06/05/2025 | Teto de Vidro | 🇧🇷 |
-| *90* | Chegou a Hora de Recomeçar | CPM 22 | 2003 | 07/05/2025 | | 🇧🇷 |
+| *90* | Chegou a Hora de Recomeçar | CPM 22 | 2003 | 07/05/2025 | Ontem | 🇧🇷 |
 
