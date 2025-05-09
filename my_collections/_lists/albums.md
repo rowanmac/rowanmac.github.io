@@ -102,4 +102,6 @@ A list of albums I've listened through in full, with my favourite song.
 | *88* | Lô Borges | Lô Borges | 1972 | 06/05/2025 | Faça Seu Jogo | 🇧🇷 |
 | *89* | Admirável Chip Novo | Pitty | 2003 | 06/05/2025 | Teto de Vidro | 🇧🇷 |
 | *90* | Chegou a Hora de Recomeçar | CPM 22 | 2003 | 07/05/2025 | Ontem | 🇧🇷 |
+| *91* | Samba Esquema Novo | Jorge Ben Jor | 1963 | 08/05/2025 | Mas, Que Nada! | 🇧🇷 |
+| *92* | Ventura | Los Hermanos | 2003 | 09/05/2025 | | 🇧🇷 |
 
