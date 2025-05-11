@@ -103,5 +103,8 @@ A list of albums I've listened through in full, with my favourite song.
 | *89* | Admirável Chip Novo | Pitty | 2003 | 06/05/2025 | Teto de Vidro | 🇧🇷 |
 | *90* | Chegou a Hora de Recomeçar | CPM 22 | 2003 | 07/05/2025 | Ontem | 🇧🇷 |
 | *91* | Samba Esquema Novo | Jorge Ben Jor | 1963 | 08/05/2025 | Mas, Que Nada! | 🇧🇷 |
-| *92* | Ventura | Los Hermanos | 2003 | 09/05/2025 | | 🇧🇷 |
+| *92* | Ventura | Los Hermanos | 2003 | 09/05/2025 | De Onde Vem a Calma | 🇧🇷 |
+| *93* | Duas Cidades | BaianaSystem | 2016 | 10/05/2025 | Duas Cidades | 🇧🇷 |
+| *94* | Você Não Sabe de Nada | O Grilo | 2021 | 11/05/2025 | | 🇧🇷 |
+
 
