@@ -196,3 +196,4 @@ A list of books I've finished.
 | *5* | The Corner Club | Jonathon Grasse | English | | 🇺🇸 |
 | *6* | Mrs Dalloway | Virginia Woolf | English | | 🇬🇧 |
 | *7* | Golden Age | Wang Xiaobo | Chinese | Yan Yan | 🇨🇳 |
+| *8* | The Bridge on the Drina | Ivo Andrić | Serbo-Croatian | Lovett F. Edwards | Yugoslavia |

@@ -106,5 +106,5 @@ A list of albums I've listened through in full, with my favourite song.
 | *92* | Ventura | Los Hermanos | 2003 | 09/05/2025 | De Onde Vem a Calma | 🇧🇷 |
 | *93* | Duas Cidades | BaianaSystem | 2016 | 10/05/2025 | Duas Cidades | 🇧🇷 |
 | *94* | Você Não Sabe de Nada | O Grilo | 2021 | 11/05/2025 | | 🇧🇷 |
-
+| *95* | Gilberto Gil (1969) | Gilberto Gil | 1969 | 12/05/2025 | Aquele Abraço | 🇧🇷 |
 
