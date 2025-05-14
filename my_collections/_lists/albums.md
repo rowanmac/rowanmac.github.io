@@ -108,4 +108,5 @@ A list of albums I've listened through in full, with my favourite song.
 | *94* | Você Não Sabe de Nada | O Grilo | 2021 | 11/05/2025 | | 🇧🇷 |
 | *95* | Gilberto Gil (1969) | Gilberto Gil | 1969 | 12/05/2025 | Aquele Abraço | 🇧🇷 |
 | *96* | Jorge Ben | Jorge Ben Jor | 1969 | 13/05/2025 | País Tropical | 🇧🇷 |
+| *97* | Gal Costa (1969) | Gal Costa | 1969 | 14/05/2025 | Se Você Pensa | 🇧🇷 |
 
