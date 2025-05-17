@@ -8,7 +8,7 @@ A list of albums I've listened through in full, with my favourite song.
 
 ---
 
-| | **Album** | **Artist** | **Year** | **Day Listened** | **Favourite Song** | **Country**
+| | **Album** | **Artist** | **Year** | **Day Listened** | **Favourite Song** | **Country** |
 | -- | -- | -- | -- | -- | -- | -- |
 | <b style="font-size: 30px;">2025</b> |
 | *1* | Homogenic | Björk | 1997 | 29/01/2025 | Bachelorette | 🇮🇸 |
