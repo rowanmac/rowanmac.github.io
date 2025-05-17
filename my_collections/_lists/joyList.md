@@ -22,5 +22,6 @@ layout: page
 - [Chinese Film Classics](https://chinesefilmclassics.org/)  A great project preserving and making accessible early Chinese film, with lots of supplementary material to help study.
 - [China Unofficial Archives](https://minjian-danganguan.org/s/china-unofficial/page/welcome) An archive of Chinese dissident material.
 - [Irustoya](https://www.irasutoya.com/) Charming and free Japanese clip art.
+- [Public Domain Image Archive](https://pdimagearchive.org/infinite-view/) A large and well presented archive of public domain images. Explore in infinite mode!
 
 {% include shareSection.html %}
