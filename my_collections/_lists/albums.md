@@ -110,4 +110,5 @@ A list of albums I've listened through in full, with my favourite song.
 | *96* | Jorge Ben | Jorge Ben Jor | 1969 | 13/05/2025 | País Tropical | 🇧🇷 |
 | *97* | Gal Costa (1969) | Gal Costa | 1969 | 14/05/2025 | Se Você Pensa | 🇧🇷 |
 | *98* | Mutantes | Os Mutantes | 1969 | 15/05/2025 | Não Vá Se Perder por Aí | 🇧🇷 |
+| *99* | Milton | Milton Nascimento | 1970 | 18/05/2025 | | 🇧🇷 |
 
