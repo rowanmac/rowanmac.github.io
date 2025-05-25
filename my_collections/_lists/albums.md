@@ -113,5 +113,7 @@ A list of albums I've listened through in full, with my favourite song.
 | *99* | Milton | Milton Nascimento | 1970 | 18/05/2025 | Alunar | 🇧🇷 |
 | *100* | A Volta de Secos & Molhados | Secos & Molhados | 1973 | 20/05/2025 | Fala | 🇧🇷 |
 | *101* | Sonhos E Memórias - 1941 / 1972 | Erasmo Carlos | 1972 | 22/05/2025 | Preciso Urgentemente Encontrar Um Amigo | 🇧🇷 |
+| *102* | The Composer of Desafinado, Plays | Antônio Carlos Jobim | 1963 | 24/05/2025 | Chega De Saudade | 🇧🇷 |
+| *103* | Amoroso | João Gilberto | 1977 | 25/05/2025 | Caminhos Cruzados | 🇧🇷 |
 
 
