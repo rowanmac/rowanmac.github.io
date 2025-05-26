@@ -27,13 +27,13 @@ layout: page
 - [Consumer Aesthetics Research Institute](https://cari.institute/) Collection of different consumer aesthetics.
 - [The Complete Works of William Shakespeare](https://shakespeare.mit.edu/) Exactly that in the barest HTML.
 - [Early Collaborative Games of Fantasy and Imagination](https://wobbupalooza.neocities.org/) History of 19th Century French fantasy and roleplaying games.
+- [archives.design](https://archives.design/) A digital archive of graphic design related items that are available on the Internet Archives
 
 
 # Shopping
 - [Areaware](https://www.areaware.com/) Cute (and expensive) homegoods with playful designs.
 - [Lithograph Blankets](https://www.litographs.com/collections/blankets) Literary themed blankets, a little twee but nice.
-- [Superstitchous Throw Blankets](https://superstitchous.com/) Large, colourful, high quality, fruity throw blankets. Expensive and don't ship to Ireland.
-- [archives.design](https://archives.design/) A digital archive of graphic design related items that are available on the Internet Archives 
+- [Superstitchous Throw Blankets](https://superstitchous.com/) Large, colourful, high quality, fruity throw blankets. Expensive and don't ship to Ireland. 
 - [Wolf and Moon Jewelry](https://www.wolfandmoon.com/en-ie) Nice jewellery brand.
 
 # Blogs, Podcasts & etc
