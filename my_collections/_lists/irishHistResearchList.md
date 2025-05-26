@@ -27,17 +27,25 @@ layout: page
 - [Virtual Record Treasury of Ireland](https://virtualtreasury.ie/) *A digital reconstruction of the destroyed Public Record Office of Ireland with high quality digitisations of material held elsewhere.*
 - [Irish Left Archive](https://www.leftarchive.ie/) *Digitised archive of materials related to the modern Irish left from the 20th century to the present day.*
 - [Historical Irish Corpus](http://corpas.ria.ie/) *A searchable corpus of Irish language material from 1600 - 1926 produced by the Royal Irish Academy*
+- [dippam](https://www.dippam.ac.uk/) Acronym for Documenting Ireland: Parliament, People and Migration. A rich and well digitised online archive comprise three different projects; Enhanced British Parliamentary Papers on Ireland, Irish Emigration Database and Voices of Migration and Return.
+- [Irish Republican Digital Archive](https://republicanarchive.com/) Archive of republican material, the vast majority of which from the latter half of the 20th century.
 
 # Archives
+- [Irish Archives Resource](https://iar.ie/) *An online service to find and search archive records from across Ireland.*
+- [Archives Portal Europe](https://www.archivesportaleurope.net/) Searchable content from archives over Europe.
+- [Consortium of European Research Libraries Resources](https://www.cerl.org/resources/main) Has various online listings and bibliographies related to European history.
 - [Irish Architectural Archive](https://irisharchitecturalarchive.ie) *Material relating to architecture, some digitised.*
 - [National Archives of Ireland](https://nationalarchives.ie/) *A large and wide ranging archive with many government records, has digitised census records.*
 - [National Library of Ireland](https://www.nli.ie/) *A legal deposit library with a vast array of archival material and access to secondary sources both online and in physical copies, free membership.*
 - [The Irish Traditional Music Archive (ITMA)](https://www.itma.ie/) *An archive with many online resources, recordings and interviews.*
 - [The Public Record Office of Northern Ireland (PRONI)](https://www.nidirect.gov.uk/campaigns/public-record-office-northern-ireland-proni)
 
-# Research Tools
-- [Irish Archives Resource](https://iar.ie/) *An online service to find and search archive records from across Ireland.*
+# General Research Tools
 - [OAPEN](https://www.oapen.org/) *An online library of free open access academic books, many about Irish history.*
+- [Directory of Open Access Books](https://www.doabooks.org/) A large directory of open access books. Most not related to Irish History.
+- [The Online Books Page](https://onlinebooks.library.upenn.edu/) Maintained by the University of Pennsylvania, a large catalogue of books freely available online.
+- [The Programming Historian](https://programminghistorian.org/) A great resource with loads of easy to follow guides for digital humanities projects and techniques.
+- [Doing History with Zotero and Obsidian](https://publish.obsidian.md/history-notes/01+Notetaking+for+Historians) A detailed guide to a useful workflow for history research.
 
 # General Websites of Interest
 - [Archiseek](https://www.archiseek.com/) *Online catalogue of Irish Architecture.*
@@ -46,3 +54,5 @@ layout: page
 # Podcasts & Radio
 - [Three Castles Burning](https://threecastlesburning.libsyn.com/) *A podcast of Dublin history by Donal Fallon.*
 - [The History Show](https://www.rte.ie/radio/radio1/the-history-show/) *A radio show on Irish history produced by RTE radio 1.*
+
+{% include shareSection.html %}
