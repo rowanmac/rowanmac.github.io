@@ -49,6 +49,7 @@ layout: page
 - [Public Domain Image Archive](https://pdimagearchive.org/infinite-view/) A large and well presented archive of public domain images. Explore in infinite mode!
 - [Data Viz Project](https://datavizproject.com/) Lovely list of different styles of data visualisation with clever search terms for finding the one's best suited to your needs.
 - [World Historical Gazetteer](https://whgazetteer.org/) DH project for location data.
+- [ASCII Art Archive](https://www.asciiart.eu/)
 
 # Education
 - [Eloquent JavaScript](https://eloquentjavascript.net) Free and excellently presented online textbook for self-studying JavaScript
