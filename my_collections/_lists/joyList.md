@@ -50,6 +50,7 @@ layout: page
 - [Data Viz Project](https://datavizproject.com/) Lovely list of different styles of data visualisation with clever search terms for finding the one's best suited to your needs.
 - [World Historical Gazetteer](https://whgazetteer.org/) DH project for location data.
 - [ASCII Art Archive](https://www.asciiart.eu/)
+- [Seasons in Pentameter](https://pentad.world/) Site that shows the Japanese (and Chinese I believe) microseasons.
 
 # Education
 - [Eloquent JavaScript](https://eloquentjavascript.net) Free and excellently presented online textbook for self-studying JavaScript
