@@ -116,6 +116,6 @@ A list of albums I've listened through in full, with my favourite song.
 | *102* | The Composer of Desafinado, Plays | Antônio Carlos Jobim | 1963 | 24/05/2025 | Chega De Saudade | 🇧🇷 |
 | *103* | Amoroso | João Gilberto | 1977 | 25/05/2025 | Caminhos Cruzados | 🇧🇷 |
 | *104* | Temporada de Verão | Gal Costa, Gilberto Gil & Caetano Veloso | 1974 | 25/05/2025 | Felicidade (Felicidade Foi Embora) / Luar do Sertão | 🇧🇷 |
-| *105* | A Tabua de Esmeralda | Jorge Ben Jor | 1974 | 26/05/2025 | | 🇧🇷 |
+| *105* | A Tabua de Esmeralda | Jorge Ben Jor | 1974 | 26/05/2025 | Errare Humanum Est | 🇧🇷 |
 
 
