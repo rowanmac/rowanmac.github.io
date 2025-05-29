@@ -28,6 +28,7 @@ layout: page
 - [The Complete Works of William Shakespeare](https://shakespeare.mit.edu/) Exactly that in the barest HTML.
 - [Early Collaborative Games of Fantasy and Imagination](https://wobbupalooza.neocities.org/) History of 19th Century French fantasy and roleplaying games.
 - [archives.design](https://archives.design/) A digital archive of graphic design related items that are available on the Internet Archives
+- [Garden History Girl](https://www.gardenhistorygirl.co.uk/) Nice blog about garden history.
 
 
 # Shopping
