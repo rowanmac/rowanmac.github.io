@@ -119,5 +119,6 @@ A list of albums I've listened through in full, with my favourite song.
 | *105* | A Tabua de Esmeralda | Jorge Ben Jor | 1974 | 26/05/2025 | Zumbi | 🇧🇷 |
 | *106* | Álibi | Maria Bethânia | 1978 | 28/05/2025 | Explode Coração | 🇧🇷 |
 | *107* | Um Violão em Primeiro Plano | Rosinha De Valença | 1971 | 28/05/2025 | Concierto de Aranjuez | 🇧🇷 |
+| *108* | Da Lama ao Caos | Chico Science & Nação Zumbi | 1994 | 29/05/2025 | Da Lama ao Caos | 🇧🇷 |
 
 
