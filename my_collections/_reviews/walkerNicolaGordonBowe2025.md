@@ -29,8 +29,7 @@ title: 'Nicola Gordon Bowe, Visualizing the Celtic Revival: The Arts and Crafts 
 title-short: Nicola Gordon Bowe, Visualizing the Celtic Revival
 type: article-journal
 volume: '55'
-workReviewed: ''
-workReviewedCitekey: Visualizing the Celtic Revival The Arts and Crafts Movement in
-  IrelandkennedyVisualizingCelticRevival2024
+workReviewed: Visualizing the Celtic Revival The Arts and Crafts Movement in Ireland
+workReviewedCitekey: kennedyVisualizingCelticRevival2024
 ---
 {% include reviewPageTemplate.html %}
