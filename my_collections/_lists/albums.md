@@ -123,5 +123,6 @@ A list of albums I've listened through in full, with my favourite song.
 | *109* | Força Bruta | Jorge Ben Jor | 1970 | 30/05/2025 | Mulher Brasileira | 🇧🇷 |
 | *110* | Falso Brilhante | Elis Regina | 1976 | 02/06/2025 | | 🇧🇷 |
 | *111* | Krig-Ha, Bandolo | Raul Seixas | 1973 | 03/06/2025 | Mosca Na Sopa | 🇧🇷 |
+| *112* | Bloco do Eu Sozinho | Los Hermanos | 1999 | 04/06/2025 | | 🇧🇷 |
 
 
