@@ -124,5 +124,6 @@ A list of albums I've listened through in full, with my favourite song.
 | *110* | Falso Brilhante | Elis Regina | 1976 | 02/06/2025 | | 🇧🇷 |
 | *111* | Krig-Ha, Bandolo | Raul Seixas | 1973 | 03/06/2025 | Mosca Na Sopa | 🇧🇷 |
 | *112* | Bloco do Eu Sozinho | Los Hermanos | 1999 | 04/06/2025 | | 🇧🇷 |
+| *113* | Em Ritmo de Aventura | Roberto Carlos | 1967 | 05/06/2025 | | 🇧🇷 |
 
 
