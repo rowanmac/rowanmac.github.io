@@ -128,6 +128,6 @@ A list of albums I've listened through in full, with my favourite song.
 | *114* | -Fa-Tal- Gal a Todo Vapor | Gal Costa | 1971 | 05/06/2025 | Como 2 E 2 (Live) | 🇧🇷 |
 | *115* | Herb Albert Presents: Sergio Mendes & Brasil '66 | Sergio Mendes & Brasil '66 | 1966 | 06/06/2025 | Mais Que Nada | 🇧🇷 |
 | *116* | corpos de água | sonhos tomam conta | 2024 | 06/06/2025 | scarborough fair (cântico) | 🇧🇷 |
-| *117* | Mita Koyama-cho | Tatsuro Murakami | 2025 | 06/06/2025 | | 🇧🇷🇯🇵 |
+| *117* | Mita Koyama-cho | Tatsuro Murakami | 2025 | 06/06/2025 | Stunning Fragility | 🇧🇷🇯🇵 |
 
 
