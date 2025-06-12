@@ -200,3 +200,4 @@ A list of books I've finished.
 | *9* | Alice's Adventures in Wonderland | Lewis Carroll | English | | 🇬🇧 |
 | *10* | Through the Looking-Glass | Lewis Carroll | English | | 🇬🇧 |
 | *11* | Greek Lessons | Han Kang | Korean | Deborah Smith & E. Yaewon | 🇰🇷 |
+| *12* | The Maverick Pig (Penguin Archive Edition) | Wang Xiaobo | Chinese | Yan Yan & Eric Abrahamsen | 🇨🇳 |
