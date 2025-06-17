@@ -4,8 +4,11 @@ title: "The Catholic Association For International Relations: An Organisational 
 layout: post
 categories: essay
 date: 2025-2-26
+toc: true
 ---
 *This is a research essay written for an undergraduate history class and that shows in analysis and style. Nonetheless the CAIR was at the time of writing an effectively unstudied organisation, so the essay might be of interest to some.*
+* TOC
+{:toc}
 
 ---
 The Catholic Association For International Relations (CAIR), an Irish organisation founded in 1938, has been given no historical consideration beyond the footnote or the paragraph. This could not be called any great oversight. It left little imprint on Irish society nor an obvious body of archival material for historians to pore over. Primary evidence is scant and scattered across archives or embedded in newspapers. This essay brings together this material, comprising a small number of leaflets, pamphlets, books, lectures, letters and newspaper articles, and sketches the history of the CAIR starting with its first president Fr. Stephen Brown's early writings on international thought and his involvement in post World War I European Catholic organisations. Then the circumstances of the CAIR's foundation are outlined along with a discussion of it aims and philosophy based on pamphlets and printed lecture material. From there this essay charts the fortunes of the CAIR in a rough chronology using newspaper articles beginning with its activities and difficulties during the Emergency and ending with its seeming dissolution in the early 1960s. The scope of this essay is tightly bound by the available sources. More consideration is given to the early years of the organisation than its activities in the 1950s simply due to the lack of material for the latter period. So too are many of the conclusions speculative in the absence of internal reports or correspondences to confirm the organisation's motives. Attempts to connect the CAIR to its wider Irish context are similarly tentative. The primary aim of this essay is to outline a basic intellectual and organisational history of this previously unstudied topic while considering future avenues of research and to that end chronology and basic narrative have been prioritised.
@@ -48,33 +51,35 @@ The CAIR was a response to post-war continental intellectual currents which call
 
 This was an initial foray into the study of the CAIR. One blind spot of this study is its neglect of the Catholic press, any further work should expand its scope to periodicals like *The Irish Catholic* which also reported on CAIR activities. Other potential avenues for future research were apparent when researching this essay. The CAIR's elite audience and early interest in pan-European ideas suggests that it could be an under appreciated part of Ireland's intellectual journey toward European integration. Similarly the CAIR's educational mission and connections to Universities could be relevant to histories of third level Irish education. Potentially the most fruitful area for future work is the suite of international Catholic organisations of which the CAIR was part. A study of the various national branches of the CUIS during wartime could reveal whether the perceived lack of interest from the Irish public was in fact an issue common to organisations of its kind. The papers of the Catholic Institute for International Relations (CIIR) in England also bear researching either to discover potential continuities between the two organisations or to compare the issues they faced. The CAIR did not succeed but it would be a lazy assumption to conclude that its failure was caused by a small minded Irish Catholicism, although its members often assumed as much. However, in the absence of sources detailing the CAIR's decision making it remains difficult to assess if the ultimate causes of failure were internal or external.
 
+{% include commentShareTemplate.md %}
+
 # Primary Sources
 
 ---
 
-# UCD Archives
+## UCD Archives
 
 Papers of Desmond (1888--1947) and Mabel (1884--1957) FitzGerald,
 
 Papers of John Marcus O'Sullivan (1881--1948).
 
-# Irish Jesuit Archives
+## Irish Jesuit Archives
 
 IE IJA ADMN/3/59 Letters to the Irish Provincial on various matters,
 
 Fr. Stephen J. Brown Papers.
 
-# National Library of Ireland
+## National Library of Ireland
 
 Delos, Joseph T. *International Relations from a Catholic Standpoint.* Browne and Nolan, Ltd., 1932.
 
 O'Sullivan, John Marcus.*"Some Elements of European Disorder" Lecture Delivered at University College* Catholic Association for International Relations, 1939.
 
-# Dáil Éireann Debates Online
+## Dáil Éireann Debates Online
 
 Committee on Finance.-Adjournment Debate---International Affairs, Thursday, 9 Nov 1944 Vol. 95 No. 6.
 
-# Irish Newspaper Archives
+## Irish Newspaper Archives
 
 Evening Herald
 
@@ -114,9 +119,7 @@ O’Sullivan, John Marcus. *”Some Elements of European Disorder” : Lecture D
 
 Whyte, John Henry. *Church and State in Modern Ireland, 1923-1979.* Dublin. Barnes & Noble Books, 1980.
 
-{% include shareSection.html %}
-
-{% include emailFeedbackTemplate.html %}
+# Footnotes
 
 ---
 
