@@ -116,6 +116,8 @@ Whyte, John Henry. *Church and State in Modern Ireland, 1923-1979.* Dublin. Barn
 
 {% include shareSection.html %}
 
+{% include emailFeedbackTemplate.html %}
+
 ---
 
 [^1]: Stephen J. Brown, “The Question of Irish Nationality,” Studies: An Irish Quarterly Review 1, no. 4 (1912): 634–54; Stephen J. Brown, “What Is a Nation?,” Studies: An Irish Quarterly Review 1, no. 3 (1912): 496–510.
