@@ -1,10 +1,10 @@
-# Comment
+# Comments
 
 ---
 
-<p>Leave a comment by <a href="mailto:rowanmac22@gmail.com?subject=Comment on {{ page.title }}">emailing me here</a></p>
+<p>Leave a comment by <a href="mailto:rowanmac22@gmail.com?subject=Comment on {{ page.title }}">emailing me here</a> and I will insert it in this section.</p>
 
-# Share
+<h1 class="no_toc">Share</h1>
 
 ---
 
