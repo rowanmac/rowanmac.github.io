@@ -4,6 +4,8 @@ title: Chinese Internet List
 layout: page
 ---
 *Various Chinese language sites or sites relating to China I found interesting or wanted to remember. Many to do with history, but not necessarily.*
+* TOC
+{:toc}
 
 ---
 # Reference
@@ -47,6 +49,7 @@ layout: page
 - [dGenerate Films](https://www.dgeneratefilms.com/) Company distributing films from mainland China abroad. 英文
 - [The Janus Project](https://janus-project.org/) A study group? at Oxford? dedicated to moments of encounter between the Greco-Roman and Chinese classics (think Jesuits). 英文
 - [China Academic Network on Gender — CHANGE](https://change.hypotheses.org/) Academic Network on the theme of gender in Chinese society and history. 英文
+
 # Resources
 - [Jiumo Diary](https://www.jiumodiary.com/) Good place for books. 中文
 - [Paula Curtis Resources](http://prcurtis.com/DH/resources/) A table of digital resources related to East Asian history on the personal site of an academic. Skews toward Japan but lots of great China stuff here too. 英文

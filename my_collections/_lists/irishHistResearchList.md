@@ -5,6 +5,8 @@ layout: page
 ---
 
 *A master list of resources for researching Irish history that I hope to update regularly. Still under construction.*
+* TOC
+{:toc}
 
 ---
 # Biographies & Directories
