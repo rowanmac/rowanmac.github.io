@@ -120,10 +120,10 @@ A list of albums I've listened through in full, with my favourite song.
 | *106* | Álibi | Maria Bethânia | 1978 | 28/05/2025 | Explode Coração | 🇧🇷 |
 | *107* | Um Violão em Primeiro Plano | Rosinha De Valença | 1971 | 28/05/2025 | Concierto de Aranjuez | 🇧🇷 |
 | *108* | Da Lama ao Caos | Chico Science & Nação Zumbi | 1994 | 29/05/2025 | Da Lama ao Caos | 🇧🇷 |
-| *109* | Força Bruta | Jorge Ben Jor | 1970 | 30/05/2025 | Mulher Brasileira | 🇧🇷 |
+| *109* | Força Bruta | Jorge Ben Jor | 1970 | 30/05/2025 | Terezinha | 🇧🇷 |
 | *110* | Falso Brilhante | Elis Regina | 1976 | 02/06/2025 | | 🇧🇷 |
 | *111* | Krig-Ha, Bandolo | Raul Seixas | 1973 | 03/06/2025 | Mosca Na Sopa | 🇧🇷 |
-| *112* | Bloco do Eu Sozinho | Los Hermanos | 1999 | 04/06/2025 | | 🇧🇷 |
+| *112* | Bloco do Eu Sozinho | Los Hermanos | 1999 | 04/06/2025 | Todo Carnival Tem Seu Fim | 🇧🇷 |
 | *113* | Em Ritmo de Aventura | Roberto Carlos | 1967 | 05/06/2025 | | 🇧🇷 |
 | *114* | -Fa-Tal- Gal a Todo Vapor | Gal Costa | 1971 | 05/06/2025 | Como 2 E 2 (Live) | 🇧🇷 |
 | *115* | Herb Albert Presents: Sergio Mendes & Brasil '66 | Sergio Mendes & Brasil '66 | 1966 | 06/06/2025 | Mais Que Nada | 🇧🇷 |
