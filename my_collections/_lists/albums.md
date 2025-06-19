@@ -132,5 +132,6 @@ A list of albums I've listened through in full, with my favourite song.
 | *118* | África Brasil | Jorge Ben Jor | 1976 | 11/06/2025 | Taj Mahal | 🇧🇷 |
 | *119* | Elis & Tom | Elis Regina & Antônio Carlos Jobim | 1974 | 13/06/2025 | | 🇧🇷 |
 | *120* | Verde Que Te Quero Rosa | Cartola | 1977 | 14/06/2025 | | 🇧🇷 |
+| *121* | Dois | Legião Urbana | 1986 | 19/06/2025 | | 🇧🇷 |
 
 
