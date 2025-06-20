@@ -133,5 +133,5 @@ A list of albums I've listened through in full, with my favourite song.
 | *119* | Elis & Tom | Elis Regina & Antônio Carlos Jobim | 1974 | 13/06/2025 | | 🇧🇷 |
 | *120* | Verde Que Te Quero Rosa | Cartola | 1977 | 14/06/2025 | | 🇧🇷 |
 | *121* | Dois | Legião Urbana | 1986 | 19/06/2025 | | 🇧🇷 |
-
+| *122* | Caminho Do Interior | Piry Reis | 1984 | 20/06/2025 | | 🇧🇷 |
 
