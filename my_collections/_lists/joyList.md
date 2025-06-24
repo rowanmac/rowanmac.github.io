@@ -70,5 +70,6 @@ layout: page
 - [Killed by Google](https://killedbygoogle.com/)
 - [Rock Collections](https://rockcollections.site/) A collection of online collections, beautifully presented.
 - [Alphabet Soup for Picky Eaters](https://managore.itch.io/alphabet-soup-for-picky-eaters) A fun game.
+- [WikiShootMe!](https://wikishootme.toolforge.org) Shows a map of locations without pictures on their Wikipedia page for photographers to take a picture of and upload to Wikimedia.
 
 {% include shareSection.html %}
