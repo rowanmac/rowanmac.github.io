@@ -130,11 +130,11 @@ A list of albums I've listened through in full, with my favourite song.
 | *116* | corpos de água | sonhos tomam conta | 2024 | 06/06/2025 | scarborough fair (cântico) | 🇧🇷 |
 | *117* | Mita Koyama-cho | Tatsuro Murakami | 2025 | 06/06/2025 | Stunning Fragility | 🇧🇷🇯🇵 |
 | *118* | África Brasil | Jorge Ben Jor | 1976 | 11/06/2025 | Taj Mahal | 🇧🇷 |
-| *119* | Elis & Tom | Elis Regina & Antônio Carlos Jobim | 1974 | 13/06/2025 | | 🇧🇷 |
-| *120* | Verde Que Te Quero Rosa | Cartola | 1977 | 14/06/2025 | | 🇧🇷 |
+| *119* | Elis & Tom | Elis Regina & Antônio Carlos Jobim | 1974 | 13/06/2025 | Brigas Nunca Mais | 🇧🇷 |
+| *120* | Verde Que Te Quero Rosa | Cartola | 1977 | 14/06/2025 | Autonomia | 🇧🇷 |
 | *121* | Dois | Legião Urbana | 1986 | 19/06/2025 | | 🇧🇷 |
 | *122* | Caminho Do Interior | Piry Reis | 1984 | 20/06/2025 | | 🇧🇷 |
 | *123* | Origens da Luz | Priscilla Ermel | 2020 | 20/06/2025 | Corpo do Vento | 🇧🇷 |
-| *124* | Violão | Nando Carneiro, André Geraissati, Beth Goulart & Egberto Gismonti | 1984 | 21/06/2025 | 🇧🇷 |
+| *124* | Violão | Nando Carneiro, André Geraissati, Beth Goulart & Egberto Gismonti | 1984 | 21/06/2025 | Poromim | 🇧🇷 |
 | *125* | Grande Liquidação | Tom Zé | 1968 | 25/06/2025 | | 🇧🇷 |
 | *126* | Esperança | Clara Nunes | 1979 | 26/06/2025 | | 🇧🇷 |
