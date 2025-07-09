@@ -202,3 +202,4 @@ A list of books I've finished.
 | *11* | Greek Lessons | Han Kang | Korean | Deborah Smith & E. Yaewon | 🇰🇷 |
 | *12* | The Maverick Pig (Penguin Archive Edition) | Wang Xiaobo | Chinese | Yan Yan & Eric Abrahamsen | 🇨🇳 |
 | *13* | A Concise Chinese-English Dictionary for Lovers | Xiaolu Guo | English | | 🇨🇳 |
+| *14* | Bleak House | Charles Dickens | English | | 🇬🇧 |
