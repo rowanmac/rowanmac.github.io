@@ -141,3 +141,4 @@ A list of albums I've listened through in full, with my favourite song.
 | *127* | O Fino Do Fino | Elis Regina & Zimbo Trio | 1965 | 03/07/2025 | | 🇧🇷 |
 | *128* | Racional, Vol. 1 | Tim Maia | 1975 | 07/07/2025 | Bom Senso | 🇧🇷 |
 | *129* | Circense | Egberto Gismonti | 1980 | 09/07/2025 | | 🇧🇷 |
+| *130* | Araçá Azul | Caetano Veloso | 1972 | 14/07/2025 | | 🇧🇷 |
