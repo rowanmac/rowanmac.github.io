@@ -12,6 +12,5 @@ I'm Rowan MacConville, currently an MPhil student in Chinese Studies at Trinity 
 </object>
 
 # Contact
-For things related to Irish history bibliography or historiography: <a href="mailto:irishhistorybrief@gmail.com">irishhistorybrief@gmail.com</a>
+<a href="mailto:rowanmacconville@gmail.com">rowanmacconville@gmail.com</a>
 
-For anything else: <a href="mailto:rowanmac22@gmail.com">rowanmac22@gmail.com</a>

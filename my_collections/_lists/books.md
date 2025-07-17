@@ -159,7 +159,7 @@ A list of books I've finished.
 | *23* | The Emperor | Ryszard Kapuściński | Polish | | 🇵🇱 |
 | *24* | Small Country | Gaël Faye | French | | 🇧🇮 |
 | *25* | Heaven | Mieko Kawakami | Japanese | | 🇯🇵 |
-| *26* | Goodbye Solider | Spike Milligan | English | | 🇬🇧 |
+| *26* | Goodbye Soldier | Spike Milligan | English | | 🇬🇧 |
 | *27* | Peace Work | Spike Milligan | English | | 🇬🇧 |
 | *28* | The Story Of The Stone Vol.3 | Cao Xueqin & Gao E | Chinese | David Hawkes | 🇨🇳 |
 | *29* | Solaris | Stanisław Lem | Polish | | 🇵🇱 |

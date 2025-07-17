@@ -28,7 +28,12 @@ body {
   flex-direction: column;
 }
 
-
+.post-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5em; /* optional: adds space between items */
+}
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
