@@ -203,3 +203,4 @@ A list of books I've finished.
 | *12* | The Maverick Pig (Penguin Archive Edition) | Wang Xiaobo | Chinese | Yan Yan & Eric Abrahamsen | 🇨🇳 |
 | *13* | A Concise Chinese-English Dictionary for Lovers | Xiaolu Guo | English | | 🇨🇳 |
 | *14* | Bleak House | Charles Dickens | English | | 🇬🇧 |
+| *15* | Gulliver's Travels | Jonathan Swift | English | | 🇮🇪 |
