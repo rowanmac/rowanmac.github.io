@@ -31,6 +31,7 @@ layout: page
 - [Early Collaborative Games of Fantasy and Imagination](https://wobbupalooza.neocities.org/) History of 19th Century French fantasy and roleplaying games.
 - [archives.design](https://archives.design/) A digital archive of graphic design related items that are available on the Internet Archives
 - [Garden History Girl](https://www.gardenhistorygirl.co.uk/) Nice blog about garden history.
+- [Genji Poems](https://genjipoems.org/) Database of all the poems in the *Tale of Genji*, with multiple English translations of every poem.
 
 
 # Shopping
@@ -61,6 +62,7 @@ layout: page
 - [A User's Guide to the Z-Shell](https://zsh.sourceforge.io/Guide/zshguide.html)
 - [Persian Language Online](https://persianlanguageonline.com/) A quite comprehensive website with free materials for learning Persian.
 - [MDN Curriculum](https://developer.mozilla.org/en-US/curriculum/) Free online course for web development.
+- [Class Central](https://www.classcentral.com/) Aggregator site for online college-type classes, many free.
 
 
 # Other Fun Stuff

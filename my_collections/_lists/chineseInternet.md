@@ -23,6 +23,8 @@ layout: page
 - [乌有之乡](https://www.wyzxwk.com/) Red as anything. 中文
 - [Four Books](https://fourbooks.org/) Site for studing the Confucian classics. 英语/中文
 - [求是](http://www.qstheory.cn/) A party theory journal. 中文
+- [新华网](http://www.news.cn/) Xinhua online edition. 中文
+- [21经济网](https://www.21jingji.com/) Online edition of 21st Century Business Herald, unsure of paper's reputation. 中文
 
 # Archives
 - [Chinese Film Classics](https://chinesefilmclassics.org/)  A great project preserving and making accessible early Chinese film, with lots of supplementary material to help study. 英文
