@@ -4,6 +4,9 @@ title: Notes
 permalink: /notes
 ---
 
+* TOC
+{:toc}
+
 # General
 ---
 
@@ -32,6 +35,17 @@ permalink: /notes
 <ul>
 {% for post in site.posts %}
     {% if post.categories[0] == "note" and post.categories[1] == "readingJournal" %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+{% endfor %}
+</ul>
+
+# Review
+---
+
+<ul>
+{% for post in site.posts %}
+    {% if post.categories[0] == "note" and post.categories[1] == "review" %}
         <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endif %}
 {% endfor %}
