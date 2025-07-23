@@ -73,5 +73,6 @@ layout: page
 - [Rock Collections](https://rockcollections.site/) A collection of online collections, beautifully presented.
 - [Alphabet Soup for Picky Eaters](https://managore.itch.io/alphabet-soup-for-picky-eaters) A fun game.
 - [WikiShootMe!](https://wikishootme.toolforge.org) Shows a map of locations without pictures on their Wikipedia page for photographers to take a picture of and upload to Wikimedia.
+- [What Dan Read](https://what-dan-read.com/) A site dedicated to the memory of Dan Pelzer and the many many books he read.
 
 {% include shareSection.html %}
