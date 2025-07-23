@@ -40,7 +40,7 @@ permalink: /notes
 {% endfor %}
 </ul>
 
-# Review
+# Reviews
 ---
 
 <ul>
@@ -51,4 +51,14 @@ permalink: /notes
 {% endfor %}
 </ul>
 
+# Source Commentaries
+---
+
+<ul>
+{% for post in site.posts %}
+    {% if post.categories[0] == "note" and post.categories[1] == "commentary" %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+{% endfor %}
+</ul>
 
