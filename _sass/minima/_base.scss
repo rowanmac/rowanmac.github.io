@@ -364,6 +364,29 @@ pre {
   }
 }
 
+/**
+* Paragraphs
+*/
+.post-content {
+  counter-reset: pcounter;
+  position: relative;
+}
+
+.post-content > p {
+  position: relative;
+  counter-increment: pcounter;
+  &:before {
+    content: counter(pcounter) " ";
+    color: $grey-color;
+    vertical-align: super;
+    font-size: 0.8em;
+    position: absolute;
+    left: -1.25em;
+    top: 0;
+    line-height: 1;
+    text-decoration: dotted underline; /* Dotted underline for the counter */
+  }
+}
 
 
 /**

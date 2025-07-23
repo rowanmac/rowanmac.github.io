@@ -3,7 +3,7 @@ author: Rowan MacConville
 title: An Open Notebook
 layout: post 
 categories: note
-date:  
+date: 2025-7-23
 ---
 
 I've been studying history at university for about five years now, and feel not much closer than when I began to understanding the method of history.
