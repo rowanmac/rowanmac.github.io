@@ -25,6 +25,7 @@ layout: page
 - [求是](http://www.qstheory.cn/) A party theory journal. 中文
 - [新华网](http://www.news.cn/) Xinhua online edition. 中文
 - [21经济网](https://www.21jingji.com/) Online edition of 21st Century Business Herald, unsure of paper's reputation. 中文
+- [The China Scroll](https://chinascroll.live/) Live news aggregator, whiff of American. 英文
 
 # Archives
 - [Chinese Film Classics](https://chinesefilmclassics.org/)  A great project preserving and making accessible early Chinese film, with lots of supplementary material to help study. 英文

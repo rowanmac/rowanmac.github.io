@@ -137,7 +137,7 @@ A list of albums I've listened through in full, with my favourite song.
 | *123* | Origens da Luz | Priscilla Ermel | 2020 | 20/06/2025 | Corpo do Vento | 🇧🇷 |
 | *124* | Violão | Nando Carneiro, André Geraissati, Beth Goulart & Egberto Gismonti | 1984 | 21/06/2025 | Poromim | 🇧🇷 |
 | *125* | Grande Liquidação | Tom Zé | 1968 | 25/06/2025 | Parque Industrial | 🇧🇷 |
-| *126* | Esperança | Clara Nunes | 1979 | 26/06/2025 | | 🇧🇷 |
+| *126* | Esperança | Clara Nunes | 1979 | 26/06/2025 | Obsessão | 🇧🇷 |
 | *127* | O Fino Do Fino | Elis Regina & Zimbo Trio | 1965 | 03/07/2025 | | 🇧🇷 |
 | *128* | Racional, Vol. 1 | Tim Maia | 1975 | 07/07/2025 | Bom Senso | 🇧🇷 |
 | *129* | Circense | Egberto Gismonti | 1980 | 09/07/2025 | | 🇧🇷 |
