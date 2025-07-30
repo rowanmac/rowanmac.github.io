@@ -144,3 +144,4 @@ A list of albums I've listened through in full, with my favourite song.
 | *130* | Araçá Azul | Caetano Veloso | 1972 | 14/07/2025 | Tu Me Acostumbraste | 🇧🇷 |
 | *131* | Hejira | Joni Mitchell | 1976 | 17/07/2025 | Hejira | 🇨🇦 |
 | *132* | Cinema | Cinema | 1985 | 24/07/2025 | | 🇧🇷 |
+| *133* | Sobrevivendo no Inferno | Racionais MC's | 1997 | 29/07/2025 | | 🇧🇷 |
