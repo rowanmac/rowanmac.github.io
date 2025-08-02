@@ -350,8 +350,14 @@ references:
   DOI: 10.1080/0078172X.2025.2527567
   ISSN: 0078-172X
   issue: '0'
+  note: >-
+    review: true
+
+    workReviewed: The Removal of Irish Paupers from Britain: 1819 to the Early
+    Twentieth Century
+
+    workReviewedCitekey: darwenRemovalIrishPaupers2024
   page: 1-2
-  publisher: Routledge
   source: Taylor and Francis+NEJM
   title: >-
     The Removal of Irish Paupers from Britain: 1819 to the Early Twentieth
