@@ -4,7 +4,7 @@ URL: https://global.oup.com/academic/product/the-oxford-history-of-the-irish-boo
 author:
 - family: Long
   given: Gerard
-categories: '202503'
+categories: '202507'
 chapter: 74
 citation-key: longIrishLanguageBookIllustration2025
 collection-number: v. 2

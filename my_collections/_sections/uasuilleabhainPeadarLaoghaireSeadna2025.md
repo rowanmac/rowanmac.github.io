@@ -4,7 +4,7 @@ URL: https://global.oup.com/academic/product/the-oxford-history-of-the-irish-boo
 author:
 - family: "Ua S\xFAilleabh\xE1in"
   given: "Se\xE1n"
-categories: '202503'
+categories: '202507'
 chapter: 30
 citation-key: uasuilleabhainPeadarLaoghaireSeadna2025
 collection-number: v. 2

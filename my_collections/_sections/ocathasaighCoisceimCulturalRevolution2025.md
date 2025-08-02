@@ -4,7 +4,7 @@ URL: https://global.oup.com/academic/product/the-oxford-history-of-the-irish-boo
 author:
 - family: "\xD3 Cathasaigh"
   given: Aindrias
-categories: '202503'
+categories: '202507'
 chapter: 38
 citation-key: ocathasaighCoisceimCulturalRevolution2025
 collection-number: v. 2

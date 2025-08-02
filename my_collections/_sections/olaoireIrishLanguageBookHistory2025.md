@@ -4,7 +4,7 @@ URL: https://global.oup.com/academic/product/the-oxford-history-of-the-irish-boo
 author:
 - family: "\xD3 Laoire"
   given: Lillis
-categories: '202503'
+categories: '202507'
 chapter: 55
 citation-key: olaoireIrishLanguageBookHistory2025
 collection-number: v. 2

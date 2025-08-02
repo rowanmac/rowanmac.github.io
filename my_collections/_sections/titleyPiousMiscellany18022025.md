@@ -4,7 +4,7 @@ URL: https://global.oup.com/academic/product/the-oxford-history-of-the-irish-boo
 author:
 - family: Titley
   given: Alan
-categories: '202503'
+categories: '202507'
 chapter: 21
 citation-key: titleyPiousMiscellany18022025
 collection-number: v. 2

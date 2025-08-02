@@ -4,7 +4,7 @@ URL: https://global.oup.com/academic/product/the-oxford-history-of-the-irish-boo
 author:
 - family: McGuinne
   given: Dermot
-categories: '202503'
+categories: '202507'
 chapter: 73
 citation-key: mcguinneRomanIrishCharacter2025
 collection-number: v. 2

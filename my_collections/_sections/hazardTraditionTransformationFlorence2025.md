@@ -4,7 +4,7 @@ URL: https://global.oup.com/academic/product/the-oxford-history-of-the-irish-boo
 author:
 - family: Hazard
   given: Ben
-categories: '202503'
+categories: '202507'
 chapter: 7
 citation-key: hazardTraditionTransformationFlorence2025
 collection-number: v. 2

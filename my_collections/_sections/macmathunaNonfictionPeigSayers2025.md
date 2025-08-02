@@ -4,7 +4,7 @@ URL: https://global.oup.com/academic/product/the-oxford-history-of-the-irish-boo
 author:
 - family: "Mac Math\xFAna"
   given: Liam
-categories: '202503'
+categories: '202507'
 chapter: 51
 citation-key: macmathunaNonfictionPeigSayers2025
 collection-number: v. 2

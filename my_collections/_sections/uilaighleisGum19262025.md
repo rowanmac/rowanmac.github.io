@@ -4,7 +4,7 @@ URL: https://global.oup.com/academic/product/the-oxford-history-of-the-irish-boo
 author:
 - family: "U\xED Laighl\xE9is"
   given: "Gear\xF3idin"
-categories: '202503'
+categories: '202507'
 chapter: 35
 citation-key: uilaighleisGum19262025
 collection-number: v. 2

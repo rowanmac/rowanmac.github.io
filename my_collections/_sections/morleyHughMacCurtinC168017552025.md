@@ -4,7 +4,7 @@ URL: https://global.oup.com/academic/product/the-oxford-history-of-the-irish-boo
 author:
 - family: Morley
   given: Vincent
-categories: '202503'
+categories: '202507'
 chapter: 13
 citation-key: morleyHughMacCurtinC168017552025
 collection-number: v. 2

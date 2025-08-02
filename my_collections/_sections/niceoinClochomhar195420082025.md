@@ -4,7 +4,7 @@ URL: https://global.oup.com/academic/product/the-oxford-history-of-the-irish-boo
 author:
 - family: Nic Eoin
   given: "M\xE1ir\xEDn"
-categories: '202503'
+categories: '202507'
 chapter: 37
 citation-key: niceoinClochomhar195420082025
 collection-number: v. 2

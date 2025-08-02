@@ -4,7 +4,7 @@ URL: https://global.oup.com/academic/product/the-oxford-history-of-the-irish-boo
 author:
 - family: "N\xED Chl\xE9irch\xEDn"
   given: "Caitr\xEDona"
-categories: '202503'
+categories: '202507'
 chapter: 65
 citation-key: nichleirchinTranslationIssuesContemporary2025
 collection-number: v. 2

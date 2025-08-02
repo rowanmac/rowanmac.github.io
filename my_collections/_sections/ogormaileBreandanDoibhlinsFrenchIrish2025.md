@@ -4,7 +4,7 @@ URL: https://global.oup.com/academic/product/the-oxford-history-of-the-irish-boo
 author:
 - family: "\xD3 Gormaile"
   given: "P\xE1draig"
-categories: '202503'
+categories: '202507'
 chapter: 64
 citation-key: ogormaileBreandanDoibhlinsFrenchIrish2025
 collection-number: v. 2

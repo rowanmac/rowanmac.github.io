@@ -4,7 +4,7 @@ URL: https://global.oup.com/academic/product/the-oxford-history-of-the-irish-boo
 author:
 - family: Bhreathnach
   given: Edel
-categories: '202503'
+categories: '202507'
 chapter: 6
 citation-key: bhreathnachIrishFranciscanContribution2025
 collection-number: v. 2

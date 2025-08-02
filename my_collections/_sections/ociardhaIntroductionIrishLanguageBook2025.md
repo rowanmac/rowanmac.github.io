@@ -8,7 +8,7 @@ author:
   given: Frank
 - family: Titley
   given: Alan
-categories: '202503'
+categories: '202507'
 chapter: 1
 citation-key: ociardhaIntroductionIrishLanguageBook2025
 collection-number: v. 2

@@ -6,7 +6,7 @@ author:
   given: Diarmuid
 - family: "N\xED Mhurch\xFA"
   given: "M\xE1ire"
-categories: '202503'
+categories: '202507'
 chapter: 52
 citation-key: breathnachNonfictionBeathaisneisBiographical2025
 collection-number: v. 2

@@ -4,7 +4,7 @@ URL: https://global.oup.com/academic/product/the-oxford-history-of-the-irish-boo
 author:
 - family: MacAmhlaigh
   given: Gus
-categories: '202503'
+categories: '202507'
 chapter: 79
 citation-key: macamhlaighBookCollectorsPerspective2025
 collection-number: v. 2

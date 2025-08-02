@@ -4,7 +4,7 @@ URL: https://global.oup.com/academic/product/the-oxford-history-of-the-irish-boo
 author:
 - family: "U\xED Fhlannag\xE1in"
   given: Fionnuala
-categories: '202503'
+categories: '202507'
 chapter: 26
 citation-key: uifhlannagainGaodhalGaelOct2025
 collection-number: v. 2

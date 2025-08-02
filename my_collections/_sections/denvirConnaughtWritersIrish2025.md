@@ -4,7 +4,7 @@ URL: https://global.oup.com/academic/product/the-oxford-history-of-the-irish-boo
 author:
 - family: Denvir
   given: "Gear\xF3id"
-categories: '202503'
+categories: '202507'
 chapter: 54
 citation-key: denvirConnaughtWritersIrish2025
 collection-number: v. 2

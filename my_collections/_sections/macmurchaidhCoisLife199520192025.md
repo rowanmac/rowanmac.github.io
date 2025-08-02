@@ -4,7 +4,7 @@ URL: https://global.oup.com/academic/product/the-oxford-history-of-the-irish-boo
 author:
 - family: Mac Murchaidh
   given: "Ciar\xE1n"
-categories: '202503'
+categories: '202507'
 chapter: 40
 citation-key: macmurchaidhCoisLife199520192025
 collection-number: v. 2

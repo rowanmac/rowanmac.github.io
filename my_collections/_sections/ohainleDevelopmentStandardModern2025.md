@@ -4,7 +4,7 @@ URL: https://global.oup.com/academic/product/the-oxford-history-of-the-irish-boo
 author:
 - family: "\xD3 H\xE1inle"
   given: Cathal
-categories: '202503'
+categories: '202507'
 chapter: 33
 citation-key: ohainleDevelopmentStandardModern2025
 collection-number: v. 2

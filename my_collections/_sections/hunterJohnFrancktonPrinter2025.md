@@ -4,7 +4,7 @@ URL: https://global.oup.com/academic/product/the-oxford-history-of-the-irish-boo
 author:
 - family: Hunter
   given: Robert J.
-categories: '202503'
+categories: '202507'
 chapter: 4
 citation-key: hunterJohnFrancktonPrinter2025
 collection-number: v. 2

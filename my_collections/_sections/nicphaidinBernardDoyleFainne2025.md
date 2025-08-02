@@ -4,7 +4,7 @@ URL: https://global.oup.com/academic/product/the-oxford-history-of-the-irish-boo
 author:
 - family: "Nic Ph\xE1id\xEDn"
   given: Caoilfhionn
-categories: '202503'
+categories: '202507'
 chapter: 27
 citation-key: nicphaidinBernardDoyleFainne2025
 collection-number: v. 2

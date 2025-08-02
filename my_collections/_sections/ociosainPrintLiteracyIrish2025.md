@@ -4,7 +4,7 @@ URL: https://global.oup.com/academic/product/the-oxford-history-of-the-irish-boo
 author:
 - family: "\xD3 Cios\xE1in"
   given: Niall
-categories: '202503'
+categories: '202507'
 chapter: 23
 citation-key: ociosainPrintLiteracyIrish2025
 collection-number: v. 2

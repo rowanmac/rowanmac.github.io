@@ -4,7 +4,7 @@ URL: https://global.oup.com/academic/product/the-oxford-history-of-the-irish-boo
 author:
 - family: "Mag Shamhr\xE1in"
   given: Antain
-categories: '202503'
+categories: '202507'
 chapter: 42
 citation-key: magshamhrainIrisleabharMhaNuad2025
 collection-number: v. 2

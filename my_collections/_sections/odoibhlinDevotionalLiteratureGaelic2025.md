@@ -4,7 +4,7 @@ URL: https://global.oup.com/academic/product/the-oxford-history-of-the-irish-boo
 author:
 - family: "\xD3 Doibhlin"
   given: Diarmaid
-categories: '202503'
+categories: '202507'
 chapter: 14
 citation-key: odoibhlinDevotionalLiteratureGaelic2025
 collection-number: v. 2

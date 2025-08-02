@@ -4,7 +4,7 @@ URL: https://global.oup.com/academic/product/the-oxford-history-of-the-irish-boo
 author:
 - family: "\xD3 Mur\xE1\xEDle"
   given: Nollaig
-categories: '202503'
+categories: '202507'
 chapter: 11
 citation-key: omuraileJohnODonovansEdition2025
 collection-number: v. 2

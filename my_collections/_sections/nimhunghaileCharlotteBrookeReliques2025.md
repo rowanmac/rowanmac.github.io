@@ -4,7 +4,7 @@ URL: https://global.oup.com/academic/product/the-oxford-history-of-the-irish-boo
 author:
 - family: "N\xED Mhunghaile"
   given: Lesa
-categories: '202503'
+categories: '202507'
 chapter: 18
 citation-key: nimhunghaileCharlotteBrookeReliques2025
 collection-number: v. 2

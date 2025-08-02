@@ -4,7 +4,7 @@ URL: https://global.oup.com/academic/product/the-oxford-history-of-the-irish-boo
 author:
 - family: Hughes
   given: Art
-categories: '202503'
+categories: '202507'
 chapter: 67
 citation-key: hughesCelticStudiesAcademic2025
 collection-number: v. 2

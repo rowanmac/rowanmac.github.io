@@ -4,7 +4,7 @@ URL: https://global.oup.com/academic/product/the-oxford-history-of-the-irish-boo
 author:
 - family: Riggs
   given: "P\xE1draig\xEDn"
-categories: '202503'
+categories: '202507'
 chapter: 31
 citation-key: riggsIrishTextsSociety2025
 collection-number: v. 2

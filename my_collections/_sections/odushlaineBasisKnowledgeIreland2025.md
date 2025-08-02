@@ -4,7 +4,7 @@ URL: https://global.oup.com/academic/product/the-oxford-history-of-the-irish-boo
 author:
 - family: "\xD3 D\xFAshl\xE1ine"
   given: Tadhg
-categories: '202503'
+categories: '202507'
 chapter: 10
 citation-key: odushlaineBasisKnowledgeIreland2025
 collection-number: v. 2

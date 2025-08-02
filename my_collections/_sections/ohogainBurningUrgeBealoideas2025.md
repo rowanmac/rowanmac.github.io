@@ -4,7 +4,7 @@ URL: https://global.oup.com/academic/product/the-oxford-history-of-the-irish-boo
 author:
 - family: "\xD3 h\xD3g\xE1in"
   given: "D\xE1ith\xED"
-categories: '202503'
+categories: '202507'
 chapter: 59
 citation-key: ohogainBurningUrgeBealoideas2025
 collection-number: v. 2

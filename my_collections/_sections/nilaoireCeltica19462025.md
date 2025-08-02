@@ -4,7 +4,7 @@ URL: https://global.oup.com/academic/product/the-oxford-history-of-the-irish-boo
 author:
 - family: "N\xED Laoire"
   given: "Siobh\xE1n"
-categories: '202503'
+categories: '202507'
 chapter: 45
 citation-key: nilaoireCeltica19462025
 collection-number: v. 2

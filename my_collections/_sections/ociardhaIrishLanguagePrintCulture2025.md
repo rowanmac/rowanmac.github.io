@@ -4,7 +4,7 @@ URL: https://global.oup.com/academic/product/the-oxford-history-of-the-irish-boo
 author:
 - family: "\xD3 Ciardha"
   given: "\xC9amonn"
-categories: '202503'
+categories: '202507'
 chapter: 20
 citation-key: ociardhaIrishLanguagePrintCulture2025
 collection-number: v. 2

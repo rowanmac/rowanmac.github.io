@@ -4,7 +4,7 @@ URL: https://global.oup.com/academic/product/the-oxford-history-of-the-irish-boo
 author:
 - family: Sewell
   given: Frank
-categories: '202503'
+categories: '202507'
 chapter: 39
 citation-key: sewellHisHQKitchen2025
 collection-number: v. 2

@@ -1,7 +1,7 @@
 ---
 ISBN: 978-0-19-924976-3
 URL: https://global.oup.com/academic/product/the-oxford-history-of-the-irish-book-volume-ii-9780199249763?cc=ge&lang=3n#
-categories: '202503'
+categories: '202507'
 chapter: 2
 citation-key: ciardhaTasteThereforeThat2025
 collection-number: v. 2
