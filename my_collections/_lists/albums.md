@@ -146,3 +146,4 @@ A list of albums I've listened through in full, with my favourite song.
 | *132* | Cinema | Cinema | 1985 | 24/07/2025 | | 🇧🇷 |
 | *133* | Sobrevivendo no Inferno | Racionais MC's | 1997 | 29/07/2025 | | 🇧🇷 |
 | *134* | Selvagem? | Os Paralamas do Sucesso | 1986 | 01/08/2025 | Você | 🇧🇷 |
+| *135* | Verde, Anil, Amarelo, Cor de Rosa e Carvão | Marisa Monte | 1994 | 03/08/2025 | Enquanto Isso | 🇧🇷 |
