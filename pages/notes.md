@@ -12,7 +12,7 @@ permalink: /notes
 
 <ul>
 {% for post in site.posts %}
-    {% if post.categories[0] == "note" and post.categories.size == 1 %}
+    {% if post.categories.size == 1 and post.categories contains "note" %}
         <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endif %}
 {% endfor %}
@@ -23,7 +23,7 @@ permalink: /notes
 
 <ul>
 {% for post in site.posts %}
-    {% if post.categories[0] == "note" and post.categories[1] == "learningPortuguese" %}
+    {% if post.categories contains "note" and post.categories contains "learningPortuguese" %}
         <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endif %}
 {% endfor %}
@@ -34,19 +34,20 @@ permalink: /notes
 
 <ul>
 {% for post in site.posts %}
-    {% if post.categories[0] == "note" and post.categories[1] == "readingJournal" %}
+    {% if post.categories contains "note" and post.categories contains "readingJournal" %}
         <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endif %}
 {% endfor %}
 </ul>
 
-# Reviews
+# Book Reviews
 ---
 
 <ul>
-{% for post in site.posts %}
-    {% if post.categories[0] == "note" and post.categories[1] == "review" %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+{% for book in site.books %}
+    {% if book.categories contains "review" %}
+        <li><a href="{{ book.url }}"><i>{{ book.title }}</i>{% if book.author %} by {% if book.author.size == 1 %}{{ book.author[0].given }} {{ book.author[0].family }}{% else %}{% for person in book.author %}{% if forloop.last == true %} and {% endif %}{{ person.given }} {{ person.family }}{% if forloop.last == false %}, {% endif %}{% endfor %}{% endif %}{% endif %}
+          {% if book.editor %}edited by {% if book.editor.size == 1 %}{{ book.editor[0].given }} {{ book.editor[0].family }}{% else %}{% for person in book.editor %}{% if forloop.last == true %} and {% endif %}{{ person.given }} {{ person.family }}{% if forloop.last  == false %}, {% endif %}{% endfor %}{% endif %}{% endif %}</a></li>
     {% endif %}
 {% endfor %}
 </ul>
@@ -56,7 +57,7 @@ permalink: /notes
 
 <ul>
 {% for post in site.posts %}
-    {% if post.categories[0] == "note" and post.categories[1] == "commentary" %}
+    {% if post.categories contains "note" and post.categories contains "commentary" %}
         <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endif %}
 {% endfor %}
