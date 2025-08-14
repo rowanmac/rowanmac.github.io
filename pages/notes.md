@@ -44,10 +44,9 @@ permalink: /notes
 ---
 
 <ul>
-{% for book in site.books %}
-    {% if book.categories contains "review" %}
-        <li><a href="{{ book.url }}"><i>{{ book.title }}</i>{% if book.author %} by {% if book.author.size == 1 %}{{ book.author[0].given }} {{ book.author[0].family }}{% else %}{% for person in book.author %}{% if forloop.last == true %} and {% endif %}{{ person.given }} {{ person.family }}{% if forloop.last == false %}, {% endif %}{% endfor %}{% endif %}{% endif %}
-          {% if book.editor %}edited by {% if book.editor.size == 1 %}{{ book.editor[0].given }} {{ book.editor[0].family }}{% else %}{% for person in book.editor %}{% if forloop.last == true %} and {% endif %}{{ person.given }} {{ person.family }}{% if forloop.last  == false %}, {% endif %}{% endfor %}{% endif %}{% endif %}</a></li>
+{% for post in site.posts %}
+    {% if post.categories contains "note" and post.categories contains "review" %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endif %}
 {% endfor %}
 </ul>
