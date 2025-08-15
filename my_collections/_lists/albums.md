@@ -149,4 +149,4 @@ A list of albums I've listened through in full, with my favourite song.
 | *135* | Verde, Anil, Amarelo, Cor de Rosa e Carvão | Marisa Monte | 1994 | 03/08/2025 | Enquanto Isso | 🇧🇷 |
 | *136* | Wild Things Run Fast | Joni Mitchell | 1982 | 05/08/2025 | | 🇨🇦 |
 | *137* | Realce | Gilberto Gil | 1979 | 06/08/2025 | | 🇧🇷 |
-| *138* | The Hissing of Summer Lawns | Joni Mitchell | 1975 | 11/08/2025 | | 🇧🇷 |
+| *138* | The Hissing of Summer Lawns | Joni Mitchell | 1975 | 11/08/2025 | | 🇨🇦 |
