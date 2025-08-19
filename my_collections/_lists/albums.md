@@ -150,3 +150,4 @@ A list of albums I've listened through in full, with my favourite song.
 | *136* | Wild Things Run Fast | Joni Mitchell | 1982 | 05/08/2025 | | 🇨🇦 |
 | *137* | Realce | Gilberto Gil | 1979 | 06/08/2025 | | 🇧🇷 |
 | *138* | The Hissing of Summer Lawns | Joni Mitchell | 1975 | 11/08/2025 | | 🇨🇦 |
+| *139* | picnic album 1 | Kotringo | 2010 | 19/08/205 | 悲しくてやりきれない | 🇯🇵 |
