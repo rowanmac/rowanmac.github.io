@@ -152,3 +152,4 @@ A list of albums I've listened through in full, with my favourite song.
 | *138* | The Hissing of Summer Lawns | Joni Mitchell | 1975 | 11/08/2025 | | 🇨🇦 |
 | *139* | picnic album 1 | Kotringo | 2010 | 19/08/2025 | 悲しくてやりきれない | 🇯🇵 |
 | *140* | Danseparc | Martha and the Muffins | 1983 | 20/08/2025 | Whatter Happened to Radio Valve Road? | 🇨🇦 |
+| *141* | Songs of Leonard Cohen | Leonard Cohen | 1967 | 22/08/2025 | Suzanne | 🇨🇦 |
