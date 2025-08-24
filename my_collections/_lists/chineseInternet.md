@@ -26,6 +26,8 @@ layout: page
 - [新华网](http://www.news.cn/) Xinhua online edition. 中文
 - [21经济网](https://www.21jingji.com/) Online edition of 21st Century Business Herald, unsure of paper's reputation. 中文
 - [The China Scroll](https://chinascroll.live/) Live news aggregator, whiff of American. 英文
+- [Sino-Platonic Papers](https://www.sino-platonic.org/index.html) Website of a Sinology Journal, many interesting free papers. 英文
+- [Stratagems of the warring states](https://warringstates.wixsite.com/warringstates) Online translation of the stratagems of the warring states with some supplementary reading. I know no classical Chinese as of writing so cannot vouch for translation. 英文/中文
 
 # Archives
 - [Chinese Film Classics](https://chinesefilmclassics.org/)  A great project preserving and making accessible early Chinese film, with lots of supplementary material to help study. 英文
@@ -46,12 +48,16 @@ layout: page
 - [公共数据开放平台](https://cn.govopendata.com/) Has among other things an extensive archive of the 人民日报. 中文
 - [China Textbooks](https://github.com/TapXWorld/ChinaTextbook/) Github mass upload of Chinese school textbooks. 中文
 - [Chinese Text Project](https://ctext.org/shenjian/zh) Well stocked online library of Chinese classics with lots of features. 中文/英文
-
+- [Asia for Educators](https://afe.easia.columbia.edu/) Free resources by Columbia University for teaching and learning east Asian history, a lot on China. 英文
+- [Chinese Independent Film Archive](https://www.chinaindiefilm.org/) Has some films, interviews, and other related materials available online. 英文/中文
+- [Ming Qing Women's Writings](https://digital.library.mcgill.ca/mingqing/english/index.php) Fantastic online archive of digitised primary sources written by women. 英语/中文
 # Organisations
 - [中华人民共和国中央人民政府](https://www.gov.cn/) Website of the state council. 中文
 - [dGenerate Films](https://www.dgeneratefilms.com/) Company distributing films from mainland China abroad. 英文
 - [The Janus Project](https://janus-project.org/) A study group? at Oxford? dedicated to moments of encounter between the Greco-Roman and Chinese classics (think Jesuits). 英文
 - [China Academic Network on Gender — CHANGE](https://change.hypotheses.org/) Academic Network on the theme of gender in Chinese society and history. 英文
+- [China Philatelic Society of London](http://www.cpsl.org.uk/) What it sounds like. As far as I can tell not a huge amount on the website for free, but they have notices of auctions, a journal and a good collection of related organisations and links. 英文
+- [Chinese Music Archive](https://chinesemusicarchive.com/en_us/)
 
 # Resources
 - [Jiumo Diary](https://www.jiumodiary.com/) Good place for books. 中文
