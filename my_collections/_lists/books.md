@@ -206,3 +206,4 @@ A list of books I've finished.
 | *15* | Gulliver's Travels | Jonathan Swift | English | | 🇮🇪 |
 | *16* | Three Men in a Boat | Jerome K. Jermone | English | | 🇬🇧 |
 | *17* | Swann's Way | Marcel Proust | French | C.K. Scott Moncrieff, Terrence Kilmartin & D.J. Enright | 🇫🇷 |
+| *18* | Born Under Saturn | Margot and Rudolf Wittkower | English | | 🇩🇪 |
