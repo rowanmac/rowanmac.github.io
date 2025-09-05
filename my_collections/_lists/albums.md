@@ -154,3 +154,4 @@ A list of albums I've listened through in full, with my favourite song.
 | *140* | Danseparc | Martha and the Muffins | 1983 | 20/08/2025 | Whatter Happened to Radio Valve Road? | 🇨🇦 |
 | *141* | Songs of Leonard Cohen | Leonard Cohen | 1967 | 22/08/2025 | Suzanne | 🇨🇦 |
 | *142* | Now | 김정미 | 1973 | 26/08/2025 | 햇님 | 🇰🇷 |
+| *143* | EURO-COUNTRY | CMAT | 2025 | 05/09/2025 | EURO-COUNTRY | 🇮🇪 |
