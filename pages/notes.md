@@ -22,7 +22,7 @@ permalink: /notes
 ---
 
 <ul>
-{% for post in site.posts %}
+{% for post in site.posts reversed %}
     {% if post.categories contains "note" and post.categories contains "learningPortuguese" %}
         <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endif %}
@@ -42,7 +42,7 @@ permalink: /notes
 ---
 
 <ul>
-{% for post in site.posts %}
+{% for post in site.posts reversed %}
     {% if post.categories contains "note" and post.categories contains "readingJournal" %}
         <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endif %}
@@ -64,7 +64,7 @@ permalink: /notes
 ---
 
 <ul>
-{% for post in site.posts %}
+{% for post in site.posts reversed %}
     {% if post.categories contains "note" and post.categories contains "shanghaiNotes" %}
         <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endif %}
