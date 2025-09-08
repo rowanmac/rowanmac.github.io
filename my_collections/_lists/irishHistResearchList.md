@@ -2,6 +2,7 @@
 author: Rowan MacConville
 title: Irish History Research Resource List
 layout: page
+categories: note list
 ---
 
 *A master list of resources for researching Irish history that I hope to update regularly. Still under construction.*

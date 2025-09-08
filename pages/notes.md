@@ -29,6 +29,15 @@ permalink: /notes
 {% endfor %}
 </ul>
 
+# Lists
+---
+
+<ul>
+{% for list in site.lists %}
+        <li><a href="{{ list.url }}">{{ list.title }}</a></li>
+{% endfor %}
+</ul>
+
 # Reading Journals
 ---
 
@@ -40,7 +49,7 @@ permalink: /notes
 {% endfor %}
 </ul>
 
-# Book Reviews
+# Reviews
 ---
 
 <ul>
@@ -51,12 +60,23 @@ permalink: /notes
 {% endfor %}
 </ul>
 
+# 上海杂记
+---
+
+<ul>
+{% for post in site.posts %}
+    {% if post.categories contains "note" and post.categories contains "shanghaiNotes" %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+{% endfor %}
+</ul>
+
 # Source Commentaries
 ---
 
 <ul>
 {% for post in site.posts %}
-    {% if post.categories contains "note" and post.categories contains "commentary" %}
+    {% if post.categories contains "note" and post.categories contains "sourceCommentary" %}
         <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endif %}
 {% endfor %}

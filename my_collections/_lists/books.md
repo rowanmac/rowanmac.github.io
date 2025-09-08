@@ -2,9 +2,10 @@
 author: Rowan MacConville
 title: Books List
 layout: page
+categories: note list
 ---
 
-A list of books I've finished.
+Books read for leisure and finished.
 
 ---
 

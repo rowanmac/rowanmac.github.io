@@ -54,16 +54,6 @@ collections:
     output: true
   sections:
     output: true
-  journals:
-    output: true
-  series:
-    output: true
-  publishers:
-    output: true
-  people:
-    output: true
-  sources:
-    output: true
   lists:
     output: true
 collections_dir: my_collections

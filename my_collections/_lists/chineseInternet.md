@@ -2,6 +2,7 @@
 author: Rowan MacConville
 title: Chinese Internet List
 layout: page
+categories: note list
 ---
 *Various Chinese language sites or sites relating to China I found interesting or wanted to remember. Many to do with history, but not necessarily.*
 * TOC
