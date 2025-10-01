@@ -208,3 +208,5 @@ Books read for leisure and finished.
 | *16* | Three Men in a Boat | Jerome K. Jermone | English | | 🇬🇧 |
 | *17* | Swann's Way | Marcel Proust | French | C.K. Scott Moncrieff, Terrence Kilmartin & D.J. Enright | 🇫🇷 |
 | *18* | Born Under Saturn | Margot and Rudolf Wittkower | English | | 🇩🇪 |
+| *19* | Twenty Minutes in Manhatten | Michael Sorkin | English | | 🇺🇸 |
+| *20* | More Work for Mother | Ruth Schwartz Cohen | English | | 🇺🇸 |
