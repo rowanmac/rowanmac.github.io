@@ -157,5 +157,5 @@ A list of albums I've listened through in full, with my favourite song.
 | *142* | Now | 김정미 | 1973 | 26/08/2025 | 햇님 | 🇰🇷 |
 | *143* | EURO-COUNTRY | CMAT | 2025 | 05/09/2025 | EURO-COUNTRY | 🇮🇪 |
 | *144* | Coisas | Moacir Santos | 1965 | 02/10/2025 | | 🇧🇷 |
-| *145* | Lonely Lover | TheCurly 卷毛怪 ｜ 2025 ｜ 07/10/2025 | | 🇨🇳 |
-| *146* ｜ Caetano Veloso | Caetano Veloso | 1968 | 09/10/2025 | Soy loco por ti, América | 🇧🇷 |
+| *145* | Lonely Lover | TheCurly 卷毛怪 | 2025 | 07/10/2025 | | 🇨🇳 |
+| *146* | Caetano Veloso | Caetano Veloso | 1968 | 09/10/2025 | Soy loco por ti, América | 🇧🇷 |
