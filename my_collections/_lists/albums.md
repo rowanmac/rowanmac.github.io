@@ -159,3 +159,4 @@ A list of albums I've listened through in full, with my favourite song.
 | *144* | Coisas | Moacir Santos | 1965 | 02/10/2025 | | 🇧🇷 |
 | *145* | Lonely Lover | TheCurly 卷毛怪 | 2025 | 07/10/2025 | | 🇨🇳 |
 | *146* | Caetano Veloso | Caetano Veloso | 1968 | 09/10/2025 | Soy loco por ti, América | 🇧🇷 |
+| *147* | João Gilberto | João Gilberto | 1973 | 11/10/2025 | | 🇧🇷 |
