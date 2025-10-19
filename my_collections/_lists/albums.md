@@ -160,3 +160,6 @@ A list of albums I've listened through in full, with my favourite song.
 | *145* | Lonely Lover | TheCurly 卷毛怪 | 2025 | 07/10/2025 | | 🇨🇳 |
 | *146* | Caetano Veloso | Caetano Veloso | 1968 | 09/10/2025 | Soy loco por ti, América | 🇧🇷 |
 | *147* | João Gilberto | João Gilberto | 1973 | 11/10/2025 | | 🇧🇷 |
+| *148* | Cabeça dinossauro | Titãs | 1986 | 17/10/2025 | Polícia | 🇧🇷 |
+| *149* | 少年成长诗 The Ballad of Girlhoods | 闪闪 Hex In Sparkle | 2025 | 17/10/2025 | | 🇨🇳 |
+| *150* | A divina comédia ou ando meio desligado | Os Mutantes | 1970 | 17/10/2025 | Meu refrigerador não funciona | 🇧🇷 |
