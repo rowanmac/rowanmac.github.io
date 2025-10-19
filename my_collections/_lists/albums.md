@@ -164,3 +164,4 @@ A list of albums I've listened through in full, with my favourite song.
 | *149* | 少年成长诗 The Ballad of Girlhoods | 闪闪 Hex In Sparkle | 2025 | 17/10/2025 | | 🇨🇳 |
 | *150* | A divina comédia ou ando meio desligado | Os Mutantes | 1970 | 17/10/2025 | Meu refrigerador não funciona | 🇧🇷 |
 | *151* | Nós Vamos Invadir Sua Praia | Ultraje a rigor | 1985 | 19/10/2025 | Mim quer tocar | 🇧🇷 |
+| *152* | Pérola negra | Luiz Melodia | 1973 | 19/10/2025 | Abundantemente morte | 🇧🇷 |
