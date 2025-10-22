@@ -210,3 +210,4 @@ Books read for leisure and finished.
 | *18* | Born Under Saturn | Margot and Rudolf Wittkower | English | | 🇩🇪 |
 | *19* | Twenty Minutes in Manhatten | Michael Sorkin | English | | 🇺🇸 |
 | *20* | More Work for Mother | Ruth Schwartz Cohen | English | | 🇺🇸 |
+| *21* | The Ice Palace | Tarjei Vesaas | Norwegian | Elizabeth Rokkan | 🇳🇴 |
