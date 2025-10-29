@@ -211,3 +211,4 @@ Books read for leisure and finished.
 | *19* | Twenty Minutes in Manhatten | Michael Sorkin | English | | 🇺🇸 |
 | *20* | More Work for Mother | Ruth Schwartz Cohen | English | | 🇺🇸 |
 | *21* | The Ice Palace | Tarjei Vesaas | Norwegian | Elizabeth Rokkan | 🇳🇴 |
+| *22* | Exteriors | Annie Ernaux | French | Tanya Leslie | 🇫🇷 |
