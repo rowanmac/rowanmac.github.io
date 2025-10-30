@@ -212,3 +212,4 @@ Books read for leisure and finished.
 | *20* | More Work for Mother | Ruth Schwartz Cohen | English | | 🇺🇸 |
 | *21* | The Ice Palace | Tarjei Vesaas | Norwegian | Elizabeth Rokkan | 🇳🇴 |
 | *22* | Exteriors | Annie Ernaux | French | Tanya Leslie | 🇫🇷 |
+| *23* | A Woman's Story | Annie Ernaux | French | Tanya Leslie | 🇫🇷 |
