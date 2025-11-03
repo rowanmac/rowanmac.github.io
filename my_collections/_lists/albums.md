@@ -167,3 +167,4 @@ A list of albums I've listened through in full, with my favourite song.
 | *152* | Pérola negra | Luiz Melodia | 1973 | 19/10/2025 | Abundantemente morte | 🇧🇷 |
 | *153* | Revolver | Walter Franco | 1975 | 27/10/2025 | Mamãe d'água | 🇧🇷 |
 | *154* | Meus caros amigos | Chico Buarque | 1976 | 28/10/2025 | Mulheres de Atenas | 🇧🇷 |
+| *155* | Canção do Amor Demais | Elizeth Cardoso | 1958 | 02/11/2025 | | 🇧🇷 |
