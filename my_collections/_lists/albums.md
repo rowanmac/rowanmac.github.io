@@ -169,3 +169,5 @@ A list of albums I've listened through in full, with my favourite song.
 | *154* | Meus caros amigos | Chico Buarque | 1976 | 28/10/2025 | Mulheres de Atenas | 🇧🇷 |
 | *155* | Canção do Amor Demais | Elizeth Cardoso | 1958 | 02/11/2025 | Chega de Saudade | 🇧🇷 |
 | *156* | MM | Marisa Monte | 1989 | 04/11/2025 | Preciso me encontrar | 🇧🇷 |
+| *157* | Racional (Vol 2) | Tim Maia | 1976 | 05/11/2025 | | 🇧🇷 |
+| *158* | Maria Fumaça | Banda Black Rio | 1977 | 05/11/2025 | | 🇧🇷 |
