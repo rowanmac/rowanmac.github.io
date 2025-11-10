@@ -171,3 +171,5 @@ A list of albums I've listened through in full, with my favourite song.
 | *156* | MM | Marisa Monte | 1989 | 04/11/2025 | Preciso me encontrar | 🇧🇷 |
 | *157* | Racional (Vol 2) | Tim Maia | 1976 | 05/11/2025 | | 🇧🇷 |
 | *158* | Maria Fumaça | Banda Black Rio | 1977 | 05/11/2025 | | 🇧🇷 |
+| *159* | Angela Ro Ro | Angela Ro Ro | 1979 | 09/11/2025 | | 🇧🇷 |
+| *160* | Crying, Laughing, Loving, Lying | Labi Siffre | 1972 | 10/11/2025 | Crying, Laughing, Loving, Lying | 🇬🇧 |

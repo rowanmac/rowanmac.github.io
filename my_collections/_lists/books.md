@@ -213,3 +213,6 @@ Books read for leisure and finished.
 | *21* | The Ice Palace | Tarjei Vesaas | Norwegian | Elizabeth Rokkan | 🇳🇴 |
 | *22* | Exteriors | Annie Ernaux | French | Tanya Leslie | 🇫🇷 |
 | *23* | A Woman's Story | Annie Ernaux | French | Tanya Leslie | 🇫🇷 |
+| *24* | A Man's Place | Annie Ernaux | French | Tanya Leslie | 🇫🇷 |
+| *25* | Happening | Annie Ernaux | French | Tanya Leslie | 🇫🇷 |
+| *26* | Simple Passion | Annie Ernaux | French | Tanya Leslie | 🇫🇷 |
