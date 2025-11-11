@@ -216,3 +216,4 @@ Books read for leisure and finished.
 | *24* | A Man's Place | Annie Ernaux | French | Tanya Leslie | 🇫🇷 |
 | *25* | Happening | Annie Ernaux | French | Tanya Leslie | 🇫🇷 |
 | *26* | Simple Passion | Annie Ernaux | French | Tanya Leslie | 🇫🇷 |
+| *27* | Shame | Annie Ernaux | French | Tanya Leslie | 🇫🇷 |
