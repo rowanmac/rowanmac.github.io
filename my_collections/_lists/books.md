@@ -217,3 +217,5 @@ Books read for leisure and finished.
 | *25* | Happening | Annie Ernaux | French | Tanya Leslie | 🇫🇷 |
 | *26* | Simple Passion | Annie Ernaux | French | Tanya Leslie | 🇫🇷 |
 | *27* | Shame | Annie Ernaux | French | Tanya Leslie | 🇫🇷 |
+| *28* | I Remain in Darkness | Annie Ernaux | French | Tanya Leslie | 🇫🇷 |
+| *29* | Beyond the Neon Lights | Lu Hanchao | English | | 🇨🇳 |
