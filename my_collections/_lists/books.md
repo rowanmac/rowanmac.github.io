@@ -219,3 +219,4 @@ Books read for leisure and finished.
 | *27* | Shame | Annie Ernaux | French | Tanya Leslie | 🇫🇷 |
 | *28* | I Remain in Darkness | Annie Ernaux | French | Tanya Leslie | 🇫🇷 |
 | *29* | Beyond the Neon Lights | Lu Hanchao | English | | 🇨🇳 |
+| *30* | A Frozen Woman | Annie Ernaux | French | Linda Coverdale | 🇫🇷 |
