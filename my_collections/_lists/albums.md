@@ -175,3 +175,4 @@ A list of albums I've listened through in full, with my favourite song.
 | *160* | Crying, Laughing, Loving, Lying | Labi Siffre | 1972 | 10/11/2025 | Crying, Laughing, Loving, Lying | 🇬🇧 |
 | *161* | Canções Praieiras | Dorival Caymmi | 1954 | 12/11/2025 | | 🇧🇷 |
 | *162* | Cinema Transcendental | Caetano Veloso & A Outra Banda da Terra | 1979 | 12/11/2025 | | 🇧🇷 |
+| *163* | Jovem guarda | Roberto Carlos | 1965 | 19/11/2025 | Eu te adoro meu amor | 🇧🇷 |
