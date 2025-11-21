@@ -176,3 +176,5 @@ A list of albums I've listened through in full, with my favourite song.
 | *161* | Canções Praieiras | Dorival Caymmi | 1954 | 12/11/2025 | | 🇧🇷 |
 | *162* | Cinema Transcendental | Caetano Veloso & A Outra Banda da Terra | 1979 | 12/11/2025 | | 🇧🇷 |
 | *163* | Jovem guarda | Roberto Carlos | 1965 | 19/11/2025 | Eu te adoro meu amor | 🇧🇷 |
+| *164* | Just Another Diamond Day | Vashti Bunyan | 1970 | 21/11/2025 | | 🇬🇧 |
+| *165* | Cartão Postal | Evinha | 1971 | 21/11/2025 | Encontro | 🇧🇷 |
