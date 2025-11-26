@@ -221,3 +221,4 @@ Books read for leisure and finished.
 | *29* | Beyond the Neon Lights | Lu Hanchao | English | | 🇨🇳 |
 | *30* | A Frozen Woman | Annie Ernaux | French | Linda Coverdale | 🇫🇷 |
 | *31* | Do What They Say or Else | Annie Ernaux | French | Christopher Beach & Carrie Noland | 🇫🇷 |
+| *32* | The Years | Annie Ernaux | French | Alison L. Strayer | 🇫🇷 |
