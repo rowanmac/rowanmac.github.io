@@ -375,6 +375,7 @@ pre {
 .post-content > p {
   position: relative;
   text-align: justify;
+  hyphens: auto;
   counter-increment: pcounter;
   &:before {
     content: counter(pcounter) " ";
