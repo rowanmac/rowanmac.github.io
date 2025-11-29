@@ -178,3 +178,4 @@ A list of albums I've listened through in full, with my favourite song.
 | *163* | Jovem guarda | Roberto Carlos | 1965 | 19/11/2025 | Eu te adoro meu amor | 🇧🇷 |
 | *164* | Just Another Diamond Day | Vashti Bunyan | 1970 | 21/11/2025 | | 🇬🇧 |
 | *165* | Cartão Postal | Evinha | 1971 | 21/11/2025 | Encontro | 🇧🇷 |
+| *166* | Refavela | Gilberto Gil | 1977 | 29/11/2025 | Norte de saudade | 🇧🇷 |
