@@ -224,3 +224,4 @@ Books read for leisure and finished.
 | *32* | The Years | Annie Ernaux | French | Alison L. Strayer | 🇫🇷 |
 | *33* | Things Seen | Annie Ernaux | French | Jonathan Kaplansky | 🇫🇷 |
 | *34* | Getting Lost | Annie Ernaux | French | Alison L. Strayer | 🇫🇷 |
+| *35* | The Possession | Annie Ernaux | French | Anna Moschovakis | 🇫🇷 |
