@@ -7,7 +7,7 @@ permalink: /notes
 * TOC
 {:toc}
 
-# General
+# Misc
 ---
 
 <ul>
