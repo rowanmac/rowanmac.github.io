@@ -65,7 +65,7 @@ categories: note list
 - [Persian Language Online](https://persianlanguageonline.com/) A quite comprehensive website with free materials for learning Persian.
 - [MDN Curriculum](https://developer.mozilla.org/en-US/curriculum/) Free online course for web development.
 - [Class Central](https://www.classcentral.com/) Aggregator site for online college-type classes, many free.
-
+- [Minima mistakes](https://mmistakes.github.io/minimal-mistakes/) The website of the minima mistakes Jekyll theme used by this blog, good to explore the many ways it can be tweaked.
 
 # Other Fun Stuff
 - [Explorable Explanations](https://explorabl.es/) A directory of small online games designed for learning, great fun to explore.

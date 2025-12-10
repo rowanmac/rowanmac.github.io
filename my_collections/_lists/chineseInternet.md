@@ -54,6 +54,7 @@ categories: note list
 - [Ming Qing Women's Writings](https://digital.library.mcgill.ca/mingqing/english/index.php) Fantastic online archive of digitised primary sources written by women. 英语/中文
 - [Chinese Music Archive](https://chinesemusicarchive.com/en_us/)
 - [OPEN BOOKS HONG KONG](https://openbookshongkong.com/en/) Collection of open access academic books about China from the Chinese University of Hong Kong. 英文/中文
+- [Mao Era in Objects](maoeraobjects.ac.uk) Digitised material history and essays on the material history of the Mao era. 英文
 # Organisations
 - [中华人民共和国中央人民政府](https://www.gov.cn/) Website of the state council. 中文
 - [dGenerate Films](https://www.dgeneratefilms.com/) Company distributing films from mainland China abroad. 英文
