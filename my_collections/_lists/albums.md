@@ -182,3 +182,4 @@ A list of albums I've listened through in full, with my favourite song.
 | *167* | A Dança da Solidão | Paulinho da Viola | 1972 | 06/12/2025 | Acontece | 🇧🇷 |
 | *168* | Milagre dos peixes | Milton Nascimento | 1973 | 07/12/2025 | Carlos, Lucia, Chico e Tiago | 🇧🇷 |
 | *169* | Samba esquema noise | Mundo Livre S/A | 1994 | 10/12/2025 | Saldo de aratu | 🇧🇷 |
+| *170* | Minas | Milton Nascimento | 1975 | 16/12/2025 | Ponta de areia | 🇧🇷 |

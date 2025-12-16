@@ -228,3 +228,4 @@ Books read for leisure and finished.
 | *36* | The Young Man | Annie Ernaux | French | Alison L. Strayer | 🇫🇷 |
 | *37* | Look at the Lights, My Love | Annie Ernaux | French | Alison L. Strayer | 🇫🇷 |
 | *38* | Masters of Contemporary Brazilian Song: MPB, 1965-1985 | Charles Andrew Perrone | English | | 🇺🇸 |
+| *39* | An Anatomy of Chinese: Rhythm, Metaphor, Politics | Eugene Perry Link | English | | 🇺🇸 |
