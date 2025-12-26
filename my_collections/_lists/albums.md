@@ -184,3 +184,4 @@ A list of albums I've listened through in full, with my favourite song.
 | *169* | Samba esquema noise | Mundo Livre S/A | 1994 | 10/12/2025 | Saldo de aratu | 🇧🇷 |
 | *170* | Minas | Milton Nascimento | 1975 | 16/12/2025 | Ponta de areia | 🇧🇷 |
 | *171* | Alucinação | Belchior | 1976 | 17/12/2025 | Como Nossos Pais | 🇧🇷 |
+| *172* | Cuban Soul:18 Kilates | Cassiano | 1976 | 26/12/2025 | Onda | 🇧🇷 |
