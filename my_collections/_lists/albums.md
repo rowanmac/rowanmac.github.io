@@ -185,3 +185,4 @@ A list of albums I've listened through in full, with my favourite song.
 | *170* | Minas | Milton Nascimento | 1975 | 16/12/2025 | Ponta de areia | 🇧🇷 |
 | *171* | Alucinação | Belchior | 1976 | 17/12/2025 | Como Nossos Pais | 🇧🇷 |
 | *172* | Cuban Soul:18 Kilates | Cassiano | 1976 | 26/12/2025 | Onda | 🇧🇷 |
+| *173* | Zé Ramalho | Zé Ramalho | 1978 | 30/12/2025 | Bicho de 7 cabeças | 🇧🇷 |
