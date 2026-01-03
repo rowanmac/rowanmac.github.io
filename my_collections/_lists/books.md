@@ -229,3 +229,5 @@ Books read for leisure and finished.
 | *37* | Look at the Lights, My Love | Annie Ernaux | French | Alison L. Strayer | 🇫🇷 |
 | *38* | Masters of Contemporary Brazilian Song: MPB, 1965-1985 | Charles Andrew Perrone | English | | 🇺🇸 |
 | *39* | An Anatomy of Chinese: Rhythm, Metaphor, Politics | Eugene Perry Link | English | | 🇺🇸 |
+| <b style="font-size: 30px;">2026</b> |
+| *1* | Little Women | Louisa May Alcott | English | | 🇺🇸 |
