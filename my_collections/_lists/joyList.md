@@ -57,6 +57,7 @@ categories: note list
 - [World Historical Gazetteer](https://whgazetteer.org/) DH project for location data.
 - [ASCII Art Archive](https://www.asciiart.eu/)
 - [Seasons in Pentameter](https://pentad.world/) Site that shows the Japanese (and Chinese I believe) microseasons.
+- [freemediaheckyeah](https://fmhy.net/) Site collecting and cataloguing sites which share free media.
 
 # Education
 - [Eloquent JavaScript](https://eloquentjavascript.net) Free and excellently presented online textbook for self-studying JavaScript
