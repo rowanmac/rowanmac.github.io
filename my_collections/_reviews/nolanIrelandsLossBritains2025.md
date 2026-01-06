@@ -30,7 +30,7 @@ title: "Ireland\u2019s Loss Britain\u2019s Gain: Irish Nurses in Britain Nightin
 title-short: "Ireland\u2019s Loss Britain\u2019s Gain"
 type: article-journal
 volume: '28'
-workReveiwed: "Ireland\u2019s Loss Britain\u2019s Gain Irish Nurses in Britain Nightingale\
+workReviewed: "Ireland\u2019s Loss Britain\u2019s Gain Irish Nurses in Britain Nightingale\
   \ to Millenium"
 ---
 {% include reviewPageTemplate.html %}

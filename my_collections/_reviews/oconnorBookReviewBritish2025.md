@@ -31,7 +31,7 @@ title: "Book Review: British and Irish Religious Orders in Europe, 1560\u2013180
 title-short: Book Review
 type: article-journal
 volume: '52'
-workReveiwed: "British and Irish Religious Orders in Europe, 1560\u20131800 Conventuals,\
+workReviewed: "British and Irish Religious Orders in Europe, 1560\u20131800 Conventuals,\
   \ Mendicants and Monastics in Motion"
 ---
 {% include reviewPageTemplate.html %}

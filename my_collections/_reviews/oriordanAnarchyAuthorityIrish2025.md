@@ -29,6 +29,6 @@ title: "Anarchy and authority: Irish encounters with Romanov Russia. By Angela B
   \ . Pp 243. Dublin: The Lilliput Press. 2024. \u20AC18.95."
 title-short: Anarchy and authority
 type: article-journal
-workReveiwed: Anarchy and authority Irish encounters with Romanov Russia
+workReviewed: Anarchy and authority Irish encounters with Romanov Russia
 ---
 {% include reviewPageTemplate.html %}

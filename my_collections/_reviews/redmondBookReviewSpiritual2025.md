@@ -30,6 +30,6 @@ title: "Book Review: Spiritual Wounds: Trauma, Testimony and the Irish Civil War
 title-short: Book Review
 type: article-journal
 volume: '52'
-workReveiwed: Spiritual Wounds Trauma, Testimony and the Irish Civil War
+workReviewed: Spiritual Wounds Trauma, Testimony and the Irish Civil War
 ---
 {% include reviewPageTemplate.html %}

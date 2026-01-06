@@ -26,7 +26,7 @@ title: "The Edinburgh History of the British and Irish Press, Volume 1: Beginnin
 title-short: The Edinburgh History of the British and Irish Press, Volume 1
 type: article-journal
 volume: '17'
-workReveiwed: "The Edinburgh History of the British and Irish Press, Volume 1 Beginnings\
+workReviewed: "The Edinburgh History of the British and Irish Press, Volume 1 Beginnings\
   \ and Consolidation, 1640\u20131800"
 ---
 {% include reviewPageTemplate.html %}

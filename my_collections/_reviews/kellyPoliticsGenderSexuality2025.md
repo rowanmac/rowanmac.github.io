@@ -30,6 +30,6 @@ title: "The politics of gender and sexuality in modern Ireland: a reader. Edited
   26.95 paperback."
 title-short: The politics of gender and sexuality in modern Ireland
 type: article-journal
-workReveiwed: The politics of gender and sexuality in modern Ireland a reader
+workReviewed: 4The politics of gender and sexuality in modern Ireland a reader
 ---
 {% include reviewPageTemplate.html %}

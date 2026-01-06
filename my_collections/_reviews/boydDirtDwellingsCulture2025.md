@@ -31,6 +31,6 @@ title: "Dirt, Dwellings and Culture: Living Conditions in Early Medieval Dublin:
 title-short: Dirt, Dwellings and Culture
 type: article-journal
 volume: '69'
-workReveiwed: Dirt, Dwellings and Culture Living Conditions in Early Medieval Dublin
+workReviewed: Dirt, Dwellings and Culture Living Conditions in Early Medieval Dublin
 ---
 {% include reviewPageTemplate.html %}

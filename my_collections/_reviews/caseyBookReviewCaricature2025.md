@@ -30,7 +30,7 @@ title: "Book Review: Caricature and the Irish: Satirical Prints from the Library
 title-short: Book Review
 type: article-journal
 volume: '52'
-workReveiwed: "Caricature and the Irish Satirical Prints from the Library of Trinity\
+workReviewed: "Caricature and the Irish Satirical Prints from the Library of Trinity\
   \ College Dublin, c.1780\u20131830"
 ---
 {% include reviewPageTemplate.html %}

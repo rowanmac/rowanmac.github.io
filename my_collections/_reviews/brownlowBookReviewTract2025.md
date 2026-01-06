@@ -30,7 +30,7 @@ title: "Book Review: A Tract for Our Times: A Retrospective on Joe Lee\u2019s Ir
 title-short: Book Review
 type: article-journal
 volume: '52'
-workReveiwed: "A Tract for Our Times A Retrospective on Joe Lee\u2019s Ireland 1912\u2013\
+workReviewed: "A Tract for Our Times A Retrospective on Joe Lee\u2019s Ireland 1912\u2013\
   1985"
 ---
 {% include reviewPageTemplate.html %}

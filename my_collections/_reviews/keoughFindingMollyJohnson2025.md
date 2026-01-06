@@ -25,6 +25,6 @@ title: 'Finding Molly Johnson: Irish Famine Orphans in Canada by Mark G. McGowan
 title-short: Finding Molly Johnson
 type: article-journal
 volume: '106'
-workReveiwed: Finding Molly Johnson Irish Famine Orphans in Canada
+workReviewed: Finding Molly Johnson Irish Famine Orphans in Canada
 ---
 {% include reviewPageTemplate.html %}

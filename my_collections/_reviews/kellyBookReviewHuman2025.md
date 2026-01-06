@@ -30,7 +30,7 @@ title: "Book Review: Human Capital and Empire: Scotland, Ireland, Wales and Brit
 title-short: Book Review
 type: article-journal
 volume: '52'
-workReveiwed: "Human Capital and Empire Scotland, Ireland, Wales and British Imperialism\
+workReviewed: "Human Capital and Empire Scotland, Ireland, Wales and British Imperialism\
   \ in Asia, c.1690\u2013c.1820"
 ---
 {% include reviewPageTemplate.html %}

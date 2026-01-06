@@ -27,6 +27,6 @@ title: "Book Review: Money and Irish Catholicism: An Intimate History 1850\u2013
   \ by Sarah Roddy"
 title-short: Book Review
 type: article-journal
-workReveiwed: "Money and Irish Catholicism An Intimate History 1850\u20131921"
+workReviewed: "Money and Irish Catholicism An Intimate History 1850\u20131921"
 ---
 {% include reviewPageTemplate.html %}

@@ -30,6 +30,6 @@ title: "Book Review: Irish Nurses in the NHS: An Oral History by Gr\xE1inne McPo
 title-short: Book Review
 type: article-journal
 volume: '52'
-workReveiwed: Irish Nurses in the NHS An Oral History
+workReviewed: Irish Nurses in the NHS An Oral History
 ---
 {% include reviewPageTemplate.html %}

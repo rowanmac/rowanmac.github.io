@@ -30,7 +30,7 @@ title: "Thomas Hobbes and political thought in Ireland,c.1660\u2013c.1730: the l
   \ \xA390 hardback."
 title-short: "Thomas Hobbes and political thought in Ireland,c.1660\u2013c.1730"
 type: article-journal
-workReveiwed: "Thomas Hobbes and political thought in Ireland,c.1660\u2013c.1730 the\
+workReviewed: "Thomas Hobbes and political thought in Ireland,c.1660\u2013c.1730 the\
   \ leviathan released"
 ---
 {% include reviewPageTemplate.html %}

@@ -31,6 +31,6 @@ title: "The Routledge History of Irish-America. Edited by Cian McMahonand Kathel
 title-short: The Routledge History of Irish-America. Edited by Cian McMahonand Katheleen
   Costello-Sullivan . Pp xxii, 570. New York
 type: article-journal
-workReveiwed: The Routledge History of Irish-America
+workReviewed: The Routledge History of Irish-America
 ---
 {% include reviewPageTemplate.html %}

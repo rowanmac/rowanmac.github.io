@@ -30,7 +30,7 @@ title: "Book Review: Reforming Galway: Civic society, Religious Change and St Ni
 title-short: Book Review
 type: article-journal
 volume: '52'
-workReveiwed: "Reforming Galway Civic society, Religious Change and St Nicholas\u2019\
+workReviewed: "Reforming Galway Civic society, Religious Change and St Nicholas\u2019\
   s Collegiate Church, 1550\u20131750"
 ---
 {% include reviewPageTemplate.html %}

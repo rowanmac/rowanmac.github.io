@@ -30,6 +30,6 @@ title: "Textiles of Ireland. Archaeology, Craft, Art: By Elizabeth Wincott Hecke
 title-short: Textiles of Ireland. Archaeology, Craft, Art
 type: article-journal
 volume: '69'
-workReveiwed: Textiles of Ireland. Archaeology, Craft, Art
+workReviewed: Textiles of Ireland. Archaeology, Craft, Art
 ---
 {% include reviewPageTemplate.html %}

@@ -30,7 +30,7 @@ title: "Reforming Galway: civic society, religious change and St Nicholas\u2019s
   \ 2024. \xA355."
 title-short: Reforming Galway
 type: article-journal
-workReveiwed: "Reforming Galway civic society, religious change and St Nicholas\u2019\
+workReviewed: "Reforming Galway civic society, religious change and St Nicholas\u2019\
   s collegiate church, 1550\u20131750"
 ---
 {% include reviewPageTemplate.html %}

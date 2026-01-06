@@ -28,7 +28,7 @@ title: "Book Review: Conflict, Diaspora, and Empire: Irish Nationalism in Britai
   \ 1912\u20131922 by Darragh Gannon"
 title-short: Book Review
 type: article-journal
-workReveiwed: "Conflict, Diaspora, and Empire Irish Nationalism in Britain, 1912\u2013\
+workReviewed: "Conflict, Diaspora, and Empire Irish Nationalism in Britain, 1912\u2013\
   1922"
 ---
 {% include reviewPageTemplate.html %}

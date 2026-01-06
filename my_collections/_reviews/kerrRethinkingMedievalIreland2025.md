@@ -32,6 +32,6 @@ title-short: Rethinking Medieval Ireland and Beyond. (Explorations in Medieval C
   Volume 23)
 type: article-journal
 volume: '69'
-workReveiwed: Rethinking Medieval Ireland and Beyond
+workReviewed: Rethinking Medieval Ireland and Beyond
 ---
 {% include reviewPageTemplate.html %}

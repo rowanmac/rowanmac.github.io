@@ -28,6 +28,6 @@ title: 'Book Review: The Irish in Eighteenth-Century Bordeaux: Contexts, Relatio
   and Commodities by Charles C. Ludington (ed.)'
 title-short: Book Review
 type: article-journal
-workReveiwed: The Irish in Eighteenth-Century Bordeaux Contexts, Relations and Commodities
+workReviewed: The Irish in Eighteenth-Century Bordeaux Contexts, Relations and Commodities
 ---
 {% include reviewPageTemplate.html %}

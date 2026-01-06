@@ -29,6 +29,6 @@ title: "Oliver Cromwell: Commander in Chief. By Ronald Hutton . Pp xix, 456. New
   \ & London: Yale University Press. 2024. \xA325 hardback; \xA312.99 paperback."
 title-short: Oliver Cromwell
 type: article-journal
-workReveiwed: Oliver Cromwell Commander in Chief
+workReviewed: Oliver Cromwell Commander in Chief
 ---
 {% include reviewPageTemplate.html %}

@@ -29,6 +29,6 @@ title: 'Book Review: William Sharman Crawford and Ulster Radicalism by Peter Gra
 title-short: Book Review
 type: article-journal
 volume: '52'
-workReveiwed: William Sharman Crawford and Ulster Radicalism
+workReviewed: William Sharman Crawford and Ulster Radicalism
 ---
 {% include reviewPageTemplate.html %}

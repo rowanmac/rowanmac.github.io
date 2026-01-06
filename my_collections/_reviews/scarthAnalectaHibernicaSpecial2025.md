@@ -31,6 +31,6 @@ title: "Analecta Hibernica special issue \u2013 the fire of 1922. No 53. Edited 
 title-short: "Analecta Hibernica special issue \u2013 the fire of 1922. No 53. Edited\
   \ by Elva Johnston , Peter Crooksand Timothy Murtagh . Pp xxvii, 378. Dublin"
 type: article-journal
-workReveiwed: "Analecta Hibernica special issue \u2013 the fire of 1922. No 53."
+workReviewed: "Analecta Hibernica special issue \u2013 the fire of 1922. No 53."
 ---
 {% include reviewPageTemplate.html %}

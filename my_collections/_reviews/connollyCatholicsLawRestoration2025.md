@@ -30,6 +30,6 @@ title: "Catholics and the Law in Restoration Ireland. By Paul Smith. Pp 236. Man
 title-short: Catholics and the Law in Restoration Ireland. By Paul Smith. Pp 236.
   Manchester
 type: article-journal
-workReveiwed: Catholics and the Law in Restoration Ireland
+workReviewed: Catholics and the Law in Restoration Ireland
 ---
 {% include reviewPageTemplate.html %}

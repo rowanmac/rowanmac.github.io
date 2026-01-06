@@ -29,6 +29,6 @@ title: 'Aiding Ireland: the Great Famine and the rise of transnational philanthr
   By Anelise Hanson Shrout . Pp 263. New York: New York University Press. 2024. $35.'
 title-short: Aiding Ireland
 type: article-journal
-workReveiwed: Aiding Ireland the Great Famine and the rise of transnational philanthropy
+workReviewed: Aiding Ireland the Great Famine and the rise of transnational philanthropy
 ---
 {% include reviewPageTemplate.html %}

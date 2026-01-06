@@ -29,6 +29,6 @@ title: "Book Review: Monasticism in Ireland, AD 900\u20131250 by Edel Bhreathnac
 title-short: Book Review
 type: article-journal
 volume: '52'
-workReveiwed: "Monasticism in Ireland, AD 900\u20131250"
+workReviewed: "Monasticism in Ireland, AD 900\u20131250"
 ---
 {% include reviewPageTemplate.html %}

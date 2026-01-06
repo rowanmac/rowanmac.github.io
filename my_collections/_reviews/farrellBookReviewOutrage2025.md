@@ -30,7 +30,7 @@ title: "Book Review: Outrage in the Age of Reform: Irish Agrarian Violence, Impe
 title-short: Book Review
 type: article-journal
 volume: '52'
-workReveiwed: "Outrage in the Age of Reform Irish Agrarian Violence, Imperial Insecurity,\
+workReviewed: "Outrage in the Age of Reform Irish Agrarian Violence, Imperial Insecurity,\
   \ and British Governing Policy, 1830\u20131845"
 ---
 {% include reviewPageTemplate.html %}

@@ -24,6 +24,6 @@ source: Project MUSE
 title: "Monasticism in Ireland AD 900\u20131250 by Edel Bhreathnach (review)"
 type: article-journal
 volume: '76'
-workReveiwed: "Monasticism in Ireland AD 900\u20131250"
+workReviewed: "Monasticism in Ireland AD 900\u20131250"
 ---
 {% include reviewPageTemplate.html %}

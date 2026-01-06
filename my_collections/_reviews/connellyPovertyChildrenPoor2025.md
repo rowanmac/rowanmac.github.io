@@ -30,6 +30,6 @@ title: "Poverty, Children and the Poor Law in Industrial Belfast, 1880-1918: by 
 title-short: Poverty, Children and the Poor Law in Industrial Belfast, 1880-1918
 type: article-journal
 volume: '0'
-workReveiwed: Poverty, Children and the Poor Law in Industrial Belfast, 1880-1918
+workReviewed: Poverty, Children and the Poor Law in Industrial Belfast, 1880-1918
 ---
 {% include reviewPageTemplate.html %}

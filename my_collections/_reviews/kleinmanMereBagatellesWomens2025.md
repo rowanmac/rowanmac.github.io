@@ -30,6 +30,6 @@ title: "Mere Bagatelles: women\u2019s diaries from Ireland, 1760\u20131810. By A
   \ in Irish Literature. \xA319.99 paperback."
 title-short: Mere Bagatelles
 type: article-journal
-workReveiwed: "Mere Bagatelles women\u2019s diaries from Ireland, 1760\u20131810."
+workReviewed: "Mere Bagatelles women\u2019s diaries from Ireland, 1760\u20131810."
 ---
 {% include reviewPageTemplate.html %}
