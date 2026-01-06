@@ -58,6 +58,7 @@ categories: note list
 - [ASCII Art Archive](https://www.asciiart.eu/)
 - [Seasons in Pentameter](https://pentad.world/) Site that shows the Japanese (and Chinese I believe) microseasons.
 - [freemediaheckyeah](https://fmhy.net/) Site collecting and cataloguing sites which share free media.
+- [The Archivist, DIY Book Scanner](https://diybookscanner.org/archivist/index.html) An online guide to building a DIY book scanner.
 
 # Education
 - [Eloquent JavaScript](https://eloquentjavascript.net) Free and excellently presented online textbook for self-studying JavaScript
