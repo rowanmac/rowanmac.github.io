@@ -34,6 +34,7 @@ categories: note list
 - [Garden History Girl](https://www.gardenhistorygirl.co.uk/) Nice blog about garden history.
 - [Genji Poems](https://genjipoems.org/) Database of all the poems in the *Tale of Genji*, with multiple English translations of every poem.
 - [Internet History Sourcebooks Project](https://sourcebooks.fordham.edu/index.asp) Large free collections of transcribed and translated primary sources for history teaching.
+- [Close Reading Archive](https://www.closereadingarchive.org/) Archive of materials related to the practice of close reading in literary studies.
 
 
 # Shopping

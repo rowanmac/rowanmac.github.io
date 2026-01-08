@@ -231,3 +231,4 @@ Books read for leisure and finished.
 | *39* | An Anatomy of Chinese: Rhythm, Metaphor, Politics | Eugene Perry Link | English | | 🇺🇸 |
 | <b style="font-size: 30px;">2026</b> |
 | *1* | Little Women | Louisa May Alcott | English | | 🇺🇸 |
+| *2* | On Close Reading | John Guillory & Scott L. Newstok | English | | 🇺🇸 |
