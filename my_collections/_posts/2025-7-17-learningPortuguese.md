@@ -1,8 +1,8 @@
 ---
 author: Rowan MacConville
-title: "Learning Portuguese 1"
+title: "Learning Portuguese"
 layout: post
-categories: note learningPortuguese
+categories: note
 date: 2025-7-17
 ---
 

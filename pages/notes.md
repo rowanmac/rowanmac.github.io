@@ -18,17 +18,6 @@ permalink: /notes
 {% endfor %}
 </ul>
 
-# Learning Portuguese
----
-
-<ul>
-{% for post in site.posts reversed %}
-    {% if post.categories contains "note" and post.categories contains "learningPortuguese" %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endif %}
-{% endfor %}
-</ul>
-
 # Lists
 ---
 
