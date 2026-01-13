@@ -4,11 +4,8 @@ title: "The Catholic Association For International Relations: An Organisational 
 layout: post
 categories: essay
 date: 2025-2-26
-toc: true
 ---
-*This is a research essay written for an undergraduate history class and that shows in analysis and style. Nonetheless the CAIR was at the time of writing an effectively unstudied organisation, so the essay might be of interest to some.*
-* TOC
-{:toc}
+*This is a research essay written for an undergraduate history class and that shows in analysis and style. Nonetheless the CAIR was at the time of writing an effectively unstudied organisation, so the essay might be of interest to some. PDF version can be found [here](/assets/files/cairSketch.pdf).*
 
 ---
 The Catholic Association For International Relations (CAIR), an Irish organisation founded in 1938, has been given no historical consideration beyond the footnote or the paragraph. This could not be called any great oversight. It left little imprint on Irish society nor an obvious body of archival material for historians to pore over. Primary evidence is scant and scattered across archives or embedded in newspapers. This essay brings together this material, comprising a small number of leaflets, pamphlets, books, lectures, letters and newspaper articles, and sketches the history of the CAIR starting with its first president Fr. Stephen Brown's early writings on international thought and his involvement in post World War I European Catholic organisations. Then the circumstances of the CAIR's foundation are outlined along with a discussion of it aims and philosophy based on pamphlets and printed lecture material. From there this essay charts the fortunes of the CAIR in a rough chronology using newspaper articles beginning with its activities and difficulties during the Emergency and ending with its seeming dissolution in the early 1960s. The scope of this essay is tightly bound by the available sources. More consideration is given to the early years of the organisation than its activities in the 1950s simply due to the lack of material for the latter period. So too are many of the conclusions speculative in the absence of internal reports or correspondences to confirm the organisation's motives. Attempts to connect the CAIR to its wider Irish context are similarly tentative. The primary aim of this essay is to outline a basic intellectual and organisational history of this previously unstudied topic while considering future avenues of research and to that end chronology and basic narrative have been prioritised.

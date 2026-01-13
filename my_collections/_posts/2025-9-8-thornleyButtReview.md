@@ -5,7 +5,7 @@ layout: post
 categories: note review
 date: 2025-9-8
 ---
-*Some unimpressive undergraduate work.*
+*Some unimpressive undergraduate work. A PDF version can be found [here](/assets/files/thornleyReview.pdf).*
 
 ---
 
