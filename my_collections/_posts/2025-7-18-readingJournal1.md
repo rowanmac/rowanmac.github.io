@@ -13,3 +13,5 @@ I have also picked back up *The Posthumous Memoirs of Brás Cubas* by Machado De
 The big undertaking I have embarked upon in the last couple weeks is reading all of *In Search of Lost Time*, which I downloaded to my phone a couple months ago. It is something I have been toying with for some time, and it seemed the perfect time to begin with me going to China so soon, and once I get there I'd like to finally throw myslef fully into reading Chinese books which I have dipped my toes into before on so many occassion but never really dedicated myself to. *In Search of Lost Time* will be a good way to keep myself sane by not throwing away reading in English completely, and it'll keep me busy for some time. Halfway through *Swann's Way* now, enjoying it immensely. Proust is a magician.
 
 As far as Chinese reading, I started *一个人的圣经 yi ge ren de shengjing* by 高行健 Gao Xingjian, on a friend's recommendation, but haven't had time to make much headway in it yet.
+
+{% include commentTemplate.html %}

@@ -14,3 +14,5 @@ Heartwarming for the winter.
 
 ![Image](/assets/images/cauldronsFishOverAStove.jpg)
 > Cauldrons over a stove, 17th century, Italian, unknown artist, [Link.](https://www.britishmuseum.org/collection/object/G_2013-5011-3)
+
+{% include commentTemplate.html %}
