@@ -59,6 +59,7 @@ A master list of resources for researching Irish history that I hope to update r
 - [National Built Heritage Service](https://www.buildingsofireland.ie/buildings-search/)
 - [RASCAL Research and Special Collections Available Locally](https://www.qub.ac.uk/directorates/InformationServices/TheLibrary/SpecialCollections/DigitalResources/RASCAL/)
 - [UCD Historic Maps Collection](https://libguides.ucd.ie/findingmaps/intro)
+- [The British Museum Online Collection](https://www.britishmuseum.org/collection) Good for material culture.
 
 # Libraries, Bibliography, Biography & Directories
 - [Internet Archive](https://archive.org/) Incredibly wide ranging free library, with major primary and secondary sources available.
