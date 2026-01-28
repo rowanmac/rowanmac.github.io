@@ -36,5 +36,3 @@ Expect to see books, both from university presses and generalist publishers, jou
 - [ ] Directory of journals, publishers & scholars which have appeared in the brief.
 - [ ] Inclusion of conference papers & PhD theses.
 - [ ] Inclusion of newspaper articles and reviews, documentaries, radio features & podcasts.
-
-{% include shareSection.html %}

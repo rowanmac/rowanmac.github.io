@@ -17,10 +17,18 @@ with open(yamlFilePath, 'r') as yamlFile:
     data = yaml.safe_load(yamlFile)
 
 # Initialising contents
-booksList = "# Books\n---\n"
-articlesList = "# Articles\n---\n"
-reviewsList = "# Reviews\n---\n"
+booksList = []
+booksListMarkdown = "# Books\n---\n"
+articlesList = []
+articlesListMarkdown = "# Articles\n---\n"
+reviewsList = []
+reviewsListMarkdown = "# Reviews\n---\n"
 
 references = data.get('references', [])
 for reference in references:
-    
+    if reference["type"] == "book":
+        booksList.append(reference)
+    elif reference["type"] == "article-journal" and reference["note"] not 
+        articlesList.append(reference)
+    else:
+        reviewsList.append(reference)

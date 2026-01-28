@@ -19,8 +19,6 @@ importYamlFile(destinationDirectory, YAMLFile)
 endTime = time.time()
 print(f"Bibliography imported successfully in {endTime - startTime:.2f} seconds")
 
-# TODO import ancilliary information (people, publishers, etc.)
-
 # Build the dynamic IHB post
 startTime = time.time()
 buildDynamicIhb(destinationDirectory, YAMLFile)
