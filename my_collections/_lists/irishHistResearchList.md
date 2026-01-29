@@ -168,5 +168,6 @@ A master list of resources for researching Irish history that I hope to update r
 - [The History Show](https://www.rte.ie/radio/radio1/the-history-show/) A radio show on Irish history produced by RTE radio 1.
 - [Archiseek](https://www.archiseek.com/) Online catalogue of Irish Architecture.
 - [Century Ireland](https://www.rte.ie/centuryireland/) Website produced by RTE for the decade of centenaries, with many articles and videos relating to the revolutionary period.
+- [Stories of the Four Courts](https://ruthcannon.com/) Wonderful Irish legal history blog.
 
 {% include shareSection.html %}
