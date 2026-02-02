@@ -233,3 +233,4 @@ Books read for leisure and finished.
 | *1* | Little Women | Louisa May Alcott | English | | 🇺🇸 |
 | *2* | On Close Reading | John Guillory & Scott L. Newstok | English | | 🇺🇸 |
 | *3* | The Names | Don DeLillo | English | | 🇺🇸 |
+| *4* | Dreadful desires: the uses of love in neoliberal China | Charlie Yi Zhang | English | | 🇨🇳 |
