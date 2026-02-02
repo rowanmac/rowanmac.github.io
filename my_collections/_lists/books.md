@@ -232,3 +232,4 @@ Books read for leisure and finished.
 | <b style="font-size: 30px;">2026</b> |
 | *1* | Little Women | Louisa May Alcott | English | | 🇺🇸 |
 | *2* | On Close Reading | John Guillory & Scott L. Newstok | English | | 🇺🇸 |
+| *3* | The Names | Don DeLillo | English | | 🇺🇸 |
