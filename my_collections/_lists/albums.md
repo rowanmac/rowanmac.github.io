@@ -188,4 +188,5 @@ A list of albums I've listened through in full, with my favourite song.
 | *173* | Zé Ramalho | Zé Ramalho | 1978 | 30/12/2025 | Bicho de 7 cabeças | 🇧🇷 |
 | <b style="font-size: 30px;">2026</b> |
 | *1* | Beleléu, leléu, eu | Itamar Assumpção e Banda Isca De Polícia | 1980 | 07/01/2026 | Fico louco | 🇧🇷 |
-| *2* | BRUTAL GIRL DELUSION | 红发少年杀人案件 | 2025 | 15/01/2025 | 短发 | 🇨🇳 |
+| *2* | BRUTAL GIRL DELUSION | 红发少年杀人案件 | 2025 | 15/01/2026 | 短发 | 🇨🇳 |
+| *3* | Paêbirú: Caminho da montanha do sol | Lula Côrtes e Zé Ramalho | 1976 | 10/02/2026 | | 🇧🇷 |
