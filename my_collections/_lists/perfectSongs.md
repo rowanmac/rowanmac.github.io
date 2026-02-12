@@ -1,0 +1,64 @@
+---
+author: Rowan MacConville
+title: Perfect Songs
+layout: page
+categories: note list
+---
+
+- Ceremony - New Order
+- Little Green - Joni Mitchell
+- Swinging Party - The Replacements
+- Almost Lost Detroit - Gil Scott Heron
+- Mache Dich, mein Herze, rein - J.S. Bach
+- Georgia On My Mind - Willie Nelson
+- (Sittin’ on) the Dock of the Bay - Otis Redding
+- Perfect Day - Lou Reed
+- Straight to Hell - The Clash
+- Some Girls are Bigger than Others - The Smiths
+- Walk on By - Dionne Warwick
+- I Wish I Knew How It Would Feel To Be Free - Nina Simone
+- Sad-Eyed Lady of the Lowlands - Bob Dylan
+- 「 悲しくてやりきれない 」 - コトリンゴ 
+- A Hill of the Moon - Ichiko Aoba
+- I’d Rather Go Blind - Etta James
+- Hounds of Love - Kate Bush
+- Next Level Charli - Charli XCX
+- Waiting for Superman - The Flaming Lips
+- Security! - Ecco2k
+- Roll Bus Roll - Jeffrey Lewis
+- My Favourite Things - Julie Andrews 
+- Bruised Orange (Chain of Sorrow) - John Prine
+- Paintwork - The Fall
+- This Charming Man - The Smiths
+- Holland 1945 - Neutral Milk Hotel
+- yellow is the color of her eyes - Soccer Mommy
+- Panic - The Smiths
+- Mr. Tambourine Man - Bob Dylan
+- Lily, Rosemary and the Jack of Hearts - Bob Dylan
+- Powderfinger - Neil Young
+- The Guns of Brixton - The Clash
+- Il cielo in una stanza - Gino Paoli
+- Io vivo nella luna - Gino Paoli
+- Just Like Heaven - The Cure
+- 100 - Dean Blunt
+- Clube da Esquina no2 - Milton Nascimento & Lô Borges
+- O mundo é um moinho - Cartola
+- Peito vazio - Cartola
+- Hejira - Joni Mitchell
+- Harvest - Neil Young
+- Mellow My Mind - Neil Young
+- Tired Eyes - Neil Young
+- DtMF - Bad Bunny
+- A Semana Inteira - Erasmo Carlos
+- Preta pretinha - Novos Baianos
+- Águas de março - Elis Regina, Tom Jobim
+- Souvenirs - John Prine
+- Girl from the North Country - Bob Dylan and Johnny Cash
+- Acabou Chorare - Novos Baianos
+- Corcovado - Elis Regina & Tom Jobim
+- Zumbi - Jorge Ben
+- Don’t Think Twice, It’s All Right - Bob Dylan
+- My Grandfather’s Clock - Johnny Cash
+- Passionate Kisses - Lucinda Williams
+- Lake Marie - John Prine
+- Bliss - Yung Lean ft. FKA twigs
