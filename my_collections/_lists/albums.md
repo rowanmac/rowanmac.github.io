@@ -192,3 +192,4 @@ A list of albums I've listened through in full, with my favourite song.
 | *3* | Paêbirú: Caminho da montanha do sol | Lula Côrtes e Zé Ramalho | 1976 | 10/02/2026 | | 🇧🇷 |
 | *4* | Ants From Up There | Black Country, New Road | 2022 | 12/02/2026 | | 🇬🇧 |
 | *5* | Carnaval Electrônico | Daniela Mercury | 2004 | 13/02/2026 | Vou Bate Pa Tu | 🇧🇷 |
+| *6* | Diamond Life | Sade | 1985 | 22/02/2026 | Your Love Is King | 🇬🇧 | 
