@@ -62,3 +62,4 @@ categories: note list
 - Passionate Kisses - Lucinda Williams
 - Lake Marie - John Prine
 - Bliss - Yung Lean ft. FKA twigs
+- Lady Grinning Soul - David Bowie
