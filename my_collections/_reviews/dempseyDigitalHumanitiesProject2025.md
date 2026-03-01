@@ -10,7 +10,6 @@ author:
   given: Gary
 categories: '202602'
 citation-key: dempseyDigitalHumanitiesProject2025
-cleanTitle: 'true'
 container-title: 'Eolas: Journal of the American Society for Irish Medieval Studies'
 externalUrl: https://muse.jhu.edu/pub/16/article/983578
 id: dempseyDigitalHumanitiesProject2025
