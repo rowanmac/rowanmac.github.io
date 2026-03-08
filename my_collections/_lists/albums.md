@@ -194,3 +194,4 @@ A list of albums I've listened through in full, with my favourite song.
 | *5* | Carnaval Electrônico | Daniela Mercury | 2004 | 13/02/2026 | Vou Bate Pa Tu | 🇧🇷 |
 | *6* | Diamond Life | Sade | 1985 | 22/02/2026 | Your Love Is King | 🇬🇧 |
 | *7* | molhado de suor | Alceu Valença | 1974 | 07/03/2026 | Mensageira dos anjos | 🇧🇷 |
+| *8* | Ave Sangria | Ave Sangria | 1975 | 08/03/2026 | Cidade grande | 🇧🇷 |
