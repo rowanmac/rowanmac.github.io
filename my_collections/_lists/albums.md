@@ -196,3 +196,4 @@ A list of albums I've listened through in full, with my favourite song.
 | | molhado de suor | Alceu Valença | 1974 | 07/03/2026 | Mensageira dos anjos | 🇧🇷 |
 | | Ave Sangria | Ave Sangria | 1975 | 08/03/2026 | Cidade grande | 🇧🇷 |
 | | I Love My Computer | Ninajirachi | 2025 | 21/03/2026 | iPod Touch | 🇦🇺 |
+| | Spirit of Eden | Talk Talk | 1988 | 23/03/2026 | I Believe in You | 🇬🇧 |
