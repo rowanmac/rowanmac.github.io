@@ -36,6 +36,7 @@ categories: note list
 - [Internet History Sourcebooks Project](https://sourcebooks.fordham.edu/index.asp) Large free collections of transcribed and translated primary sources for history teaching.
 - [Close Reading Archive](https://www.closereadingarchive.org/) Archive of materials related to the practice of close reading in literary studies.
 - [wehwalt.net](https://wehwalt.net/) Kate Wagner's guide to the Ring Cycle, writings and resources to approach the work. Lovely website.
+- [Snow in Berlin](http://www.snowinberlin.com/index.html) Detailed fan website for the band Talk Talk.
 
 
 # Shopping
