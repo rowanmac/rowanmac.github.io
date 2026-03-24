@@ -197,3 +197,4 @@ A list of albums I've listened through in full, with my favourite song.
 | | Ave Sangria | Ave Sangria | 1975 | 08/03/2026 | Cidade grande | 🇧🇷 |
 | | I Love My Computer | Ninajirachi | 2025 | 21/03/2026 | iPod Touch | 🇦🇺 |
 | | Spirit of Eden | Talk Talk | 1988 | 23/03/2026 | I Believe in You | 🇬🇧 |
+| | Laughing Stock | Talk Tal | 1991 | 24/03/2026 | New Grass | 🇬🇧 |
