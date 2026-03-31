@@ -49,12 +49,12 @@ permalink: /notes
 {% endfor %}
 </ul>
 
-# 上海杂记
+# 杂记
 ---
 
 <ul>
 {% for post in site.posts reversed %}
-    {% if post.categories contains "note" and post.categories contains "shanghaiNotes" %}
+    {% if post.categories contains "note" and post.categories contains "zaji" %}
         <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endif %}
 {% endfor %}
