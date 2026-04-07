@@ -187,16 +187,16 @@ A list of albums I've listened through in full, with my favourite song.
 | *172* | Cuban Soul:18 Kilates | Cassiano | 1976 | 26/12/2025 | Onda | 🇧🇷 |
 | *173* | Zé Ramalho | Zé Ramalho | 1978 | 30/12/2025 | Bicho de 7 cabeças | 🇧🇷 |
 | <b style="font-size: 30px;">2026</b> |
-| | Beleléu, leléu, eu | Itamar Assumpção e Banda Isca De Polícia | 1980 | 07/01/2026 | Fico louco | 🇧🇷 |
-| | BRUTAL GIRL DELUSION | 红发少年杀人案件 | 2025 | 15/01/2026 | 短发 | 🇨🇳 |
-| | Paêbirú: Caminho da montanha do sol | Lula Côrtes e Zé Ramalho | 1976 | 10/02/2026 | | 🇧🇷 |
-| | Ants From Up There | Black Country, New Road | 2022 | 12/02/2026 | | 🇬🇧 |
-| | Carnaval Electrônico | Daniela Mercury | 2004 | 13/02/2026 | Vou Bate Pa Tu | 🇧🇷 |
-| | Diamond Life | Sade | 1985 | 22/02/2026 | Your Love Is King | 🇬🇧 |
-| | molhado de suor | Alceu Valença | 1974 | 07/03/2026 | Mensageira dos anjos | 🇧🇷 |
-| | Ave Sangria | Ave Sangria | 1975 | 08/03/2026 | Cidade grande | 🇧🇷 |
-| | I Love My Computer | Ninajirachi | 2025 | 21/03/2026 | iPod Touch | 🇦🇺 |
-| | Spirit of Eden | Talk Talk | 1988 | 23/03/2026 | I Believe in You | 🇬🇧 |
-| | Laughing Stock | Talk Talk | 1991 | 24/03/2026 | New Grass | 🇬🇧 |
-| | Astral Weeks | Van Morrison | 1968 | 02/04/2026 | Madame George | 🇮🇪 |
-| | The Raincoats | The Raincoats | 1979 | 06/04/2026 | | 🇬🇧 |
+| *1* | Beleléu, leléu, eu | Itamar Assumpção e Banda Isca De Polícia | 1980 | 07/01/2026 | Fico louco | 🇧🇷 |
+| *2* | BRUTAL GIRL DELUSION | 红发少年杀人案件 | 2025 | 15/01/2026 | 短发 | 🇨🇳 |
+| *3* | Paêbirú: Caminho da montanha do sol | Lula Côrtes e Zé Ramalho | 1976 | 10/02/2026 | | 🇧🇷 |
+| *4* | Ants From Up There | Black Country, New Road | 2022 | 12/02/2026 | | 🇬🇧 |
+| *5* | Carnaval Electrônico | Daniela Mercury | 2004 | 13/02/2026 | Vou Bate Pa Tu | 🇧🇷 |
+| *6* | Diamond Life | Sade | 1985 | 22/02/2026 | Your Love Is King | 🇬🇧 |
+| *7* | molhado de suor | Alceu Valença | 1974 | 07/03/2026 | Mensageira dos anjos | 🇧🇷 |
+| *8* | Ave Sangria | Ave Sangria | 1975 | 08/03/2026 | Cidade grande | 🇧🇷 |
+| *9* | I Love My Computer | Ninajirachi | 2025 | 21/03/2026 | iPod Touch | 🇦🇺 |
+| *10* | Spirit of Eden | Talk Talk | 1988 | 23/03/2026 | I Believe in You | 🇬🇧 |
+| *11* | Laughing Stock | Talk Talk | 1991 | 24/03/2026 | New Grass | 🇬🇧 |
+| *12* | Astral Weeks | Van Morrison | 1968 | 02/04/2026 | Madame George | 🇮🇪 |
+| *13* | The Raincoats | The Raincoats | 1979 | 06/04/2026 | | 🇬🇧 |

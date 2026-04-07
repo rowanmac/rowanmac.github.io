@@ -230,9 +230,9 @@ Books read for leisure and finished.
 | *38* | Masters of Contemporary Brazilian Song: MPB, 1965-1985 | Charles Andrew Perrone | English | | 🇺🇸 |
 | *39* | An Anatomy of Chinese: Rhythm, Metaphor, Politics | Eugene Perry Link | English | | 🇺🇸 |
 | <b style="font-size: 30px;">2026</b> |
-| | Little Women | Louisa May Alcott | English | | 🇺🇸 |
-| | On Close Reading | John Guillory & Scott L. Newstok | English | | 🇺🇸 |
-| | The Names | Don DeLillo | English | | 🇺🇸 |
-| | Dreadful desires: the uses of love in neoliberal China | Charlie Yi Zhang | English | | 🇨🇳 |
-| | Intervals | Marianne Brooker | English | | 🇬🇧 |
-| | Steppenwolf | Hermann Hesse | German | David Horrocks | 🇩🇪🇨🇭 |
+| *1* | Little Women | Louisa May Alcott | English | | 🇺🇸 |
+| *2* | On Close Reading | John Guillory & Scott L. Newstok | English | | 🇺🇸 |
+| *3* | The Names | Don DeLillo | English | | 🇺🇸 |
+| *4* | Dreadful desires: the uses of love in neoliberal China | Charlie Yi Zhang | English | | 🇨🇳 |
+| *5* | Intervals | Marianne Brooker | English | | 🇬🇧 |
+| *6* | Steppenwolf | Hermann Hesse | German | David Horrocks | 🇩🇪🇨🇭 |
