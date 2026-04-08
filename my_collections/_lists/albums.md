@@ -200,3 +200,5 @@ A list of albums I've listened through in full, with my favourite song.
 | *11* | Laughing Stock | Talk Talk | 1991 | 24/03/2026 | New Grass | 🇬🇧 |
 | *12* | Astral Weeks | Van Morrison | 1968 | 02/04/2026 | Madame George | 🇮🇪 |
 | *13* | The Raincoats | The Raincoats | 1979 | 06/04/2026 | | 🇬🇧 |
+| *14* | Pink Moon | Nick Drake | 1972 | 08/04/2026 | | 🇬🇧 |
+| *15* | 你不要那样看着我的眼睛 | 蔡琴 | 1992 | 08/04/2026 | 雨中城市 | 🇨🇳 |
