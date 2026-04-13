@@ -67,3 +67,4 @@ categories: note list
 - I'll Never Fall in Love Again - Dionne Warwick
 - I Believe in You - Talk Talk
 - Madame George - Van Morrison
+- So Hot You're Hurting My Feelings (A. G. Cook Remix) - Caroline Polachek
