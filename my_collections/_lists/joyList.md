@@ -37,6 +37,7 @@ categories: note list
 - [Close Reading Archive](https://www.closereadingarchive.org/) Archive of materials related to the practice of close reading in literary studies.
 - [wehwalt.net](https://wehwalt.net/) Kate Wagner's guide to the Ring Cycle, writings and resources to approach the work. Lovely website.
 - [Snow in Berlin](http://www.snowinberlin.com/index.html) Detailed fan website for the band Talk Talk.
+- [Thawra Project](https://thawraproject.com/) Free podcast episodes and learning materials from the Dig's series on 20th century Arab radicalism. This website is all the promise of the internet realised.
 
 
 # Shopping
