@@ -64,5 +64,6 @@ categories: note list
 # Resources
 - [Jiumo Diary](https://www.jiumodiary.com/) Good place for books. 中文
 - [Paula Curtis Resources](http://prcurtis.com/DH/resources/) A table of digital resources related to East Asian history on the personal site of an academic. Skews toward Japan but lots of great China stuff here too. 英文
-- [Harvard Library Research Guide for Chinese History](https://guides.library.harvard.edu/c.php?g=310134) Exactly what it says in the name. Many of these databases are not accessible to the general public however. 英文 
+- [Harvard Library Research Guide for Chinese History](https://guides.library.harvard.edu/c.php?g=310134) Exactly what it says in the name. Many of these databases are not accessible to the general public however. 英文
+- [88zhibo](https://www.88zhibo.tv/) Sports streaming :)
 
