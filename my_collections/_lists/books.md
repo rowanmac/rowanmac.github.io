@@ -236,3 +236,4 @@ Books read for leisure and finished.
 | *4* | Dreadful desires: the uses of love in neoliberal China | Charlie Yi Zhang | English | | 🇨🇳 |
 | *5* | Intervals | Marianne Brooker | English | | 🇬🇧 |
 | *6* | Steppenwolf | Hermann Hesse | German | David Horrocks | 🇩🇪🇨🇭 |
+| *7* | River Town | Peter Hessler | English | | 🇺🇸 |
