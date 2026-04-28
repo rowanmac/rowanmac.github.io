@@ -30,6 +30,8 @@ categories: note list
 - [The China Scroll](https://chinascroll.live/) Live news aggregator, whiff of American. 英文
 - [Sino-Platonic Papers](https://www.sino-platonic.org/index.html) Website of a Sinology Journal, many interesting free papers. 英文
 - [Stratagems of the warring states](https://warringstates.wixsite.com/warringstates) Online translation of the stratagems of the warring states with some supplementary reading. I know no classical Chinese as of writing so cannot vouch for translation. 英文/中文
+- [一步一个脚印](https://carlgene.com/blog/) Blog of a professional Chinese-English Translator. 中文/英语
+- [Hacking Chinese](https://www.hackingchinese.com/) Good blog about learning Chinese. 英语
 
 # Archives
 - [Chinese Film Classics](https://chinesefilmclassics.org/)  A great project preserving and making accessible early Chinese film, with lots of supplementary material to help study. 英文
@@ -67,4 +69,5 @@ categories: note list
 - [Paula Curtis Resources](http://prcurtis.com/DH/resources/) A table of digital resources related to East Asian history on the personal site of an academic. Skews toward Japan but lots of great China stuff here too. 英文
 - [Harvard Library Research Guide for Chinese History](https://guides.library.harvard.edu/c.php?g=310134) Exactly what it says in the name. Many of these databases are not accessible to the general public however. 英文
 - [88zhibo](https://www.88zhibo.tv/) Sports streaming :)
+- [Chinese StackExchange Resource List](https://chinese.stackexchange.com/questions/1120/resources-for-learning-mandarin-chinese) Comprehensive resource list for Chinese learning materials. Some links now dead. 英文
 
