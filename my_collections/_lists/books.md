@@ -238,3 +238,4 @@ Books read for leisure and finished.
 | *6* | Steppenwolf | Hermann Hesse | German | David Horrocks | 🇩🇪🇨🇭 |
 | *7* | River Town | Peter Hessler | English | | 🇺🇸 |
 | *8* | Death and the Gardener | Bulgarian | Angela Rodel | 🇧🇬 |
+| *9* | Communion | Bell Hooks | English | | 🇺🇸 |
