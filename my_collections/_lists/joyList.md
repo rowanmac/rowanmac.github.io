@@ -38,6 +38,7 @@ categories: note list
 - [wehwalt.net](https://wehwalt.net/) Kate Wagner's guide to the Ring Cycle, writings and resources to approach the work. Lovely website.
 - [Snow in Berlin](http://www.snowinberlin.com/index.html) Detailed fan website for the band Talk Talk.
 - [Thawra Project](https://thawraproject.com/) Free podcast episodes and learning materials from the Dig's series on 20th century Arab radicalism. This website is all the promise of the internet realised.
+- [Techno-optimism Archive](https://technooptimism.org/archive/) Collection of primary source clippings about techno-optimism
 
 
 # Shopping
