@@ -239,5 +239,5 @@ Books read for leisure and finished.
 | *7* | River Town | Peter Hessler | English | | 🇺🇸 |
 | *8* | Death and the Gardener | Bulgarian | Angela Rodel | 🇧🇬 |
 | *9* | Communion | Bell Hooks | English | | 🇺🇸 |
-| *10* | Vindication: A Life of Mary Wollstonecraft | Lyndall Gordon | | 🇬🇧 |
-| *11* | Silas Marner | George Eliot | | 🇬🇧 |
+| *10* | Vindication: A Life of Mary Wollstonecraft | Lyndall Gordon | English | | 🇬🇧 |
+| *11* | Silas Marner | George Eliot | English | | 🇬🇧 |
