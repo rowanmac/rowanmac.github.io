@@ -240,3 +240,4 @@ Books read for leisure and finished.
 | *8* | Death and the Gardener | Bulgarian | Angela Rodel | 🇧🇬 |
 | *9* | Communion | Bell Hooks | English | | 🇺🇸 |
 | *10* | Vindication: A Life of Mary Wollstonecraft | Lyndall Gordon | | 🇬🇧 |
+| *11* | Silas Marner | George Eliot | | 🇬🇧 |
