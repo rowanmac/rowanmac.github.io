@@ -241,3 +241,5 @@ Books read for leisure and finished.
 | *9* | Communion | Bell Hooks | English | | 🇺🇸 |
 | *10* | Vindication: A Life of Mary Wollstonecraft | Lyndall Gordon | English | | 🇬🇧 |
 | *11* | Silas Marner | George Eliot | English | | 🇬🇧 |
+| *12* | The Informer | Liam O’Flaherty | English | | 🇮🇪 |
+| *13* | Porn: an oral history | Polly Barton | English | | 🇬🇧 |
