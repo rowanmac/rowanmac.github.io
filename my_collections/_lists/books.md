@@ -243,4 +243,5 @@ Books read for leisure and finished.
 | *11* | Silas Marner | George Eliot | English | | 🇬🇧 |
 | *12* | The Informer | Liam O’Flaherty | English | | 🇮🇪 |
 | *13* | Porn: an oral history | Polly Barton | English | | 🇬🇧 |
-| *14* | A Vindication of the Rights of Woman | Mary Wollstonecraft | | 🇬🇧 |
+| *14* | A Vindication of the Rights of Woman | Mary Wollstonecraft | English | | 🇬🇧 |
+| *15* | The Hall of Uselessness | Simon Leys | English | | 🇧🇪 |
