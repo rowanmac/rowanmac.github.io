@@ -223,6 +223,10 @@ a.ihbItem {
   }
 }
 
+/**
+ * Footnotes
+ */
+
 a.footnote {
   font-size: 0.8em;
   color: $text-color;
@@ -230,6 +234,10 @@ a.footnote {
   &:hover {
     color: $text-color
   }
+}
+
+div.footnotes {
+  font-size: 0.8em;
 }
 
 a.reversefootnote {

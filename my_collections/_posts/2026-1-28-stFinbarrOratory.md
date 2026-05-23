@@ -16,4 +16,6 @@ I wonder who these religious pictures were being sold to and how they were being
 
 {% include commentTemplate.html %}
 
+---
+
 [^1]: [DIB Link.](https://www.dib.ie/biography/french-robert-a3369)

@@ -60,6 +60,17 @@ permalink: /notes
 {% endfor %}
 </ul>
 
+# 每日一词
+---
+
+<ul>
+{% for post in site.posts reversed %}
+    {% if post.categories contains "note" and post.categories contains "每日一词" %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+{% endfor %}
+</ul>
+
 # Source Commentaries
 ---
 
