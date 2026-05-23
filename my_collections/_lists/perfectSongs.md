@@ -69,3 +69,4 @@ categories: note list
 - Madame George - Van Morrison
 - So Hot You're Hurting My Feelings (A. G. Cook Remix) - Caroline Polachek
 - Nega música - Itamar Assumpção e Banda Isca De Polícia
+- Just Be Simple - Songs: Ohia
