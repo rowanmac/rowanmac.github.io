@@ -245,3 +245,4 @@ Books read for leisure and finished.
 | *13* | Porn: an oral history | Polly Barton | English | | 🇬🇧 |
 | *14* | A Vindication of the Rights of Woman | Mary Wollstonecraft | English | | 🇬🇧 |
 | *15* | The Hall of Uselessness | Simon Leys | English | | 🇧🇪 |
+| *16* | Two Lives | William Trevor | English | | 🇮🇪 |
