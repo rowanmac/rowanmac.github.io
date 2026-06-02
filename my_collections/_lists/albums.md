@@ -202,3 +202,5 @@ A list of albums I've listened through in full, with my favourite song.
 | *13* | The Raincoats | The Raincoats | 1979 | 06/04/2026 | | 🇬🇧 |
 | *14* | Pink Moon | Nick Drake | 1972 | 08/04/2026 | | 🇬🇧 |
 | *15* | 你不要那样看着我的眼睛 | 蔡琴 | 1992 | 08/04/2026 | 雨中城市 | 🇨🇳 |
+| *16* | Three Imaginary Boys | The Cure | 1979 | 02/06/2026 | Three Imaginary Boys | 🇬🇧 |
+| *17* | Boys Don't Cry | The Cure | 1980 | 02/06/2026 | Boys Don't Cry | 🇬🇧 |
