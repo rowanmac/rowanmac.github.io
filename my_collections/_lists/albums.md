@@ -204,3 +204,5 @@ A list of albums I've listened through in full, with my favourite song.
 | *15* | 你不要那样看着我的眼睛 | 蔡琴 | 1992 | 08/04/2026 | 雨中城市 | 🇨🇳 |
 | *16* | Three Imaginary Boys | The Cure | 1979 | 02/06/2026 | Three Imaginary Boys | 🇬🇧 |
 | *17* | Boys Don't Cry | The Cure | 1980 | 02/06/2026 | Boys Don't Cry | 🇬🇧 |
+| *18* | The Head on the Door | The Cure | 1985 | 05/06/2026 | Six Different Ways | 🇬🇧 |
+| *19* | Caça À Raposa | João Bosco | 1975 | 07/06/2026 | Caça À Raposa | 🇧🇷 |
