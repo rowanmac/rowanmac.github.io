@@ -206,3 +206,4 @@ A list of albums I've listened through in full, with my favourite song.
 | *17* | Boys Don't Cry | The Cure | 1980 | 02/06/2026 | Boys Don't Cry | 🇬🇧 |
 | *18* | The Head on the Door | The Cure | 1985 | 05/06/2026 | Six Different Ways | 🇬🇧 |
 | *19* | Caça À Raposa | João Bosco | 1975 | 07/06/2026 | Caça À Raposa | 🇧🇷 |
+| *20* | Nervos de aço | Paulinho da Viola | 1973 | 08/06/2026 | Nervos de aço | 🇧🇷 |
