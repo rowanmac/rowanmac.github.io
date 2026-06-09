@@ -15,6 +15,7 @@ categories: note list
 - [PRC History](http://prchistory.org/) Website of an academic network dedicated to PRC history. Has journals, reviews and a great resource list. 英文
 - [百度](https://baike.baidu.com/) General purpose online encyclopedia. 中文
 - [FreeMdict](https://freemdict.com/) Forum dedicated to sharing free dictionary files. 中文
+- [行政区划查询](https://xingzhengquhua.bmcx.com/) Database of Chinese administrative divisions. 中文
 
 # Reading
 - [China Heritage Quarterly](http://chinaheritagequarterly.org/) A discontinued? academic quarterly on China. 英文
