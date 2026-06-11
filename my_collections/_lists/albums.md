@@ -207,3 +207,4 @@ A list of albums I've listened through in full, with my favourite song.
 | *18* | The Head on the Door | The Cure | 1985 | 05/06/2026 | Six Different Ways | 🇬🇧 |
 | *19* | Caça À Raposa | João Bosco | 1975 | 07/06/2026 | Caça À Raposa | 🇧🇷 |
 | *20* | Nervos de aço | Paulinho da Viola | 1973 | 08/06/2026 | Nervos de aço | 🇧🇷 |
+| *21* | Olho de Peixe | Lenine e Suzano | 1993 | 11/06/2026 | A Gandaia Das Ondas / Pedra e Areia | 🇧🇷 |
