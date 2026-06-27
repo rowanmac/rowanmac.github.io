@@ -7,7 +7,11 @@ categories: note list
 
 A master list of resources for researching Irish history that I hope to update regularly. Still under construction.
 
-Key: ⭐️ = exceptionally high quality or essential resource. 🟡 = all or vast majority of material freely accessable online/open access journal. 🟢 = material partially accessable online/some open access articles. 🔴 = material not accessable online/closed journal.
+Key:<br>
+⭐️ = exceptionally high quality or essential resource.<br>
+🟡 = all or vast majority of material freely accessable online/open access journal.<br>
+🟢 = material partially accessable online/some open access articles.<br>
+🔴 = material not accessable online/closed journal.
 
 * TOC
 {:toc}
