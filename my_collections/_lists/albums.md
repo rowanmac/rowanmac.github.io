@@ -209,3 +209,4 @@ A list of albums I've listened through in full, with my favourite song.
 | *20* | Nervos de aço | Paulinho da Viola | 1973 | 08/06/2026 | Nervos de aço | 🇧🇷 |
 | *21* | Olho de Peixe | Lenine e Suzano | 1993 | 11/06/2026 | A Gandaia Das Ondas / Pedra e Areia | 🇧🇷 |
 | *22* | Wish | The Cure | 1992 | 18/06/2026 | To Wish Impossible Things | 🇬🇧 |
+| *23* | Disintegration | The Cure | 1989 | 28/06/2026 | Lullaby | 🇬🇧 |
