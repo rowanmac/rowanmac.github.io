@@ -21,7 +21,6 @@ references:
   language: en
   note: |-
     review : true
-    workReviewed: 
     cleanTitle: true
   page: 1–3
   source: Cambridge University Press
@@ -1139,7 +1138,7 @@ references:
       month: 6
       day: 13
   note: |-
-    reivew: true
+    review: true
     workReviewed: Ulster’s Lost Counties: Loyalism and Paramilitarism Since 1920
   page: 1–3
   publisher: Routledge

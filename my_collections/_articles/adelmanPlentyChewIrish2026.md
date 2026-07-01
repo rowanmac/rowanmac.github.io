@@ -30,6 +30,5 @@ source: Cambridge University Press
 title: 'Plenty to chew on: Irish food history'
 title-short: Plenty to chew on
 type: article-journal
-workReviewed: ''
 ---
 {% include articlePageTemplate.html %}
