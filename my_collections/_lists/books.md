@@ -248,3 +248,4 @@ Books read for leisure and finished.
 | *16* | Two Lives | William Trevor | English | | 🇮🇪 |
 | *17* | Fifty sounds | Polly Barton | English | | 🇬🇧 |
 | *18* | Within A Budding Grove | Marcel Proust | French | C.K. Scott Moncrieff, Terrence Kilmartin & D.J. Enright | 🇫🇷 |
+| *19* | The Impossible City | Karen Cheung | English | | 🇭🇰 |
