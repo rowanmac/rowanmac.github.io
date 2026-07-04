@@ -210,3 +210,4 @@ A list of albums I've listened through in full, with my favourite song.
 | *21* | Olho de Peixe | Lenine e Suzano | 1993 | 11/06/2026 | A Gandaia Das Ondas / Pedra e Areia | 🇧🇷 |
 | *22* | Wish | The Cure | 1992 | 18/06/2026 | To Wish Impossible Things | 🇬🇧 |
 | *23* | Disintegration | The Cure | 1989 | 28/06/2026 | Lullaby | 🇬🇧 |
+| *24* | Specials | The Specials | 1979 | 02/07/2026 | Doesn't Make It Alright | 🇬🇧 |
