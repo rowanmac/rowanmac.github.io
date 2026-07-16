@@ -211,3 +211,4 @@ A list of albums I've listened through in full, with my favourite song.
 | *22* | Wish | The Cure | 1992 | 18/06/2026 | To Wish Impossible Things | 🇬🇧 |
 | *23* | Disintegration | The Cure | 1989 | 28/06/2026 | Lullaby | 🇬🇧 |
 | *24* | Specials | The Specials | 1979 | 02/07/2026 | Doesn't Make It Alright | 🇬🇧 |
+| *25* | If You're Feeling Sinister | 1996 | 14/07/2026 | Judy and the Dream of Horses | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 |
