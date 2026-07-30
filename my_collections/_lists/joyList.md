@@ -56,6 +56,8 @@ categories: note list
 - [Polish Fashion Stories](https://www.polishfashionstories.com/)
 - [History of Philosophy Without Any Gaps](https://www.historyofphilosophy.net/)
 - [Notebooks](http://bactra.org/notebooks/) A long maintained personal website, good to explore.
+- [Jadaliyya](https://www.jadaliyya.com/) Independent ezine produced by the Arab Studies Institute
+- [Bartosz Ciechanowski's Blog](https://ciechanow.ski/) Blog with incredible interactive articles explaining various topics in science and engineering.
 
 # Resources
 - [Irustoya](https://www.irasutoya.com/) Charming and free Japanese clip art.
