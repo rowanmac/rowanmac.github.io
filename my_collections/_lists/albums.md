@@ -213,3 +213,4 @@ A list of albums I've listened through in full, with my favourite song.
 | *24* | Specials | The Specials | 1979 | 02/07/2026 | Doesn't Make It Alright | 🇬🇧 |
 | *25* | If You're Feeling Sinister | Belle and Sebastian | 1996 | 14/07/2026 | Judy and the Dream of Horses | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 |
 | *26* | 幽灵的回访 | THE BOOTLEGS | 2021 | 19/07/2026 | 鬼 | 🇨🇳 |
+| *27* | Any Other City | Life Without Buildings | 2001 | 02/08/2026 | The Leanover | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 |
