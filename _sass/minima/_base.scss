@@ -268,42 +268,6 @@ article:has( div.bookPage), article:has( div.articlePage), article:has( div.revi
   .post-title {
     position: relative;
   }
-  .post-title::before {
-    content: "";
-    position: absolute;
-    width: 75px; /* Set the width of the image */
-    height: 75px; /* Set the height of the image */
-    background-size: contain; /* Scale the image to fit the width and height */
-    background-repeat: no-repeat;
-  }
-}
-
-article:has( div.bookPage) {
-  .post-title::before {
-    left: -$spacing-unit*2;
-    background-image: url("../../assets/images/book.png");
-  }
-}
-
-article:has( div.articlePage) {
-  .post-title::before {
-    left: -$spacing-unit*2.5;
-    background-image: url("../../assets/images/article.png");
-  }
-}
-
-article:has( div.reviewPage) {
-  .post-title::before {
-    left: -$spacing-unit*2.5;
-    background-image: url("../../assets/images/review.png");
-  }
-}
-
-article:has( div.sectionPage) {
-  .post-title::before {
-    left: -$spacing-unit*2.7;
-    background-image: url("../../assets/images/section.png");
-  }
 }
 
 /**
