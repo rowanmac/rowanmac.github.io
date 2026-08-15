@@ -11,7 +11,7 @@ permalink: /notebooks
 ---
 
 <ul>
-{% for post in site.posts %}
+{% for post in site.posts reversed %}
     {% if post.categories.size == 1 and post.categories contains "note" %}
         <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endif %}
