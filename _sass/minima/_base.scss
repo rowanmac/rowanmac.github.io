@@ -189,11 +189,8 @@ h2 {
 }
 
 h1.ihbSectionHeader {
-  position: sticky;
-  top: 0;
-  z-index: 1000;
   background-color: $background-color;
-  padding-bottom: $spacing-unit/2;
+  padding-bottom: $spacing-unit/3;
   border-bottom: 1px solid $background-accent-color;
 }
 
