@@ -72,3 +72,4 @@ categories: note list
 - [88zhibo](https://www.88zhibo.tv/) Sports streaming :)
 - [Chinese StackExchange Resource List](https://chinese.stackexchange.com/questions/1120/resources-for-learning-mandarin-chinese) Comprehensive resource list for Chinese learning materials. Some links now dead. 英文
 
+{% include commentTemplate.html %}

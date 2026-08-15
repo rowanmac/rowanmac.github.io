@@ -71,3 +71,5 @@ categories: note list
 - Nega música - Itamar Assumpção e Banda Isca De Polícia
 - Just Be Simple - Songs: Ohia
 - I Wish I Was the Moon - Neko Case
+
+{% include commentTemplate.html %}

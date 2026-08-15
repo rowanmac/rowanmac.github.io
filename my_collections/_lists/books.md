@@ -250,3 +250,5 @@ Books read for leisure and finished.
 | *18* | Within A Budding Grove | Marcel Proust | French | C.K. Scott Moncrieff, Terrence Kilmartin & D.J. Enright | 🇫🇷 |
 | *19* | The Impossible City | Karen Cheung | English | | 🇭🇰 |
 | *20* | The Count of Monte Cristo | Alexandre Dumas | French | Robin Buss | 🇫🇷 |
+
+{% include commentTemplate.html %}
