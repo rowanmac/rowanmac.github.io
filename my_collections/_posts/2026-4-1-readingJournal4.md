@@ -13,3 +13,5 @@ I have also tried many times to scale the small hill of Timothy J. Clark's long 
 Chinese reading has been progressing well. I can't say smoothly. The way is full of stones, and uneven ground. I'm never balanced when reading Chinese. And yet with my unsteady method, I have wobble forward faster and faster, and, even better, rarely stumble. Have been reading one fiction 明亮的夜晚, translated from Korean and recommended by a friend, and one non-fiction 跑外卖: 一个女骑手的世界. And other articles and posts on the side.
 
 Since my last update I read through most of Annie Ernaux's bibliography, brilliant, I want to copy her style. Read _The Ice Palace_ by Tarjei Vesaas, brilliant as well, and various other assorted things, including Hesse's _Steppenwolf_ recommended to me by a friend, which was nothing like I expected it to be, and far funnier than the _Glass Bead Game_ which neither I nor anybody I know has ever been able to finish.
+
+{% include commentTemplate.html %}

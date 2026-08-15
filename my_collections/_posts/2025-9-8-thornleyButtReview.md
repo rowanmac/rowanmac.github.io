@@ -27,11 +27,7 @@ Other criticisms, however, are less well founded than Mansergh's. Reid's content
 
 In the conclusion, Thornley uses the verb "canalise" twice. "the home rule party of Butt canalised the feelings of the Irish people for at most four years".[^16] "He canalised the emotional nationalism of the people in the Amnesty Association".[^17] Aside from its antiquated ring, the word sums up the book's argument better than its final line. Butt, as depicted here, is the conduit of nationalism rather than its leader. In an impressive and detailed political narrative which in prose and analysis has aged gracefully, Thornley, despite a conclusion extolling Butt's leadership, gives the lasting impression of a man through whom outside forces acted. Whether there is more to this story remains to be seen.
 
----
-# Comment
-<p>Leave a comment by <a href="mailto:rowanmacconville@gmail.com?subject=Comment on {{ page.title }}">email</a> and I will insert it here.</p>
-
----
+{% include commentTemplate.html %}
 
 [^1]: Colin W. Reid, "'An Experiment in Constructive Unionism': Isaac Butt, Home Rule and Federalist Political Thought during the 1870s," The English Historical Review 129, no. 537 (2014): 332--61., David George Boyce, ed., Defenders of the Union: A Survey of British and Irish Unionism since 1801 (Routledge, 2001).
 [^2]: David Thornley, Isaac Butt and Home Rule (Greenwood Pr, 1964), 16.
