@@ -59,12 +59,14 @@ categories: note list
 - [Chinese Music Archive](https://chinesemusicarchive.com/en_us/)
 - [OPEN BOOKS HONG KONG](https://openbookshongkong.com/en/) Collection of open access academic books about China from the Chinese University of Hong Kong. 英文/中文
 - [Mao Era in Objects](maoeraobjects.ac.uk) Digitised material history and essays on the material history of the Mao era. 英文
+
 # Organisations
 - [中华人民共和国中央人民政府](https://www.gov.cn/) Website of the state council. 中文
 - [dGenerate Films](https://www.dgeneratefilms.com/) Company distributing films from mainland China abroad. 英文
 - [The Janus Project](https://janus-project.org/) A study group? at Oxford? dedicated to moments of encounter between the Greco-Roman and Chinese classics (think Jesuits). 英文
 - [China Academic Network on Gender — CHANGE](https://change.hypotheses.org/) Academic Network on the theme of gender in Chinese society and history. 英文
 - [China Philatelic Society of London](http://www.cpsl.org.uk/) What it sounds like. As far as I can tell not a huge amount on the website for free, but they have notices of auctions, a journal and a good collection of related organisations and links. 英文
+
 # Resources
 - [Jiumo Diary](https://www.jiumodiary.com/) Good place for books. 中文
 - [Paula Curtis Resources](http://prcurtis.com/DH/resources/) A table of digital resources related to East Asian history on the personal site of an academic. Skews toward Japan but lots of great China stuff here too. 英文
