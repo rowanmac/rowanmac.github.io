@@ -48,8 +48,6 @@ The CAIR was a response to post-war continental intellectual currents which call
 
 This was an initial foray into the study of the CAIR. One blind spot of this study is its neglect of the Catholic press, any further work should expand its scope to periodicals like *The Irish Catholic* which also reported on CAIR activities. Other potential avenues for future research were apparent when researching this essay. The CAIR's elite audience and early interest in pan-European ideas suggests that it could be an under appreciated part of Ireland's intellectual journey toward European integration. Similarly the CAIR's educational mission and connections to Universities could be relevant to histories of third level Irish education. Potentially the most fruitful area for future work is the suite of international Catholic organisations of which the CAIR was part. A study of the various national branches of the CUIS during wartime could reveal whether the perceived lack of interest from the Irish public was in fact an issue common to organisations of its kind. The papers of the Catholic Institute for International Relations (CIIR) in England also bear researching either to discover potential continuities between the two organisations or to compare the issues they faced. The CAIR did not succeed but it would be a lazy assumption to conclude that its failure was caused by a small minded Irish Catholicism, although its members often assumed as much. However, in the absence of sources detailing the CAIR's decision making it remains difficult to assess if the ultimate causes of failure were internal or external.
 
-{% include commentShareTemplate.md %}
-
 # Primary Sources
 
 ---
