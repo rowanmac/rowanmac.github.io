@@ -4,6 +4,9 @@
 
 layout: home
 ---
+
+Welcome to my blog.
+
+---
+
 <script src="/assets/js/index.js"></script>
-
-
