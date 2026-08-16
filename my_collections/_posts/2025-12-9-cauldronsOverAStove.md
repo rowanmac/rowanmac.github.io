@@ -1,5 +1,4 @@
 ---
-author: Rowan MacConville
 title: "Cauldrons over a stove"
 layout: post 
 categories: note 

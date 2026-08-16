@@ -1,5 +1,4 @@
 ---
-author: Rowan MacConville
 title: "Yeats Country by Patrick Carey"
 layout: post 
 categories: note 

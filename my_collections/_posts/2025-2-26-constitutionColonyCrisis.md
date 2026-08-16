@@ -1,5 +1,4 @@
 ---
-author: Rowan MacConville
 title: Constitution, Colony and Crisis in the Dublin University Magazine 1833-1839
 layout: post
 categories: essay

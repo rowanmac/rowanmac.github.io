@@ -1,5 +1,4 @@
 ---
-author: Rowan MacConville
 title: "The Catholic Association For International Relations: An Organisational Sketch"
 layout: post
 categories: essay

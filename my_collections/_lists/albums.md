@@ -1,5 +1,5 @@
 ---
-author: Rowan MacConville
+
 title: Albums List
 layout: page
 categories: note list

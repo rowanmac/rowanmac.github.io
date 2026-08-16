@@ -1,5 +1,5 @@
 ---
-author: Rowan MacConville
+
 title: Books List
 layout: page
 categories: note list

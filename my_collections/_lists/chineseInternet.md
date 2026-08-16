@@ -1,5 +1,5 @@
 ---
-author: Rowan MacConville
+
 title: Chinese Internet List
 layout: page
 categories: note list

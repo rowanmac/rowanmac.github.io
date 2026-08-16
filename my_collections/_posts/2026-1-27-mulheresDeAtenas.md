@@ -1,5 +1,4 @@
 ---
-author: Rowan MacConville
 title: "Mulheres de Atenas"
 layout: post 
 categories: note 

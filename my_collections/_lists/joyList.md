@@ -1,5 +1,5 @@
 ---
-author: Rowan MacConville
+
 title: Joyful Internet List
 layout: page
 categories: note list

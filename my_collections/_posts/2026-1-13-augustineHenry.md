@@ -1,5 +1,4 @@
 ---
-author: Rowan MacConville
 title: "The Experience of Augustine Henry in Yunnan 1896-1900"
 layout: post
 categories: essay

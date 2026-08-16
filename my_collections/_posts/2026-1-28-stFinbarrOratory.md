@@ -1,5 +1,4 @@
 ---
-author: Rowan MacConville
 title: "St. Finbarr's Oratory"
 layout: post 
 categories: note 

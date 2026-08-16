@@ -1,5 +1,4 @@
 ---
-author: Rowan MacConville
 title: "Review of Isaac Butt and Home Rule by David Thornley"
 layout: post
 categories: note review

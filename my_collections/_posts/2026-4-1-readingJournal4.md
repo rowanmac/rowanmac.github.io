@@ -1,5 +1,4 @@
 ---
-author: Rowan MacConville
 title: Reading Journal 4
 layout: post 
 categories: note readingJournal

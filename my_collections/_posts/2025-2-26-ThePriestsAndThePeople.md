@@ -1,5 +1,4 @@
 ---
-author: Rowan MacConville
 title: "The Priests and The People: Relationships and Identity in The Hanyang Mission 1921-1938"
 layout: post
 categories: essay

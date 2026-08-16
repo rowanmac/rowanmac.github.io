@@ -1,5 +1,5 @@
 ---
-author: Rowan MacConville
+
 title: Irish History Research Resource List
 layout: page
 categories: note list

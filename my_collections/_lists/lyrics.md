@@ -1,5 +1,5 @@
 ---
-author: Rowan MacConville
+
 title: Lyrics
 layout: page
 categories: note list

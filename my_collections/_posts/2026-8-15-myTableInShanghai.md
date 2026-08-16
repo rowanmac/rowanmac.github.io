@@ -1,5 +1,4 @@
 ---
-author: Rowan MacConville
 title: My Table in Shanghai
 layout: post 
 categories: note

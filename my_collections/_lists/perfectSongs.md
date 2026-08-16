@@ -1,5 +1,5 @@
 ---
-author: Rowan MacConville
+
 title: Perfect Songs
 layout: page
 categories: note list

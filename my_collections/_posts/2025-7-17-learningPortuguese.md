@@ -1,5 +1,4 @@
 ---
-author: Rowan MacConville
 title: "Learning Portuguese"
 layout: post
 categories: note
