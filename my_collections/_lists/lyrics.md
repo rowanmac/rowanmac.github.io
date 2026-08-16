@@ -50,4 +50,11 @@ categories: note list
 ><br>
 >Digits - Young Thug
 
+---
+
+>Do something pretty while you can,<br>
+>Don't be a fool<br>
+><br>
+>We Rule The School - Belle and Sebastian
+
 {% include commentTemplate.html %}
