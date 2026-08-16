@@ -1,11 +1,15 @@
 ---
 layout: page
 title: Notebooks
-permalink: /notebooks
+permalink: /notebooks/
 ---
+
+*Notes mostly organised into relevant cateogries (i.e notebooks). Written hastily on purpose. Contents proudly incomplete and sometimes incoherent. In other words, they're notes. You know what notes are like. No aplogies for shoddy spelling. Some apologies for shoddy contents.*
 
 * TOC
 {:toc}
+
+---
 
 # Misc
 ---

@@ -5,6 +5,10 @@ layout: page
 categories: note list
 ---
 
+*The best ones*
+
+---
+
 - Ceremony - New Order
 - Little Green - Joni Mitchell
 - Swinging Party - The Replacements

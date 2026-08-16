@@ -1,7 +1,11 @@
 ---
 layout: page
 title: Essays
-permalink: /essays
+permalink: /essays/
+---
+
+*Longer form essays. Mostly college work. Will be expanded.*
+
 ---
 
 <ul>

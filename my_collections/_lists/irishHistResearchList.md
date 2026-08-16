@@ -5,7 +5,7 @@ layout: page
 categories: note list
 ---
 
-A master list of resources for researching Irish history that I hope to update regularly. Still under construction.
+*A master list of resources for researching Irish history that I hope to update regularly. Still under construction.*
 
 Key:<br>
 ⭐️ = exceptionally high quality or essential resource.<br>

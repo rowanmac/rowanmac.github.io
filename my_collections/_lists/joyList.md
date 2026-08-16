@@ -5,6 +5,7 @@ layout: page
 categories: note list
 ---
 *A mostly unordered dump of different websites and online project that I find fun, interesting or useful (or all of the above). Skews toward history research but has a bit of everything.*
+
 * TOC
 {:toc}
 

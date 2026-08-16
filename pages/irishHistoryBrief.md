@@ -3,6 +3,11 @@ layout: page
 title: Irish History Brief
 permalink: /irishHistoryBrief/
 ---
+
+*This is the list of issues for my bibliographic project, The Irish History Brief which is also hosted as a [newsletter on Substack](https://irishhistorybrief.substack.com/). In late 2024 I was looking for up-to-date information about what was being published in Irish history and I discovered that there really wasn't any frequently updated database. Since then I have been keeping my own notes on what is published on a month-by-month basis.*
+
+---
+
 <ul>
 {% for post in site.posts %}
     {% if post.categories.first == "ihb" %}
@@ -12,9 +17,6 @@ permalink: /irishHistoryBrief/
     {% endif %}
 {% endfor %}
 </ul>
-
-# About
-This is the list of issues for my bibliographic project, The Irish History Brief which is also hosted as a [newsletter on Substack](https://irishhistorybrief.substack.com/). In late 2024 I was looking for up-to-date information about what was being published in Irish history and I discovered that there really wasn't any frequently updated database. Since then I have been keeping my own notes on what is published on a month-by-month basis.
 
 # Sourcing
 I get my data from a wide base of sources: journal and publisher email alerts, RSS feeds, the Book Ireland Magazine First Flush section, quarterly publishing catalogues, social media etc. If you can think of any good sources of information that would increase coverage or notice any missed items please do let me know by emailing irishhistorybrief@gmail.com. I don't claim to have comprehensive coverage and it is hard to judge how much I miss every month but I try to amend missed items as soon as I become aware of them.
