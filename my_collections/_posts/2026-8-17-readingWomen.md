@@ -10,3 +10,4 @@ Of the [232 books I have read](/lists/books.html) in my own time since 2019, 96 
 ---
 
 {% include commentTemplate.md %}
+ 
