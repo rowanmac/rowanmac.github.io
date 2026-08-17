@@ -251,6 +251,4 @@ categories: note list
 | *19* | The Impossible City | Karen Cheung | English | | 🇭🇰 |
 | *20* | The Count of Monte Cristo | Alexandre Dumas | French | Robin Buss | 🇫🇷 |
 
----
-
 {% include commentTemplate.md %}
