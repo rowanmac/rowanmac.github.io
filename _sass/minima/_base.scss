@@ -176,6 +176,10 @@ h1 {
   @include relative-font-size(1.75);
 }
 
+h1.post-title {
+  text-align: center;
+}
+
 h2 {
   font-size: $base-font-size*1.5 !important;
 }
