@@ -5,7 +5,7 @@ layout: page
 categories: note list
 ---
 
-*A list of albums I've listened through in full, with my favourite song.*
+<div class="pageIntro">A list of albums I've listened through in full, with my favourite song.</div>
 
 ---
 

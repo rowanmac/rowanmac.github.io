@@ -4,7 +4,7 @@ title: Essays
 permalink: /essays/
 ---
 
-*Longer form essays. Mostly college work. Will be expanded.*
+<div class="pageIntro">Longer form essays. Mostly college work. Will be expanded.</div>
 
 ---
 

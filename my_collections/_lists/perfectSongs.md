@@ -5,7 +5,7 @@ layout: page
 categories: note list
 ---
 
-*The best ones*
+<div class="pageIntro">The best ones</div>
 
 ---
 

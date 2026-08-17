@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<div class="siteIntro">
+<div class="pageIntro">
     Welcome to my blog. It's an open notebook of scraps, lists, jottings and other half-finished things. I'm currently interested in researching Irish history and learning Mandarin. Why not take a flick through my <a href="/notebooks/">notebooks</a>, read some <a href="/essays/">essays</a>, or check out my <a href="/irishHistoryBrief/">monthly bibliography of newly published works of Irish history</a>.
 </div>
 

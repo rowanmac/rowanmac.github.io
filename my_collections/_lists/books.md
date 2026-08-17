@@ -5,7 +5,7 @@ layout: page
 categories: note list
 ---
 
-*Books read for leisure and finished.*
+<div class="pageIntro">Books read for leisure and finished.<div>
 
 ---
 

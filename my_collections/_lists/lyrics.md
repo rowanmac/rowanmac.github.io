@@ -4,7 +4,8 @@ title: Lyrics
 layout: page
 categories: note list
 ---
-*Lines from songs. Emotional, funny, curious etc etc.*
+
+<div class="pageIntro">Lines from songs. Emotional, funny, curious etc etc.</div>
 
 ---
 >And you know you gotta go<br>

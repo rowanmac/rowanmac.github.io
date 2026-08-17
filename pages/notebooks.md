@@ -4,7 +4,9 @@ title: Notebooks
 permalink: /notebooks/
 ---
 
-*Notes mostly organised into relevant cateogries (i.e notebooks). Written hastily on purpose. Contents proudly incomplete and sometimes incoherent. In other words, they're notes. You know what notes are like. No aplogies for shoddy spelling. Some apologies for shoddy contents.*
+<div class="pageIntro">Notes mostly organised into relevant cateogries (i.e notebooks). Written hastily on purpose. Contents proudly incomplete and sometimes incoherent. In other words, they're notes. You know what notes are like. No aplogies for shoddy spelling. Some apologies for shoddy contents.</div>
+
+---
 
 * TOC
 {:toc}
