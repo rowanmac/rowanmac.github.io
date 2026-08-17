@@ -194,8 +194,6 @@ h2 {
 
 h1.ihbSectionHeader {
   background-color: $background-color;
-  padding-bottom: $spacing-unit/3;
-  border-bottom: 1px solid $background-accent-color;
 }
 
 /**
@@ -352,6 +350,12 @@ pre {
 /**
 * Paragraphs
 */
+p.post-meta {
+  text-align: center;
+  color: black;
+  justify-content: center;
+}
+
 .post-content {
   counter-reset: pcounter;
   position: relative;
