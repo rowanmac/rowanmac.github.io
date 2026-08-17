@@ -9,6 +9,11 @@ date: 2025-2-26
 
 ---
 
+* TOC
+{:toc}
+
+---
+
 The Catholic Association For International Relations (CAIR), an Irish organisation founded in 1938, has been given no historical consideration beyond the footnote or the paragraph. This could not be called any great oversight. It left little imprint on Irish society nor an obvious body of archival material for historians to pore over. Primary evidence is scant and scattered across archives or embedded in newspapers. This essay brings together this material, comprising a small number of leaflets, pamphlets, books, lectures, letters and newspaper articles, and sketches the history of the CAIR starting with its first president Fr. Stephen Brown's early writings on international thought and his involvement in post World War I European Catholic organisations. Then the circumstances of the CAIR's foundation are outlined along with a discussion of it aims and philosophy based on pamphlets and printed lecture material. From there this essay charts the fortunes of the CAIR in a rough chronology using newspaper articles beginning with its activities and difficulties during the Emergency and ending with its seeming dissolution in the early 1960s. The scope of this essay is tightly bound by the available sources. More consideration is given to the early years of the organisation than its activities in the 1950s simply due to the lack of material for the latter period. So too are many of the conclusions speculative in the absence of internal reports or correspondences to confirm the organisation's motives. Attempts to connect the CAIR to its wider Irish context are similarly tentative. The primary aim of this essay is to outline a basic intellectual and organisational history of this previously unstudied topic while considering future avenues of research and to that end chronology and basic narrative have been prioritised.
 
 The prehistory of the CAIR begins with with Brown who was writing on national questions in the Jesuit journal *Studies* as early as 1912.[^1] In the following decade his focus shifted from the national to the international and in 1923 he published another essay in *Studies* titled *An International Enquiry concerning Nationalism* in which he summarised French speaking Catholic thinkers' responses to nationalism.[^2] The basic premise of these writings was that nationalism was "a legitimate and necessary force\" but needed to be tempered and controlled by religion.[^3] A concise exposition of the correct form of international relations was given by Maurice Blondel who stated "the mistake is to think that nations in order to maintain their nationhood must be so many egoisms in a state of constant hostility to one another\".[^4] Brown's work translating and publishing Catholic thought from continental Europe was part of his larger effort to intellectually integrate Irish Catholicism into the continental mainstream, later a fundamental goal of the CAIR.[^5]
@@ -55,71 +60,73 @@ This was an initial foray into the study of the CAIR. One blind spot of this stu
 
 ## UCD Archives
 
-Papers of Desmond (1888--1947) and Mabel (1884--1957) FitzGerald,
+- Papers of Desmond (1888--1947) and Mabel (1884--1957) FitzGerald,
 
-Papers of John Marcus O'Sullivan (1881--1948).
+- Papers of John Marcus O'Sullivan (1881--1948).
 
 ## Irish Jesuit Archives
 
-IE IJA ADMN/3/59 Letters to the Irish Provincial on various matters,
+- IE IJA ADMN/3/59 Letters to the Irish Provincial on various matters,
 
-Fr. Stephen J. Brown Papers.
+- Fr. Stephen J. Brown Papers.
 
 ## National Library of Ireland
 
-Delos, Joseph T. *International Relations from a Catholic Standpoint.* Browne and Nolan, Ltd., 1932.
+- Delos, Joseph T. *International Relations from a Catholic Standpoint.* Browne and Nolan, Ltd., 1932.
 
-O'Sullivan, John Marcus.*"Some Elements of European Disorder" Lecture Delivered at University College* Catholic Association for International Relations, 1939.
+- O'Sullivan, John Marcus.*"Some Elements of European Disorder" Lecture Delivered at University College* Catholic Association for International Relations, 1939.
 
 ## Dáil Éireann Debates Online
 
-Committee on Finance.-Adjournment Debate---International Affairs, Thursday, 9 Nov 1944 Vol. 95 No. 6.
+- Committee on Finance.-Adjournment Debate---International Affairs, Thursday, 9 Nov 1944 Vol. 95 No. 6.
 
 ## Irish Newspaper Archives
 
-Evening Herald
+- Evening Herald
 
-Irish Independent
+- Irish Independent
 
-Irish Press
+- Irish Press
 
-Irish Times
+- Irish Times
 
 ---
 
 # Bibliography
 
-Brown, Stephen J. “An International Enquiry Concerning Nationalism.” *Studies: An Irish Quarterly Review* 12, no. 46 (1923): 306–313.
+- Brown, Stephen J. “An International Enquiry Concerning Nationalism.” *Studies: An Irish Quarterly Review* 12, no. 46 (1923): 306–313.
 
-----. “Catholic Internationalism.” *Studies: An Irish Quarterly Review* 14, no. 55 (1925): 476–479.
+- ---. “Catholic Internationalism.” *Studies: An Irish Quarterly Review* 14, no. 55 (1925): 476–479.
 
-----. “Catholics and Peace: A Conference in Dublin, August 1937.” *Studies: An Irish Quarterly Review* 26, no. 103 (1937): 489–494.
+- ---. “Catholics and Peace: A Conference in Dublin, August 1937.” *Studies: An Irish Quarterly Review* 26, no. 103 (1937): 489–494.
 
-----. “The Question of Irish Nationality.” Studies: An Irish Quarterly Review 1, no. 4 (1912): 634–654.
+- ---. “The Question of Irish Nationality.” Studies: An Irish Quarterly Review 1, no. 4 (1912): 634–654.
 
-----. “What Is a Nation?” *Studies: An Irish Quarterly Review* 1, no. 3 (1912): 496–510.
+- ---. “What Is a Nation?” *Studies: An Irish Quarterly Review* 1, no. 3 (1912): 496–510.
 
-----. “What of the League of Nations?” *The Irish Monthly* 57, no. 670 (1929): 205–210.
+- ---. “What of the League of Nations?” *The Irish Monthly* 57, no. 670 (1929): 205–210.
 
-Curtis, Maurice. *A Challenge to Democracy: Militant Catholicism in Modern Ireland.* Dublin: History Press, 2010.
+- Curtis, Maurice. *A Challenge to Democracy: Militant Catholicism in Modern Ireland.* Dublin: History Press, 2010.
 
-Delos, Joseph T. *International Relations from a Catholic Standpoint : Translated from the French [La Soci´et´e Internationale].* N.p.: Browne and Nolan, Ltd., 1932.
+- Delos, Joseph T. *International Relations from a Catholic Standpoint : Translated from the French [La Soci´et´e Internationale].* N.p.: Browne and Nolan, Ltd., 1932.
 
-Dutton, Kenneth R. “James Johnston Auchmuty (1909–1981).” In *Australian Dictionary of Biography.* 18 vols. Canberra: National Centre of Biography, Australian National University, n.d.
+- Dutton, Kenneth R. “James Johnston Auchmuty (1909–1981).” In *Australian Dictionary of Biography.* 18 vols. Canberra: National Centre of Biography, Australian National University, n.d.
 
-Fanning, Bryan. *Irish Adventures in Nation-Building.* Manchester, Manchester University Press, 2016.
+- Fanning, Bryan. *Irish Adventures in Nation-Building.* Manchester, Manchester University Press, 2016.
 
-Keogh, Dermot. *The Vatican, the Bishops, and Irish Politics, 1919-39.* Cambridge University Press, 1986.
+- Keogh, Dermot. *The Vatican, the Bishops, and Irish Politics, 1919-39.* Cambridge University Press, 1986.
 
-O’Sullivan, John Marcus. *”Some Elements of European Disorder” : Lecture Delivered at University College, Dublin, February 24, 1939.* Catholic Association for International Relations, 1939.
+- O’Sullivan, John Marcus. *”Some Elements of European Disorder” : Lecture Delivered at University College, Dublin, February 24, 1939.* Catholic Association for International Relations, 1939.
 
-Whyte, John Henry. *Church and State in Modern Ireland, 1923-1979.* Dublin. Barnes & Noble Books, 1980.
+- Whyte, John Henry. *Church and State in Modern Ireland, 1923-1979.* Dublin. Barnes & Noble Books, 1980.
+
+---
+
+{% include commentTemplate.md %}
 
 ---
 
-{% include commentTemplate.html %}
-
----
+# Footnotes
 
 [^1]: Stephen J. Brown, “The Question of Irish Nationality,” Studies: An Irish Quarterly Review 1, no. 4 (1912): 634–54; Stephen J. Brown, “What Is a Nation?,” Studies: An Irish Quarterly Review 1, no. 3 (1912): 496–510.
 

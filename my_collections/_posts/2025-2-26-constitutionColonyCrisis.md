@@ -8,6 +8,12 @@ date: 2025-2-26
 <div class="pageIntro">This is a research essay written for an undergraduate history class and that shows in analysis and style. This is the so far unedited version which I hope to edit in the future. A PDF version can be found <a href="/assets/files/constitutionColonyCrisis.pdf">here</a>.</div>
 
 ---
+
+* TOC
+{:toc}
+
+---
+
 In 1833 Irish Protestants found themselves unmoored. The ascendency which had defined their role for over a century had begun its long decline. The question of what Ireland was, is and ought to be, was on their minds as was the mounting challenge of Catholic political participation. This essay assess the constitutional thought of Irish Protestants as represented in the *Dublin University Magazine*, a literature and politics magazine which represented the Protestant Irish Tory set. Considered first is the social and political context of 1830s Ireland as well as the history of the magazine itself and its general constitutional positions. This essay then hones in on two moments in the *DUM*'s coverage which exemplify key aspects of its constitutional thought. A study of political coverage from the first two years of the magazine reveals how Irish Toryism tried to reassert itself in the aftermath of two political blows, namely Catholic emancipation and the 1832 reform act. These underline the magazine's fundamental thinking regarding the Act of Union which was naturally the dominant constitutional issue. Addressed second are a series of articles from 1839 on the colonies and empire which reveal how Irish Tories situated Ireland within the empire and what analogies they drew from abroad regarding their constitutional status.
 
 The political events of the late 1820s and early 1830s had dealt a grievous political wound to the Protestant ascendancy, one whose implications would play out over the coming century as the power and prestige of the Anglo-Irish declined. 'Grievous wound' is not poetic license. It is in line with the *DUM*'s own descriptions. One 1837 article described emancipation as "the first great wound given to Protestantism in Ireland\".[^1] The 1829 Catholic emancipation and 1832 reform act, although not immediately, unleashed the demographic force of Catholic Ireland. The gate of participation once opened was not to be closed again. The exclusive franchise required for ascendancy was beginning to crumble.[^2] It was against this backdrop that the *DUM* was founded. In this respect it can be seen as the first sortie in a doomed rearguard action which lasted till 1921. The topics covered by the *DUM* reflect this purpose. Daniel O'Connell and the repealers are a frequent target of opprobrium. Not surprising considering that the theatrical Catholic nationalism of O'Connell was all Protestant fears of the demographic threat made manifest in one politician.[^3] There is an almost millenarian aspect to the editorial line in these early years. The Irish Protestant is seen to be the first domino in a long chain which ends quite dramatically in the fall of Western civilisation.[^4] Although the hysteric tone lands strange on the modern ear, knowing the British empire was just beginning to reach the heights of its 19th century domination, it needs to be stressed that the empire as *DUM* saw it was in a state of constant and potentially lethal peril and their coverage takes on the immediacy of this view. Their constitutional thought tends to take an emotional tack rather than sober consideration of the issue. It would be unfair, however, to chalk this entirely up to Protestant desperation. Repeal was the instigator of most of the *DUM*'s consideration of constitutional questions and O'Connell's deliberate unwillingness to give repeal a concrete constitutional form may well have necessitated that the *DUM* respond in terms of sentiment rather than dry constitutionalism.[^5] There was, after all, no easy foothold from which to criticise repeal as a constitutional idea beyond attacking its lack of a specific constitutional form. It was nevertheless a feeling of dissolution and uncertainty which motived the constitutional thought of the *DUM*.
@@ -66,33 +72,35 @@ It is tricky to fit the constitutional thought of the *DUM* in the 1830s into th
 
 ---
 
-{% include commentTemplate.html %}
+{% include commentTemplate.md %}
 
 ---
 
 # Bibliography
 
-Butt, Isaac, and Home Government Association. *Irish Federalism : Its Meaning, Its Objects, and Its Hopes.* Dublin: John Falconer, 1870.
+- Butt, Isaac, and Home Government Association. *Irish Federalism : Its Meaning, Its Objects, and Its Hopes.* Dublin: John Falconer, 1870.
 
-Conrad, Margaret. *A Concise History of Canada.* Cambridge: Cambridge University Press, 2012.
+- Conrad, Margaret. *A Concise History of Canada.* Cambridge: Cambridge University Press, 2012.
 
-Geoghegan, Patrick M. “The Impact of O’Connell, 1815–1850.” Edited by James Kelly. In *The Cambridge History of Ireland: Volume 3: 1730–1880.* Cambridge: Cambridge University Press, 2018.
+- Geoghegan, Patrick M. “The Impact of O’Connell, 1815–1850.” Edited by James Kelly. In *The Cambridge History of Ireland: Volume 3: 1730–1880.* Cambridge: Cambridge University Press, 2018.
 
-Hall, Wayne E. *Dialogues in the Margin : A Study of the Dublin University Magazine.* Washington, D.C. Catholic University of America Press, 1999.
+- Hall, Wayne E. *Dialogues in the Margin : A Study of the Dublin University Magazine.* Washington, D.C. Catholic University of America Press, 1999.
 
----. “The ”Dublin University Magazine” and Isaac Butt, 1834-1838.” *Victorian Periodicals Review* 20, no. 2 (1987): 43–56.
+- ---. “The ”Dublin University Magazine” and Isaac Butt, 1834-1838.” *Victorian Periodicals Review* 20, no. 2 (1987): 43–56.
 
-Jackson, Alvin. *Ireland, 1798-1998 : Politics and War.* Oxford, UK: Blackwell Publishers, 1999.
+- Jackson, Alvin. *Ireland, 1798-1998 : Politics and War.* Oxford, UK: Blackwell Publishers, 1999.
 
-Spence, Joseph. “The Philosophy of Irish Toryism, 1833-52: A Study of Reactions to Liberal Reformism in Ireland in the Generation between the First Reform Act and the Famine.” PhD diss., Birkbeck (University of London), 1991.
+- Spence, Joseph. “The Philosophy of Irish Toryism, 1833-52: A Study of Reactions to Liberal Reformism in Ireland in the Generation between the First Reform Act and the Famine.” PhD diss., Birkbeck (University of London), 1991.
 
-*The Dublin University Magazine, a Literary and Political Journal.* Dublin, W. Curry, jun., and co.
+- *The Dublin University Magazine, a Literary and Political Journal.* Dublin, W. Curry, jun., and co.
 
-Tilley, Elizabeth. The National Journal: The Dublin University Magazine (1833–1877). In *The Periodical Press in Nineteenth-Century Ireland*, 63–90. Cham: Springer International Publishing, 2020.
+- Tilley, Elizabeth. The National Journal: The Dublin University Magazine (1833–1877). In *The Periodical Press in Nineteenth-Century Ireland*, 63–90. Cham: Springer International Publishing, 2020.
 
-Ward, Alan J. *The Irish Constitutional Tradition: Responsible Government and Modern Ireland; 1782 - 1992.* Washington, D.C: The Catholic Univ. of America Press, 1994.
+- Ward, Alan J. *The Irish Constitutional Tradition: Responsible Government and Modern Ireland; 1782 - 1992.* Washington, D.C: The Catholic Univ. of America Press, 1994.
 
 ---
+
+# Footnotes 
 
 [^1]: The Dublin University Magazine, a Literary and Political Journal. (Dublin, W. Curry, jun., and co.), Jan. 1837, 124.
 

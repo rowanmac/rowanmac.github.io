@@ -253,4 +253,4 @@ categories: note list
 
 ---
 
-{% include commentTemplate.html %}
+{% include commentTemplate.md %}

@@ -29,7 +29,7 @@ In the conclusion, Thornley uses the verb "canalise" twice. "the home rule party
 
 ---
 
-{% include commentTemplate.html %}
+{% include commentTemplate.md %}
 
 ---
 

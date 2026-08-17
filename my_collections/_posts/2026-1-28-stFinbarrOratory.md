@@ -15,7 +15,7 @@ I wonder who these religious pictures were being sold to and how they were being
 
 ---
 
-{% include commentTemplate.html %}
+{% include commentTemplate.md %}
 
 ---
 

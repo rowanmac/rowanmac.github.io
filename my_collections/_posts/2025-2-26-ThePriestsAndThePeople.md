@@ -9,6 +9,11 @@ date: 2025-2-26
 
 ---
 
+* TOC
+{:toc}
+
+---
+
 # Acknowledgements
 I am thankful for the support of Dedong Wei 魏德东, Professor of Religious Studies at Renmin university, who helped to organise a research trip to Wuhan. The generosity of spirit of the Catholics I met during my two days there was felt deeply, especially that of Fr. Don Andrea 张安德, and I hope this work is worthy of the kindness they showed me. I would be remiss if I did not single out Hanbo Zhang 张涵博 for special thanks, without her generous support the visit would not have been half as worthwhile (nor would I have known how to book the train tickets). I would like also to thank Barbara Scally for guiding me through the process of using an archive for the first time and for all the cake and tea offered. Many thanks to Anne Fawsitt, Dara MacConville and Jiahui Xiong 熊佳慧 for their proofreading and insightful feedback.
 
@@ -22,7 +27,7 @@ Chinese Catholics did not feature in the higher levels of the mission's organisa
 Chapter 1 is stage setting to give the reader essential context. It consists of two sections: the first an account of the founding of the Columbans, the second a sketch of central China in the early 1920s when the Columbans arrived. Both are largely syntheses of secondary sources. Chapter 2 is based on primary source material and is divided into two loosely chronological sections, each covering a theme in the relationship of Columban missionaries to Chinese people. The first is an account of how the routine practice of mission conditioned interactions and relationships and deals mostly with the early years of the mission 1920-1926 . The second examines how violence altered the practice of mission between 1926-1931. Chapter 3 examines the theme of transactions, spiritual and temporal, in mission work and also explores how the Columbans approached a large increase in conversions after 1931. This dissertation is not a true chronology of the Columban mission in the Hanyang territory, and no section stays completely within these rough boundaries. The informed reader will further notice that some significant events in the history of the mission are given short shrift. Those looking for a general history of the Hanyang diocese should look to chapter 3 of Neil Collin's *The Splendid Cause*.[^3] What this dissertation seeks to elucidate is the complexity of relationships that mission work in republican China created, to highlight how two groups, Columban missionaries and the people of who lived near Hanyang, navigated a tumultuous period.
 
 # Chapter 1 Beginnings
-# Ireland
+## Ireland
 
 To understand the character of the mission's relationship to the Chinese it is first necessary to explain how the Columbans began and how their outlook and methods were shaped by these beginnings. In the 19th Century, Irish priests had fanned across the globe but they largely did so in the wake of the British empire and following the diaspora.[^4] Outside of these excursions, Irish Catholic clergy were largely ambivalent toward mission.[^5] The expansive evangelical missions of the French had no modern antecedent in Irish Catholicism. Sentiment toward mission among the Irish clergy shifted, however, as two French missionary societies, *the Congregation du Saint Esprit (C.S.Sp.)* and the *Missions Africaines de Lyons (S.M.A*) established an educational presence in Ireland in the latter half of the century.[^6] Their presence helped to familiarise Irish Catholics with the figure of the missionary through their public appeals for support which focused on the few Irishmen working in their societies.[^7]
 
@@ -34,7 +39,7 @@ As a student in Maynooth, Edward Galvin had his interest in China sparked after 
 
 By 1918, the mission had opened a college in Dalgan Park, Galway, where an institutional culture drawing from Irish nationalism flourished. Students and teachers lived in common and conceived of themselves in terms of Irish national heroes and legendary figures.[^13] Mission literature in this period, produced by the Columbans and other organisations, used military metaphors to make mission appealing to would-be recruits and supporters. Mission was made akin to military adventure. The relationship between missionary and non-Christian was that between conqueror and conquered, non-Catholic Christians were an adversary to be defeated. As Frank Hogan has noted, this literature drew from popular novels about military matters aimed at men and channelled latent desires for military-esque adventure through spiritual conquests.[^14]
 
-# China
+## China
 
 In 1920, the budding mission was assigned Hanyang, a city in the central province of Hubei which sits on the confluence of the Yangtze and the Han rivers, and its environs. To Hanyang's west, lay the bulk of the mission territory, an area about the size of Ulster, a plain crossed with rivers and dotted with lakes, supporting a population of 5 million, a scant 15,000 of whom were Catholics, many from communities centuries old. Hubei sits in the middle of China, a province defined by its relationship to water. Broad, navigable and flowing through highly populated areas, the Yangtze had connected Hubei to large trading networks since settlement began in the region. Hubei was an ideal foothold in central China for foreign incursion, centrally placed, well connected and easy to reach from Shanghai, one of the foreign powers' most secure bases in China.
 
@@ -49,7 +54,7 @@ Politically, socially and militarily, the period during which the Columbans were
 For the foreigner enclosed in one of Hankou's concessions, this procession of violent and uncontrollable events was only the tragic circumstances of a land in which they nominally resided, but from whose conditions they were sheltered. Mission work could not give the Columbans the same measure of protection. Missionaries, for the most part, lived, struggled and died out in the towns and villages among the people. It was here they would define their relationship to the people.
 
 # Chapter 2 Practice & Violence
-# Practice
+## Practice
 
 The years 1921-26 were characterised by a steady expansion of church infrastructure, although conversion was underwhelming. Ideally, priests were assigned in groups of two to a parish. The parish itself comprised of a town which the priests would call home and outlying mission stations which were visited periodically. Property was bought or rented for multi-purpose use as schools, chapels and homes for priests. From these centres priests travelled, providing basic spiritual services to outlying villages and establishing schools and chapels. Mass was not a weekly affair outside of the city and depended entirely on the capacity of a priest to travel.
 
@@ -75,7 +80,7 @@ Women, nonetheless, were necessary for mission work. Galvin in a 1925 report wro
 
 Part of the process of conversion was the renunciation of non-Christian religious objects. When a family became catechumens they customarily relinquished these items to their priest, a practice which represented a commitment to the new faith but also salted the earth making it harder to return to old practices in the absence of a priest. One missionary had in 1923 amassed of a collection of over religious 15 items which he shipped to Ireland.[^43] Another reported that he had wanted to send the "pagan tablets\" home but did not want to deprive the new converts of the pleasure of smashing them and throwing them onto a bonfire.[^44] Missionaries were keenly aware of the social repercussions of conversion. In night schools they taught their catechumens set phrases and dialogues to answer common questions and jibes given to the new convert by their peers; "to think that you in your old age should desert the religion of your ancestors" the convert might be asked. They were instructed to explain that "the ancient Chinese adored only one God and that idolatry was of more recent origin\".[^45] The truth of these statements is less important than their implication. Converts created small ruptures in the social fabric of their locality, points of tension that were seen as productive by missionaries as it was assumed that Christians could themselves create a pressure on their non-Christian peers in the absence of a priest.
 
-# Violence
+## Violence
 
 The work of the Columbans was disrupted in the late 1920s by a succession of political and military upheavals. First, anti-foreign and anti-Christian activity was ignited in 1925 after a massacre of civilians by the British in Shanghai. Then the Northern Expedition swept through Hubei, heightening nationalist sentiments and making Wuhan the capital of a short lived left-wing government and bringing fiercely patriotic soldiers into the territory. In 1927, an outrage in Hankou's British concession and the purging of the Communists from the government brought a new height of violence to Hanyang and its environs which had now become an active area of civil war.
 
@@ -147,13 +152,13 @@ In the 1980s, China opened up to foreign travellers and since then some Columban
 
 ---
 
-{% include commentTemplate.html %}
+{% include commentTemplate.md %}
 
 ---
 
 # Primary Sources
 
-# Columban Central Archive
+## Columban Central Archive
 
 CN1/37 “Correspondence Re Finance,” February 23–December 22, 1922.
 
@@ -226,6 +231,8 @@ Mungello, D. E. *The Catholic Invasion of China: Remaking Chinese Christianity.*
 Van de Ven, Hans J. *War and Nationalism in China, 1925-1945.* London ; New York: Routledge, 2003.
 
 ---
+
+# Footnotes
 
 [^1]: “CN1/147 Galvin Letters and Papers Regarding China” (June 25, 1912). This is a liberal paraphrase for effect.
 

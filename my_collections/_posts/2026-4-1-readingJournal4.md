@@ -15,4 +15,4 @@ Since my last update I read through most of Annie Ernaux's bibliography, brillia
 
 ---
 
-{% include commentTemplate.html %}
+{% include commentTemplate.md %}

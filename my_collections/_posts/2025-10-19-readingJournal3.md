@@ -11,4 +11,4 @@ Chinese reading has been haphazard. Went to nearby bookshop and brought a four v
 
 ---
 
-{% include commentTemplate.html %}
+{% include commentTemplate.md %}

@@ -11,4 +11,4 @@ Where I sat at that time.
 
 ---
 
-{% include commentTemplate.html %}
+{% include commentTemplate.md %}

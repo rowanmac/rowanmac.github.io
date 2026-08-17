@@ -9,4 +9,4 @@ I've been listening to a lot of Brazilian music recently and this has sparked a 
 
 ---
 
-{% include commentTemplate.html %}
+{% include commentTemplate.md %}

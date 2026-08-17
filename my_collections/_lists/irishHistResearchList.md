@@ -183,4 +183,4 @@ Key:<br>
 
 ---
 
-{% include commentTemplate.html %}
+{% include commentTemplate.md %}

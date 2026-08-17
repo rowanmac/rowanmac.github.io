@@ -11,4 +11,4 @@ Have tried not to start anything new before I fly to Shanghai in a few days. But
 
 ---
 
-{% include commentTemplate.html %}
+{% include commentTemplate.md %}

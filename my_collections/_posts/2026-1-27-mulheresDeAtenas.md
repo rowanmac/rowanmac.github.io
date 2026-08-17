@@ -76,4 +76,4 @@ Here are the lyrics of his [*Mulheres de Atenas*](https://www.youtube.com/watch?
 
 ---
 
-{% include commentTemplate.html %}
+{% include commentTemplate.md %}

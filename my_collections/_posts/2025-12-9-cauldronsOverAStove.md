@@ -16,4 +16,4 @@ Heartwarming for the winter.
 
 ---
 
-{% include commentTemplate.html %}
+{% include commentTemplate.md %}

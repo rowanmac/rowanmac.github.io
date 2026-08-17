@@ -9,4 +9,4 @@ date: 2026-1-13
 
 ---
 
-{% include commentTemplate.html %}
+{% include commentTemplate.md %}

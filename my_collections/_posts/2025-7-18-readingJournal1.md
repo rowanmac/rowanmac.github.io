@@ -15,4 +15,4 @@ As far as Chinese reading, I started *一个人的圣经 yi ge ren de shengjing*
 
 ---
 
-{% include commentTemplate.html %}
+{% include commentTemplate.md %}

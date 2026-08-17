@@ -11,4 +11,4 @@ A brief and lovely documentary on the natural beauty of Sligo from 1965 by Patri
 
 ---
 
-{% include commentTemplate.html %}
+{% include commentTemplate.md %}
