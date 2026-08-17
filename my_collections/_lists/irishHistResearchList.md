@@ -181,4 +181,6 @@ Key:<br>
 - [Century Ireland](https://www.rte.ie/centuryireland/) Website produced by RTE for the decade of centenaries, with many articles and videos relating to the revolutionary period.
 - [Stories of the Four Courts](https://ruthcannon.com/) Wonderful Irish legal history blog.
 
+---
+
 {% include commentTemplate.html %}

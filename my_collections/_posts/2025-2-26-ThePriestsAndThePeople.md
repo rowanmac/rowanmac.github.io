@@ -145,7 +145,11 @@ The relationship of Chinese people to the Columban missionaries was complex. Man
 
 In the 1980s, China opened up to foreign travellers and since then some Columbans have returned to Hanyang, not as missionaries but as visitors. Frs. Tom Glennon and Larry Barnett visited Wuhan in 1986. Here they toured the places where the first missionaries of their order had worked some 60 years before. They took a bus to the countryside to look for an old church. As they searched, they met an old woman who told them that she remembered the priest who had worked there. "He spoke terrible Chinese\", she said, "we could hardly understand him!\".[^115]
 
+---
+
 {% include commentTemplate.html %}
+
+---
 
 # Primary Sources
 

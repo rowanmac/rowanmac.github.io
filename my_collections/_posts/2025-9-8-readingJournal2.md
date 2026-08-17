@@ -9,4 +9,6 @@ Reading much the same as I did last entry. Finished *Three Men in a Boat*, *Born
 
 Have tried not to start anything new before I fly to Shanghai in a few days. But could not help myself, and bought a nice edition of Isaiah Berlin's *The Hedgehog and the Fox*, read half of it, and will try to read the other half on my last visit home. Have also started reading Zhāng Jié's 张洁 *Leaden Wings 沉重的翅膀* in Chinese using the Pleco reader which has been a surprisingly smooth experience. My Chinese reading has improved even if not much else has.
 
+---
+
 {% include commentTemplate.html %}

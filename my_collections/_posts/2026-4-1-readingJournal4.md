@@ -13,4 +13,6 @@ Chinese reading has been progressing well. I can't say smoothly. The way is full
 
 Since my last update I read through most of Annie Ernaux's bibliography, brilliant, I want to copy her style. Read _The Ice Palace_ by Tarjei Vesaas, brilliant as well, and various other assorted things, including Hesse's _Steppenwolf_ recommended to me by a friend, which was nothing like I expected it to be, and far funnier than the _Glass Bead Game_ which neither I nor anybody I know has ever been able to finish.
 
+---
+
 {% include commentTemplate.html %}

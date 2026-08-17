@@ -9,4 +9,6 @@ Reading has been sporadic since I got to Shanghai. Have stalled almost completel
 
 Chinese reading has been haphazard. Went to nearby bookshop and brought a four volume set of Lin Huiyin's 林徽因 works and Yu Hua's 余华 Chronicle of a blood merchant 许三观卖血记 which I have been reading during down-times at my desk in the teacher's office.
 
+---
+
 {% include commentTemplate.html %}

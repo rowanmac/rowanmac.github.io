@@ -94,4 +94,6 @@ categories: note list
 - [WikiShootMe!](https://wikishootme.toolforge.org) Shows a map of locations without pictures on their Wikipedia page for photographers to take a picture of and upload to Wikimedia.
 - [What Dan Read](https://what-dan-read.com/) A site dedicated to the memory of Dan Pelzer and the many many books he read.
 
+---
+
 {% include commentTemplate.html %}

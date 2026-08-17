@@ -13,6 +13,8 @@ A picture from the NLI collection, part of a series of photographs of St. Finbar
 
 I wonder who these religious pictures were being sold to and how they were being displayed.
 
+---
+
 {% include commentTemplate.html %}
 
 ---

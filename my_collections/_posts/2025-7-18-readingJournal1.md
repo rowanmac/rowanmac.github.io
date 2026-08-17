@@ -13,4 +13,6 @@ The big undertaking I have embarked upon in the last couple weeks is reading all
 
 As far as Chinese reading, I started *一个人的圣经 yi ge ren de shengjing* by 高行健 Gao Xingjian, on a friend's recommendation, but haven't had time to make much headway in it yet.
 
+---
+
 {% include commentTemplate.html %}

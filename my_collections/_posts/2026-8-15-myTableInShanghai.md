@@ -9,4 +9,6 @@ date: 2026-8-15
 
 Where I sat at that time.
 
+---
+
 {% include commentTemplate.html %}

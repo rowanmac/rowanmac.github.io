@@ -281,11 +281,10 @@ article:has( div.bookPage), article:has( div.articlePage), article:has( div.revi
  */
 blockquote {
   color: $text-color;
-  border-left: 4px solid $background-accent-color;
-  padding-left: $spacing-unit / 2;
-  @include relative-font-size(1.125);
-  letter-spacing: -1px;
-  font-style: italic;
+  font-weight: $base-font-weight / 2;
+  padding-left: $spacing-unit * 1.5;
+  text-align: justify;
+  @include relative-font-size(0.9);
 
   > :last-child {
     margin-bottom: 0;
