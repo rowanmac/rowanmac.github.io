@@ -4,7 +4,7 @@ title: Irish History Brief
 permalink: /irishHistoryBrief/
 ---
 
-<div class="pageIntro">This is the list of issues for my bibliographic project, The Irish History Brief which is also hosted as a [newsletter on Substack](https://irishhistorybrief.substack.com/). In late 2024 I was looking for up-to-date information about what was being published in Irish history and I discovered that there really wasn't any frequently updated database. Since then I have been keeping my own notes on what is published on a month-by-month basis.</div>
+<div class="pageIntro">This is the list of issues for my bibliographic project, The Irish History Brief which is also hosted as a <a href="https://irishhistorybrief.substack.com/">newsletter on Substack</a>. In late 2024 I was looking for up-to-date information about what was being published in Irish history and I discovered that there really wasn't any frequently updated database. Since then I have been keeping my own notes on what is published on a month-by-month basis.</div>
 
 ---
 
