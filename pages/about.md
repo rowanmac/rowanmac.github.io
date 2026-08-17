@@ -4,8 +4,14 @@ title: About
 permalink: /about/
 ---
 
+<div class="pageIntro">About me and my life and the things I am doing. Interesting? No.</div>
+
+---
+
 * TOC
 {:toc}
+
+---
 
 # Status
 Rowan is:
