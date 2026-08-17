@@ -55,6 +55,12 @@ categories: note list
 >Do something pretty while you can,<br>
 >Don't be a fool<br>
 ><br>
->We Rule The School - Belle and Sebastian
+>We Rule the School - Belle and Sebastian
+
+---
+
+>If you're ever feeling blue then write another song about your dream of horses<br
+><br>
+>Judy and the Dream of Horses - Belle and Sebastian
 
 {% include commentTemplate.html %}
