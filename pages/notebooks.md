@@ -14,7 +14,6 @@ permalink: /notebooks/
 ---
 
 # Misc
----
 
 <ul>
 {% for post in site.posts reversed %}
@@ -25,7 +24,6 @@ permalink: /notebooks/
 </ul>
 
 # Lists
----
 
 <ul>
 {% for list in site.lists %}
@@ -34,7 +32,6 @@ permalink: /notebooks/
 </ul>
 
 # Reading Journals
----
 
 <ul>
 {% for post in site.posts reversed %}
@@ -45,7 +42,6 @@ permalink: /notebooks/
 </ul>
 
 # Reviews
----
 
 <ul>
 {% for post in site.posts %}
@@ -56,7 +52,6 @@ permalink: /notebooks/
 </ul>
 
 # 杂记
----
 
 <ul>
 {% for post in site.posts reversed %}
@@ -67,7 +62,6 @@ permalink: /notebooks/
 </ul>
 
 # 每日一词
----
 
 <ul>
 {% for post in site.posts reversed %}
@@ -78,7 +72,6 @@ permalink: /notebooks/
 </ul>
 
 # Source Commentaries
----
 
 <ul>
 {% for post in site.posts %}

@@ -18,6 +18,8 @@ permalink: /irishHistoryBrief/
 {% endfor %}
 </ul>
 
+---
+
 # Sourcing
 I get my data from a wide base of sources: journal and publisher email alerts, RSS feeds, the Book Ireland Magazine First Flush section, quarterly publishing catalogues, social media etc. If you can think of any good sources of information that would increase coverage or notice any missed items please do let me know by emailing irishhistorybrief@gmail.com. I don't claim to have comprehensive coverage and it is hard to judge how much I miss every month but I try to amend missed items as soon as I become aware of them.
 

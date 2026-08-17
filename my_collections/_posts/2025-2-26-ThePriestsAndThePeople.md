@@ -4,7 +4,8 @@ layout: post
 categories: essay
 date: 2025-2-26
 ---
-*A copy of my 2024 undergraduate dissertation adapted for web display. PDF version can be found [here](/assets/files/undergraduateDissertation.pdf). I would also like to commemorate the late Fr. Neil Collins, historian of the Columbans, whose research was the measured, erudite and clear sort that all historians aspire to. He was also a lovely man to chat with. I'm sorry we didn't speak more. May he rest in peace.*
+
+<div class="pageIntro">A copy of my 2024 undergraduate dissertation adapted for web display. PDF version can be found <a href="/assets/files/undergraduateDissertation.pdf">here</a>. I would also like to commemorate the late Fr. Neil Collins, historian of the Columbans, whose research was the measured, erudite and clear sort that all historians aspire to. He was also a lovely man to chat with. I'm sorry we didn't speak more. May he rest in peace.</div>
 
 ---
 # Acknowledgements
