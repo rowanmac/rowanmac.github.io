@@ -68,7 +68,6 @@ It is tricky to fit the constitutional thought of the *DUM* in the 1830s into th
 
 # Bibliography
 
---- 
 Butt, Isaac, and Home Government Association. *Irish Federalism : Its Meaning, Its Objects, and Its Hopes.* Dublin: John Falconer, 1870.
 
 Conrad, Margaret. *A Concise History of Canada.* Cambridge: Cambridge University Press, 2012.
@@ -90,6 +89,7 @@ Tilley, Elizabeth. The National Journal: The Dublin University Magazine (1833–
 Ward, Alan J. *The Irish Constitutional Tradition: Responsible Government and Modern Ireland; 1782 - 1992.* Washington, D.C: The Catholic Univ. of America Press, 1994.
 
 ---
+
 [^1]: The Dublin University Magazine, a Literary and Political Journal. (Dublin, W. Curry, jun., and co.), Jan. 1837, 124.
 
 [^2]: Wayne E. Hall, Dialogues in the Margin : A Study of the Dublin University Magazine (Washington, D.C.: Catholic University of America Press, 1999), 30.

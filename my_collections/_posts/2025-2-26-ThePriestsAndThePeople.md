@@ -8,6 +8,7 @@ date: 2025-2-26
 <div class="pageIntro">A copy of my 2024 undergraduate dissertation adapted for web display. PDF version can be found <a href="/assets/files/undergraduateDissertation.pdf">here</a>. I would also like to commemorate the late Fr. Neil Collins, historian of the Columbans, whose research was the measured, erudite and clear sort that all historians aspire to. He was also a lovely man to chat with. I'm sorry we didn't speak more. May he rest in peace.</div>
 
 ---
+
 # Acknowledgements
 I am thankful for the support of Dedong Wei 魏德东, Professor of Religious Studies at Renmin university, who helped to organise a research trip to Wuhan. The generosity of spirit of the Catholics I met during my two days there was felt deeply, especially that of Fr. Don Andrea 张安德, and I hope this work is worthy of the kindness they showed me. I would be remiss if I did not single out Hanbo Zhang 张涵博 for special thanks, without her generous support the visit would not have been half as worthwhile (nor would I have known how to book the train tickets). I would like also to thank Barbara Scally for guiding me through the process of using an archive for the first time and for all the cake and tea offered. Many thanks to Anne Fawsitt, Dara MacConville and Jiahui Xiong 熊佳慧 for their proofreading and insightful feedback.
 
@@ -107,6 +108,7 @@ The value of the laity as protection was understood and altered mission practice
 Relations between missionary and Catholic could not afford to be crudely managed if missionaries were to maintain those networks which made their precarious work safer. This is perhaps why one priest in 1928 made sure to tell a superior that he felt his assistant "was not as considerate as he should be in his treatment of the Chinese\".[^72] The arrested development of the mission during the late 1920s and the missionaries' latent sense of superiority was an opening for resentment toward Chinese people to build. A 1931 report on the conditions of the priests found that there was a small cohort of "two or three\" who "indulged in criticisms\" of "all things Chinese\".[^73] This, the report continued, was no cause for alarm as "no one takes them seriously\".[^74] It appears that such critical attitudes were accepted so long as they did not grow within the organisation or spill out beyond private conversions.
 
 # Chapter 3 Transactions
+
 On the 6th of August 1922, a deputation of men came to Hanyang from the nearby town of Tsai-Tien. They represented a Protestant community of 50 families and the purpose of their visit was to offer their, en masse, conversion to Catholicism. The Columbans knew things would not always be this easy but it was an encouraging sign.[^75] The towns and villages around Hanyang, it seemed, were ripe for harvest. But as they met this deputation in their Hanyang residence, itself a former Baptist mission hospital, they might have felt a seed of doubt; Why would 50 families renounce so quickly their former beliefs? Was it something about Catholicism which motivated them? Or was it simply that they heard a new mission was in the area and wanted to ascertain what it could offer them? Most missionaries were clear-eyed enough to understand that they were first-and-foremost seen by the people as a provider of services.
 
 Mission was, from the beginning, self-consciously posed as a transaction, schools for faith. From this conceit came many of the difficulties of mission work. Somehow from this transaction, true belief must be forged in the convert. Even if 50 families came to your doorstop and professed their faith, you could never be sure why they did it and what they meant by it. All you could do was uphold your end of the bargain. And this is what the Columbans immediately did when that Protestant delegation came. Tsai-Tien had neither chapel nor school, the mission responded by renting a house in the town and appointing a catechist. A year later they had opened two schools with a total of 70 pupils and had plans to open a dispensary.[^76] And yet soon the town lost its resident priest, as the mission did not have the personnel to justify keeping him there, and in the following years of anti-Christian agitation many of its converts renounced their faith under pressure.[^77] By the 1930s, however, missionaries were working in Tsai-Tien again and the Catholic community was recovering its lost strength. In the story of Tsai-Tien, a general pattern of mission work across the territory is visible. Mission expanded in the early years of the 1920s with an ambitious building program, contracted due to widespread violence and financial strain and then expanded again as the territory calmed.
@@ -134,6 +136,7 @@ Missionaries made do with what limited resources were available to them. In 1935
 Mission, posed to the Chinese people as a transaction, had trouble changing its premise. Converts having offered their faith, expected it to be supported. Toward converts the church functioned as a body which provided material support in exchange for religious devotion. Among the customary gifts of the mission were prayer books, beads and pictures. The giving of such gifts was deemed important enough that even when there was little money available, it was recognised that it was "not possible to abrogate the custom altogether\".[^106] As early as 1925, the mission was exploring how much monetary support they could ask for from their parishioners, an ask they felt was reasonable given that "many of them as pagans contributed a fair amount toward yearly superstitious rites\".[^107] The willingness of Catholics to support schools was noted but getting money for the upkeep of priests was a harder sell. One 1926 letter recommended "pressing down the screw gradually and insistently\" on parishioners seeing that they had "never been taught their obligation in this matter\" and had recently "got such an idea of the wealth of our society that \[money\] will be hard to get out of their hands\".[^108] It was not the case that the laity did not support the mission, they paid to maintain schools, they paid to support priests while they were with them and they paid for prayer books and rosaries, but the mission wanted to shift the cost of maintaining a priest "in a decent way\", an expense which in 1928 used up 40% of their budget, over to their parishioners.[^109] The implication of the word church was for converts entirely different than in Ireland where it denoted a community mutually supportive and grown over centuries.
 
 # Conclusion
+
 Mission work slowed in 1937, when the Japanese invaded. Missionaries in Japanese controlled areas were in 1942 ordered back to Hanyang.[^110] There was a resumption of mission work after 1944 which was quickly brought to a close when the Communists won the civil war 5 years later, after which the Columbans were driven from China, some immediately others after a period of imprisonment. Galvin left Hanyang in 1952 under the order of the government.[^111] The Columban missionaries left behind the communities they had served and fostered and the religious they had trained. The latter group especially suffered for their connection to the mission. The nuns and priests the Columbans had trained were imprisoned and interrogated. One Fr. Joseph Seng died in a Shanghai prison in 1953.[^112] Later some married and melted safely back into the masses, some joined the officially controlled government form of the church and others kept communion with Rome and went underground at great personal risk.
 
 The Columbans had struggled to gain traction against setbacks for about 30 years before being removed from China for reasons beyond their control. However close they came to Chinese people, however many confessions they heard, masses they gave, charitable works they performed, they never overcame their sense that China existed only for the purpose of conversion, that it was a stage for their spiritual drama. Such attitudes led to a fundamental lack of understanding of the people they served. At times, this was recognised. In 1941, a novice who the mission had put through high school, returned her habit to the mission. "My father couldn't afford to educate me\", she said, "so I became a sister. Now I have a high school diploma, so thank you\".[^113] With that she, a convert of four years, left. Galvin's response was, "after all the years we've been labouring among the Chinese, we don't understand them at all".[^114] He then had her habit burned.
@@ -146,7 +149,6 @@ In the 1980s, China opened up to foreign travellers and since then some Columban
 
 # Primary Sources
 
----
 # Columban Central Archive
 
 CN1/37 “Correspondence Re Finance,” February 23–December 22, 1922.
@@ -199,9 +201,10 @@ CN1/173 “‘Two Troubled Years: A Few Sidelights’,” [c.1931-1932].
 
 The Far East Magazine.
 
+---
+
 # Secondary Sources
 
----
 Andrews, Bridie. *The Making of Modern Chinese Medicine, 1850-1960.* Vancouver: UBC Press, 2014.
 
 Carey, Hilary M. “Overseas Missions.” Edited by Carmen Margaret Mangion and Susan O’Brien. In The Oxford History of British and Irish Catholicism, edited by James Edward Kelly and John McCafferty. Vol. IV. Oxford New York (N.Y.) Oxford university press, 2023.
@@ -219,6 +222,7 @@ Mungello, D. E. *The Catholic Invasion of China: Remaking Chinese Christianity.*
 Van de Ven, Hans J. *War and Nationalism in China, 1925-1945.* London ; New York: Routledge, 2003.
 
 ---
+
 [^1]: “CN1/147 Galvin Letters and Papers Regarding China” (June 25, 1912). This is a liberal paraphrase for effect.
 
 [^2]: Neil Collins, The Splendid Cause : The Missionary Society of St. Columban, 1916-1954 (Blackrock, Co. Dublin : Columba Press, 2009), 65.

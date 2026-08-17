@@ -8,6 +8,7 @@ date: 2025-2-26
 <div class="pageIntro">This is a research essay written for an undergraduate history class and that shows in analysis and style. Nonetheless the CAIR was at the time of writing an effectively unstudied organisation, so the essay might be of interest to some. PDF version can be found <a href="/assets/files/cairSketch.pdf">here</a>.</div>
 
 ---
+
 The Catholic Association For International Relations (CAIR), an Irish organisation founded in 1938, has been given no historical consideration beyond the footnote or the paragraph. This could not be called any great oversight. It left little imprint on Irish society nor an obvious body of archival material for historians to pore over. Primary evidence is scant and scattered across archives or embedded in newspapers. This essay brings together this material, comprising a small number of leaflets, pamphlets, books, lectures, letters and newspaper articles, and sketches the history of the CAIR starting with its first president Fr. Stephen Brown's early writings on international thought and his involvement in post World War I European Catholic organisations. Then the circumstances of the CAIR's foundation are outlined along with a discussion of it aims and philosophy based on pamphlets and printed lecture material. From there this essay charts the fortunes of the CAIR in a rough chronology using newspaper articles beginning with its activities and difficulties during the Emergency and ending with its seeming dissolution in the early 1960s. The scope of this essay is tightly bound by the available sources. More consideration is given to the early years of the organisation than its activities in the 1950s simply due to the lack of material for the latter period. So too are many of the conclusions speculative in the absence of internal reports or correspondences to confirm the organisation's motives. Attempts to connect the CAIR to its wider Irish context are similarly tentative. The primary aim of this essay is to outline a basic intellectual and organisational history of this previously unstudied topic while considering future avenues of research and to that end chronology and basic narrative have been prioritised.
 
 The prehistory of the CAIR begins with with Brown who was writing on national questions in the Jesuit journal *Studies* as early as 1912.[^1] In the following decade his focus shifted from the national to the international and in 1923 he published another essay in *Studies* titled *An International Enquiry concerning Nationalism* in which he summarised French speaking Catholic thinkers' responses to nationalism.[^2] The basic premise of these writings was that nationalism was "a legitimate and necessary force\" but needed to be tempered and controlled by religion.[^3] A concise exposition of the correct form of international relations was given by Maurice Blondel who stated "the mistake is to think that nations in order to maintain their nationhood must be so many egoisms in a state of constant hostility to one another\".[^4] Brown's work translating and publishing Catholic thought from continental Europe was part of his larger effort to intellectually integrate Irish Catholicism into the continental mainstream, later a fundamental goal of the CAIR.[^5]
@@ -52,8 +53,6 @@ This was an initial foray into the study of the CAIR. One blind spot of this stu
 
 # Primary Sources
 
----
-
 ## UCD Archives
 
 Papers of Desmond (1888--1947) and Mabel (1884--1957) FitzGerald,
@@ -86,9 +85,9 @@ Irish Press
 
 Irish Times
 
-# Bibliography
-
 ---
+
+# Bibliography
 
 Brown, Stephen J. “An International Enquiry Concerning Nationalism.” *Studies: An Irish Quarterly Review* 12, no. 46 (1923): 306–313.
 
@@ -115,8 +114,6 @@ Keogh, Dermot. *The Vatican, the Bishops, and Irish Politics, 1919-39.* Cambridg
 O’Sullivan, John Marcus. *”Some Elements of European Disorder” : Lecture Delivered at University College, Dublin, February 24, 1939.* Catholic Association for International Relations, 1939.
 
 Whyte, John Henry. *Church and State in Modern Ireland, 1923-1979.* Dublin. Barnes & Noble Books, 1980.
-
-# Footnotes
 
 ---
 
