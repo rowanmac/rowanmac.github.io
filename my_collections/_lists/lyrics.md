@@ -1,5 +1,4 @@
 ---
-
 title: Lyrics
 layout: page
 categories: note list
@@ -8,6 +7,7 @@ categories: note list
 <div class="pageIntro">Lines from songs. Emotional, funny, curious etc etc.</div>
 
 ---
+
 >And you know you gotta go<br>
 >On that train from Dublin up to Sandy Row<br>
 >Throwing pennies at the bridges down below<br>
@@ -63,6 +63,38 @@ categories: note list
 >If you're ever feeling blue then write another song about your dream of horses<br>
 ><br>
 >Judy and the Dream of Horses - Belle and Sebastian
+
+---
+
+>Pigs they tend to wiggle when they walk.<br>
+><br>
+>Stereo - Pavement
+
+---
+
+>I leave the party at 3 A.M<br>
+>Alone, thank God<br>
+>With a valium from the bride<br>
+>It's the devil I love<br>
+><br>
+>Hold On, Hold On - Neko Case
+
+---
+
+>I was burned out from exhaustion, buried in the hail<br>
+>Poisoned in the bushes and blown out on the trail<br>
+>Hunted like a crocodile, ravaged in the corn<br>
+><br>
+>Shelter from the Storm - Bob Dylan
+
+---
+
+>I'm going out of my mind, oh, oh<br>
+>With a pain that stops and starts<br>
+>Like a corkscrew to my heart<br>
+>Ever since we've been apart<br>
+><br>
+>You’re a Big Girl Now - Bob Dylan
 
 ---
 
