@@ -250,5 +250,6 @@ categories: note list
 | *18* | Within A Budding Grove | Marcel Proust | French | C.K. Scott Moncrieff, Terrence Kilmartin & D.J. Enright | 🇫🇷 |
 | *19* | The Impossible City | Karen Cheung | English | | 🇭🇰 |
 | *20* | The Count of Monte Cristo | Alexandre Dumas | French | Robin Buss | 🇫🇷 |
+| *21* | Brave New World | Aldous Huxley | English | | 🇬🇧 |
 
 {% include commentTemplate.md %}
