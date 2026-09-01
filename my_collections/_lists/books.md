@@ -251,5 +251,6 @@ categories: note list
 | *19* | The Impossible City | Karen Cheung | English | | 🇭🇰 |
 | *20* | The Count of Monte Cristo | Alexandre Dumas | French | Robin Buss | 🇫🇷 |
 | *21* | Brave New World | Aldous Huxley | English | | 🇬🇧 |
+| *22* | The Easy Life | Marguerite Duras | French | Emma Ramadan & Olivia Baes | 🇫🇷 |
 
 {% include commentTemplate.md %}
