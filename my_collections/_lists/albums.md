@@ -215,6 +215,7 @@ categories: note list
 | *26* | 幽灵的回访 | THE BOOTLEGS | 2021 | 19/07/2026 | 鬼 | 🇨🇳 |
 | *27* | Any Other City | Life Without Buildings | 2001 | 02/08/2026 | The Leanover | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 |
 | *28* | Tigermilk | Belle and Sebastian | 1996 | 02/08/2026 | She's Losing It | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 |
+| *29* | Moondance | Van Morrison | 1970 | 01/09/2026 | And It Stoned Me | 🇮🇪 |
 
 ---
 
