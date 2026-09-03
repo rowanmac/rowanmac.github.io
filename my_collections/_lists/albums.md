@@ -216,7 +216,6 @@ categories: note list
 | *27* | Any Other City | Life Without Buildings | 2001 | 02/08/2026 | The Leanover | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 |
 | *28* | Tigermilk | Belle and Sebastian | 1996 | 02/08/2026 | She's Losing It | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 |
 | *29* | Moondance | Van Morrison | 1970 | 01/09/2026 | And It Stoned Me | 🇮🇪 |
-
----
+| *30* | 森罗万象 | South Acid Mimi | 2026 | 03/09/2026 | 2571 | 🇨🇳 |
 
 {% include commentTemplate.md %}
