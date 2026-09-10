@@ -218,5 +218,7 @@ categories: note list
 | *29* | Moondance | Van Morrison | 1970 | 01/09/2026 | And It Stoned Me | 🇮🇪 |
 | *30* | 森罗万象 | South Acid Mimi | 2026 | 03/09/2026 | 2571 | 🇨🇳 |
 | *31* | ...and The I Wrote | Willie Nelson | 1962 | 08/09/2026 | Funny How Time Slips Away | 🇺🇸 |
+| *32* | Meeting With The Shadows | The Shadows | 1960 | 10/09/2026 | Apache | 🇬🇧 |
+| *33* | Songs From The Big Chair | Tears for Fears | 1985 | 10/09/2026 | Head Over Heels | 🇬🇧 |
 
 {% include commentTemplate.md %}
