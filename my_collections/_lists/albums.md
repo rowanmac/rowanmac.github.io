@@ -220,5 +220,6 @@ categories: note list
 | *31* | ...and The I Wrote | Willie Nelson | 1962 | 08/09/2026 | Funny How Time Slips Away | 🇺🇸 |
 | *32* | Meeting With The Shadows | The Shadows | 1960 | 10/09/2026 | Apache | 🇬🇧 |
 | *33* | Songs From The Big Chair | Tears for Fears | 1985 | 10/09/2026 | Head Over Heels | 🇬🇧 |
+| *34* | '迷 | 王菲 | 1994 | 11/09/2026 | 温柔 | 🇨🇳 |
 
 {% include commentTemplate.md %}
