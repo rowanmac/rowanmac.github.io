@@ -252,5 +252,6 @@ categories: note list
 | *20* | The Count of Monte Cristo | Alexandre Dumas | French | Robin Buss | 🇫🇷 |
 | *21* | Brave New World | Aldous Huxley | English | | 🇬🇧 |
 | *22* | The Easy Life | Marguerite Duras | French | Emma Ramadan & Olivia Baes | 🇫🇷 |
+| *23* | The Imagination of an Insurrection | William Irwin Thompson | English | | 🇺🇸 |
 
 {% include commentTemplate.md %}
