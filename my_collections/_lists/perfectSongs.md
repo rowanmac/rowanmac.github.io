@@ -76,6 +76,7 @@ categories: note list
 - Just Be Simple - Songs: Ohia
 - I Wish I Was the Moon - Neko Case
 - Caravan (Live at The Last Waltz) - Van Morrison
+- Try A Little Tenderness - Otis Redding
 
 ---
 
