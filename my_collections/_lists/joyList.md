@@ -52,6 +52,7 @@ categories: note list
 - [Superstitchous Throw Blankets](https://superstitchous.com/) Large, colourful, high quality, fruity throw blankets. Expensive and don't ship to Ireland. 
 - [Wolf and Moon Jewelry](https://www.wolfandmoon.com/en-ie) Nice jewellery brand.
 - [Buy Music Club](https://www.buymusic.club/) Buy Music Club is a place for creating and browsing lists of independent music purchasable on Bandcamp.
+- [History of Philosophy Podcast](https://historyofphilosophy.net/) A good, and really really comprehensive podcast of all of Philosophy (no really!)
 
 # Blogs, Podcasts & etc
 - [Low Tech Magazine](https://solar.lowtechmagazine.com/) The solar powered website of a great magazine, imagining how to live sustainably and beautifully with homebrew tech.
