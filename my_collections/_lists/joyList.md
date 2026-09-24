@@ -44,6 +44,7 @@ categories: note list
 - [Thawra Project](https://thawraproject.com/) Free podcast episodes and learning materials from the Dig's series on 20th century Arab radicalism. This website is all the promise of the internet realised.
 - [Techno-optimism Archive](https://technooptimism.org/archive/) Collection of primary source clippings about techno-optimism
 - [John Peel Sessions](https://davestrickson.blogspot.com/2020/05/john-peel-sessions.html) Blog post listing Peel sessions by band name with youtube links.
+- [Every Object An Archive](https://www.everyobject.org/) Research project detailing the social and material histories of outmoded modern technologies.
 
 
 # Shopping
