@@ -46,7 +46,6 @@ categories: note list
 - [John Peel Sessions](https://davestrickson.blogspot.com/2020/05/john-peel-sessions.html) Blog post listing Peel sessions by band name with youtube links.
 - [Every Object An Archive](https://www.everyobject.org/) Research project detailing the social and material histories of outmoded modern technologies.
 
-
 # Shopping
 - [Areaware](https://www.areaware.com/) Cute (and expensive) homegoods with playful designs.
 - [Lithograph Blankets](https://www.litographs.com/collections/blankets) Literary themed blankets, a little twee but nice.

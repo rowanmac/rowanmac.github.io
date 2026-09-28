@@ -180,6 +180,7 @@ Key:<br>
 - [Archiseek](https://www.archiseek.com/) Online catalogue of Irish Architecture.
 - [Century Ireland](https://www.rte.ie/centuryireland/) Website produced by RTE for the decade of centenaries, with many articles and videos relating to the revolutionary period.
 - [Stories of the Four Courts](https://ruthcannon.com/) Wonderful Irish legal history blog.
+- [Historic Environment Viewer](https://www.archaeology.ie/advice-and-support/locate-a-monument-or-wreck/historic-environment-viewer/) An Ireland-wide map of sites with archaeological and historical significance composed from the datasets of the National Monuments Service and the National Inventory of Architectural Heritage.
 
 ---
 
