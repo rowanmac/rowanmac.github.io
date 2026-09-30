@@ -101,8 +101,17 @@ categories: note list
 >If I was crying<br>
 >In the van, with my friend<br>
 >It was for freedom<br>
->From myself and from the land
+>From myself and from the land<br>
 ><br>
 >Chicago - Sufjan Stevens
+
+---
+
+>Me, I dream of life<br>
+>Have that dream every night<br>
+><br>
+>Heaven Sings - Bladee & Ecco2k
+
+---
 
 {% include commentTemplate.md %}
