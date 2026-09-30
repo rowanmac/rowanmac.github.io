@@ -98,4 +98,11 @@ categories: note list
 
 ---
 
+>If I was crying<br>
+>In the van, with my friend<br>
+>It was for freedom<br>
+>From myself and from the land
+><br>
+>Chicago - Sufjan Stevens
+
 {% include commentTemplate.md %}
