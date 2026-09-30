@@ -221,5 +221,6 @@ categories: note list
 | *32* | Meeting With The Shadows | The Shadows | 1960 | 10/09/2026 | Apache | 🇬🇧 |
 | *33* | Songs From The Big Chair | Tears for Fears | 1985 | 10/09/2026 | Head Over Heels | 🇬🇧 |
 | *34* | '迷 | 王菲 | 1994 | 11/09/2026 | 温柔 | 🇨🇳 |
+| *35* | The Rise and Fall of Ziggy Stardust and the Spiders From Mars | David Bowie | 1972 | 30/09/2026 | Lady Stardust | 🇬🇧 |
 
 {% include commentTemplate.md %}
