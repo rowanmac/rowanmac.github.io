@@ -222,5 +222,7 @@ categories: note list
 | *33* | Songs From The Big Chair | Tears for Fears | 1985 | 10/09/2026 | Head Over Heels | 🇬🇧 |
 | *34* | '迷 | 王菲 | 1994 | 11/09/2026 | 温柔 | 🇨🇳 |
 | *35* | The Rise and Fall of Ziggy Stardust and the Spiders From Mars | David Bowie | 1972 | 30/09/2026 | Lady Stardust | 🇬🇧 |
+| *36* | choke enough | Oklou | 2025 | 01/10/2026 | blade bird | 🇫🇷 |
+| *37* | Amalgamate | 33EMYBW | 2026 | 01/10/2026 | 降虫会 Séance of Bugs | 🇨🇳 |
 
 {% include commentTemplate.md %}
