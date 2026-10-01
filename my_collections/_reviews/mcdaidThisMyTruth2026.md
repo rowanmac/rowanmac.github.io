@@ -31,5 +31,8 @@ title: "\u2018This is my truth, tell me yours\u2019: lived experiences and the N
   \ Ireland conflict"
 title-short: "\u2018This is my truth, tell me yours\u2019"
 type: article-journal
+workReviewed: "Death in the fields the IRA and East Tyrone. Deniable contact back-channel\
+  \ negotiation in Northern Ireland. The disappeared the hidden victims of Northern\
+  \ Ireland\u2019s conflict."
 ---
 {% include reviewPageTemplate.html %}
