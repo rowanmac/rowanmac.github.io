@@ -77,6 +77,7 @@ categories: note list
 - I Wish I Was the Moon - Neko Case
 - Caravan (Live at The Last Waltz) - Van Morrison
 - Try A Little Tenderness - Otis Redding
+- The Predatory Wasp of the Palisades Is Out to Get Us! - Sufjan Stevens
 
 ---
 
