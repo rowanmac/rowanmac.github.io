@@ -224,5 +224,6 @@ categories: note list
 | *35* | The Rise and Fall of Ziggy Stardust and the Spiders From Mars | David Bowie | 1972 | 30/09/2026 | Lady Stardust | 🇬🇧 |
 | *36* | choke enough | Oklou | 2025 | 01/10/2026 | blade bird | 🇫🇷 |
 | *37* | Amalgamate | 33EMYBW | 2026 | 01/10/2026 | 降虫会 Séance of Bugs | 🇨🇳 |
+| *38* | Nobody Loves You More | 2024 | 03/10/2026 | Disobedience | 🇺🇸 |
 
 {% include commentTemplate.md %}
