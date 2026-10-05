@@ -253,5 +253,6 @@ categories: note list
 | *21* | Brave New World | Aldous Huxley | English | | 🇬🇧 |
 | *22* | The Easy Life | Marguerite Duras | French | Emma Ramadan & Olivia Baes | 🇫🇷 |
 | *23* | The Imagination of an Insurrection | William Irwin Thompson | English | | 🇺🇸 |
+| *24* | Maria | Mary Wollstonecraft | English | | 🇬🇧 |
 
 {% include commentTemplate.md %}
