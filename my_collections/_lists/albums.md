@@ -225,5 +225,6 @@ categories: note list
 | *36* | choke enough | Oklou | 2025 | 01/10/2026 | blade bird | 🇫🇷 |
 | *37* | Amalgamate | 33EMYBW | 2026 | 01/10/2026 | 降虫会 Séance of Bugs | 🇨🇳 |
 | *38* | Nobody Loves You More | 2024 | 03/10/2026 | Disobedience | 🇺🇸 |
+| *39* | Both Sides Now | Willie Nelson | 1970 | 05/10/2026 | I Gotta Get Drunk | 🇺🇸 |
 
 {% include commentTemplate.md %}
