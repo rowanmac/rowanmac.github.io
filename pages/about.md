@@ -15,10 +15,10 @@ permalink: /about/
 
 # Status
 Rowan is:
+- 18/10/2026 Getting ready to move to Dublin.
+- 10/09/2026 Catsitting.
 - 15/08/2026 Going to start thinking about beginning the planning stages of drafting a proposal for a research project which may or may not have the potential to become the rough outline of something more substantial.
 - 09/08/2026 On the dole and fanatically cleaning his mother's house.
-- 10/09/2026 Catsitting.
-- 18/10/2026 Getting ready to move to Dublin.
 
 # Contact
 <a href="mailto:rowanmacconville@gmail.com">rowanmacconville@gmail.com</a>
