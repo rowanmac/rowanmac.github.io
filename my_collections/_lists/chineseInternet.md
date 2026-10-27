@@ -77,6 +77,7 @@ categories: note list
 - [Harvard Library Research Guide for Chinese History](https://guides.library.harvard.edu/c.php?g=310134) Exactly what it says in the name. Many of these databases are not accessible to the general public however. 英文
 - [88zhibo](https://www.88zhibo.tv/) Sports streaming :)
 - [Chinese StackExchange Resource List](https://chinese.stackexchange.com/questions/1120/resources-for-learning-mandarin-chinese) Comprehensive resource list for Chinese learning materials. Some links now dead. 英文
+- [Baúl Chino](https://www.baulchino.com/) Treasure trove of free HSK materials. 英文
 
 ---
 
