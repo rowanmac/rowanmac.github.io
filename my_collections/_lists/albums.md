@@ -227,5 +227,7 @@ categories: note list
 | *38* | Nobody Loves You More | Kim Deal | 2024 | 03/10/2026 | Disobedience | 🇺🇸 |
 | *39* | Both Sides Now | Willie Nelson | 1970 | 05/10/2026 | I Gotta Get Drunk | 🇺🇸 |
 | *40* | My Little Eyes | MyLittleEyes | 2026 | 18/10/2026 | 雨滴 | 🇨🇳 |
+| *41* | Folding Story / 折叠故事 | 法兹 | 2022 | 01/11/2026 | Delingha 冷山 | 🇨🇳 |
+| *42* | Tribalistas | Tribalistas | 2002 | 02/11/2026 | Mary Cristo | 🇧🇷 |
 
 {% include commentTemplate.md %}
