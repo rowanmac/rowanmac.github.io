@@ -3,7 +3,7 @@ import os
 import sys
 import yaml
 import re
-import sys 
+import sys
 # A function to import individual pages for published material from obsidian,
 # extract their YAML data and put them in the correct directory within the JEKYLL site
 def importBibliography(YYYYMMFilePath, destinationDirectory):
