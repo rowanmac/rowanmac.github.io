@@ -229,5 +229,7 @@ categories: note list
 | *40* | My Little Eyes | MyLittleEyes | 2026 | 18/10/2026 | 雨滴 | 🇨🇳 |
 | *41* | Folding Story / 折叠故事 | 法兹 | 2022 | 01/11/2026 | Delingha 冷山 | 🇨🇳 |
 | *42* | Tribalistas | Tribalistas | 2002 | 02/11/2026 | Mary Cristo | 🇧🇷 |
+| *43* | Nilsson Schmilsson | Harry Nilsson | 1971 | 14/11/2026 | Without You | 🇺🇸 |
+| *44* | Pink Flag | Wire | 1977 | 15/11/2026 | | 🇬🇧 |
 
 {% include commentTemplate.md %}
