@@ -231,5 +231,6 @@ categories: note list
 | *42* | Tribalistas | Tribalistas | 2002 | 02/11/2026 | Mary Cristo | 🇧🇷 |
 | *43* | Nilsson Schmilsson | Harry Nilsson | 1971 | 14/11/2026 | Without You | 🇺🇸 |
 | *44* | Pink Flag | Wire | 1977 | 15/11/2026 | | 🇬🇧 |
+| *45* | Echo | Ecco2k | 2026 | 23/11/2026 | Sky Burial | 🇸🇪 |
 
 {% include commentTemplate.md %}
